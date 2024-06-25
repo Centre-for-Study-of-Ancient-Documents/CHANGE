@@ -1,0 +1,76 @@
+<div class="col-md-6">
+    <small>
+        Displaying records {{((page - 1) * 10) + 1}} to {{ page*10 }} of {{ "{:,.0f}".format((res|length) * total_pages) }} total results.
+    </small>
+</div>
+<div class="col-md-6 page-nos">
+    <nav class="float-end">
+        <ul class="pagination pagination-sm">
+            <!-- Previous button -->
+            {% if page > 1 %}
+            <li class="page-item">
+                <a class="page-link" href="{{ url_for('results', page=page-total_pages+1) }}{{ '&' if request.args else '' }}{{request.args.to_dict() | urlencode }}" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href="{{ url_for('results', page=page-1) }}{{ '&' if request.args else '' }}{{request.args.to_dict() | urlencode }}" aria-label="Previous">
+                    <span aria-hidden="true">&lt;</span>
+                </a>
+            </li>
+            {% else %}
+            <li class="page-item disabled">
+                <a class="page-link" href="#" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            <li class="page-item disabled">
+                <a class="page-link" href="#" aria-label="Previous">
+                    <span aria-hidden="true">&lt;</span>
+                </a>
+            </li>
+            {% endif %}
+
+            <!-- Page number buttons -->
+            {% for p in page_numbers %}
+            {% if p == '...' %}
+            <li class="page-item disabled"><a class="page-link" href="#">{{ p }}</a></li>
+            {% elif p == page %}
+            <li class="page-item active"><a class="page-link" href="#">{{ p }}</a></li>
+            {% elif not 'page' in request.args.to_dict() and  not 'q' in request.args.to_dict() %}
+            <li class="page-item"><a class="page-link" href="{{ url_for('results', page=p) }}">{{ p }}</a></li>
+            {% elif not 'page' in request.args.to_dict() and 'q' in request.args.to_dict() %}
+            <li class="page-item"><a class="page-link" href="{{ url_for('results', page=p) }}{{ '&' if request.args else '' }}{{request.args.to_dict() | urlencode }}">{{ p }}</a></li>
+            {% else %}
+            {% set mydict = request.args.to_dict() %}
+            {% set r =  mydict.pop('page') %}
+            <li class="page-item"><a class="page-link" href="{{ url_for('results', page=p) }}{{ '&' if request.args else '' }}{{mydict | urlencode }}">{{ p }}</a></li>
+            {% endif %}
+            {% endfor %}
+
+            <!-- Next button -->
+            {% if page < total_pages %} <li class="page-item">
+                <a class="page-link" href="{{ url_for('results', page=page+1) }}{{ '&' if request.args else '' }}{{request.args.to_dict() | urlencode }}" aria-label="Next">
+                    <span aria-hidden="true">&gt;</span>
+                </a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="{{ url_for('results', page=total_pages) }}{{ '&' if request.args else '' }}{{request.args.to_dict() | urlencode }}" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+                {% else %}
+                <li class="page-item disabled">
+                    <a class="page-link" href="#" aria-label="Next">
+                        <span aria-hidden="true">&gt;</span>
+                    </a>
+                </li>
+                <li class="page-item disabled">
+                    <a class="page-link" href="#" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+                {% endif %}
+        </ul>
+    </nav>
+</div>

@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1> Results </h1>
+<p>will go here.</p>
+<br>
+{% for item in res %} 
+<div>
+  {{ item.city}}: {{item.date_from}} - {{item.date_to}}  {{item.description}} 
+</div>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,2732 @@
+<add>
+ <doc>
+  <field name="id">item-02.6</field>
+  <field name="region">Isauria</field>
+  <field name="city">Syedra</field>
+  <field name="place_of_publication">http://nomisma.org/id/syedra</field>
+  <field name="lat">36.4464809</field>
+  <field name="long">32.1489653</field>
+  <field name="reference">SEG 41</field>
+  <field name="reference_num">1411</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-100</field>
+  <field name="date_to">0</field>
+  <field name="description">Inscribed oracle from Klaros (re-inscribed in imperial period)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/295208?bookid=549&amp;location=1582 </field>
+  <field name="phi_id">295208</field>
+  <field name="doc_type">RECORD (ORACLE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines">ll. 3-6</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Syedrans instructed by the god to set up a statue of Ares being flogged by Hermes and Justice to ward off pirates.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.7</field>
+  <field name="region">Isauria</field>
+  <field name="city">Syedra</field>
+  <field name="place_of_publication">http://nomisma.org/id/syedra</field>
+  <field name="lat">36.4464809</field>
+  <field name="long">32.1489653</field>
+  <field name="reference">SEG 41</field>
+  <field name="reference_num">1411</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-100</field>
+  <field name="date_to">0</field>
+  <field name="description">Inscribed oracle from Klaros (re-inscribed in imperial period)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/295208?bookid=549&amp;location=1582 </field>
+  <field name="phi_id">295208</field>
+  <field name="doc_type">RECORD (ORACLE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">MILITARY CAMPAIGN</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 10-12</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Prophecy of a war with pirates that presumably took place.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.10</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1426</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-238</field>
+  <field name="date_to">-230</field>
+  <field name="description">Decree of Nagidos granting territory and isopoliteia to Arsinoe, as copied in a letter of Thraseas to Arsinoe</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286963?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286963</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">GIFT</field>
+  <field name="purpose">PROPERTY (LAND)</field>
+  <field name="context">LAND DISTRIBUTION</field>
+  <field name="lines">ll. 24-31</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Nagidos grants public land to settlers of Arsinoe at request of Thraseas.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.11</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1426</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-238</field>
+  <field name="date_to">-230</field>
+  <field name="description">Decree of Nagidos granting territory and isopoliteia to Arsinoe, as copied in a letter of Thraseas to Arsinoe</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286963?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286963</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">CULT</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines">ll. 32-33</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">People of Arsinoe to pay the same honours to Ptolemy and Arsinoe.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.12</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1426</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-238</field>
+  <field name="date_to">-230</field>
+  <field name="description">Decree of Nagidos granting territory and isopoliteia to Arsinoe, as copied in a letter of Thraseas to Arsinoe</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286963?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286963</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">IMPERIAL</field>
+  <field name="lines">l. 33</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">People of Arsinoe to pay the taxes from their own means.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.13</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1426</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-238</field>
+  <field name="date_to">-230</field>
+  <field name="description">Decree of Nagidos granting territory and isopoliteia to Arsinoe, as copied in a letter of Thraseas to Arsinoe</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286963?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286963</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">SACRIFICES</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines">ll. 35-40</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.14</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1426</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-238</field>
+  <field name="date_to">-230</field>
+  <field name="description">Decree of Nagidos granting territory and isopoliteia to Arsinoe, as copied in a letter of Thraseas to Arsinoe</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286963?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286963</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">PENALTY</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 40-45</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination">DRACHMA</field>
+  <field name="notes">Fines for disputing the land arrangements of the decree, 10,000 drachmas for an archon, and 1,000 drachmas for a speaker.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.15</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1426</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-238</field>
+  <field name="date_to">-230</field>
+  <field name="description">Decree of Nagidos granting territory and isopoliteia to Arsinoe, as copied in a letter of Thraseas to Arsinoe</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286963?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286963</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">LITIGATION</field>
+  <field name="context">ARBITRATION</field>
+  <field name="lines">ll. 45-52</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Arrangments for disputes and reparation payments between Nagideans and Arsinoans.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.16</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1426</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-238</field>
+  <field name="date_to">-230</field>
+  <field name="description">Decree of Nagidos granting territory and isopoliteia to Arsinoe, as copied in a letter of Thraseas to Arsinoe</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286963?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286963</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLICATION</field>
+  <field name="context"></field>
+  <field name="lines">ll. 52-56</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.17</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 43</field>
+  <field name="reference_num">997</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-350</field>
+  <field name="date_to">-300</field>
+  <field name="description">Dedication by the Nagidian people</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.18</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 43</field>
+  <field name="reference_num">998</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-294</field>
+  <field name="date_to">-270</field>
+  <field name="description">Fragmentary decree mentioning the Mallians</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">NON-HONORIFIC DECREE</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.19</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 59</field>
+  <field name="reference_num">1588</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Honorific statue-base for Antipatros</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.20</field>
+  <field name="region">Isauria</field>
+  <field name="city">Nagidos</field>
+  <field name="place_of_publication">http://nomisma.org/id/nagidus</field>
+  <field name="lat">36.0962736</field>
+  <field name="long">32.9758287</field>
+  <field name="reference">SEG 59</field>
+  <field name="reference_num">1589</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Funerary inscription</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.25</field>
+  <field name="region">Isauria</field>
+  <field name="city">From Meydancikkale</field>
+  <field name="place_of_publication">https://www.geonames.org/12217703/meydancikkale.html </field>
+  <field name="lat">36.29864</field>
+  <field name="long">33.43132</field>
+  <field name="reference">SEG 31</field>
+  <field name="reference_num">1321</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338   </field>
+  <field name="date_from">-240</field>
+  <field name="date_to">-240</field>
+  <field name="description">Dedication to Hermes and Herakles on behalf of Ptolemy III and Berenike and their children</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286885?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286885</field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.31</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 1-11</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of Argos for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285464?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285464</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 5-6</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Grant of ateleia.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.32</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 1-11</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of Argos for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285464?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285464</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLICATION</field>
+  <field name="context"></field>
+  <field name="lines">ll. 10-11</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.33</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 12-15</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Abbreviated honorific and proxeny decree of Rhodes for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285465?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285465</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.34</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 15-18</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Abbreviated honorific and proxeny decree of Rhodes for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285466?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285466</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.35</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 18-21</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Abbreviated honorific and proxeny decree of Rhodes for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285467?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285467</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.36</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 21-27</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Decree of Rhodes on obtaining naval support</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285468?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285468</field>
+  <field name="doc_type">NON-HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">EMBASSY</field>
+  <field name="context"></field>
+  <field name="lines">ll. 21-27</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.37</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 21-27</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Decree of Rhodes on obtaining naval support</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285468?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285468</field>
+  <field name="doc_type">NON-HONORIFIC DECREE</field>
+  <field name="authority">HELLENISTIC MONARCH</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">MILITARY SERVICE</field>
+  <field name="context">IMPERIAL</field>
+  <field name="lines">ll. 23-27</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Eudemos asked to fulfill the promised gifts to the city to its naval power, presumably ships and money.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.38</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 28-33</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of the Boiotians for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 29-31</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Grant of isoteleia.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.39</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 34-64</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decrees of Byzantion for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">EMBASSY</field>
+  <field name="context"></field>
+  <field name="lines">ll. 34-36, 55-57</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.40</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 34-64</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decrees of Byzantion for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLICATION</field>
+  <field name="context"></field>
+  <field name="lines">ll. 47-49</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.41</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 34-64</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decrees of Byzantion for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 60-61</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination">HEKATOSTE</field>
+  <field name="notes">Eudemos to have the choice of being included in the hekatostos/hekatoste, a 1/100 (1%) tax.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.42</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 34-64</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decrees of Byzantion for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLICATION</field>
+  <field name="context"></field>
+  <field name="lines">ll. 61-64</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.43</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 65-80</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of Kalchedon for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">CROWN</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines">ll. 68-71</field>
+  <field name="material">GOLD</field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.44</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 65-80</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of Kalchedon for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 71-72</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Grant of isoteleia.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.45</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 65-80</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of Kalchedon for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285469?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285469</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">EMBASSY</field>
+  <field name="context"></field>
+  <field name="lines">ll. 75-80</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.46</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 81-93 </field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of Kyzikos for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285470?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285470</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAX-IMMUNITY</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 90-92</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Grant of ateleia.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.47</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Westkilikien Rep.</field>
+  <field name="reference_num">Sel 63S ll. 81-93 </field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000043650</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of Kyzikos for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285470?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285470</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLICATION</field>
+  <field name="context"></field>
+  <field name="lines">ll. 92-93</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.48</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">p. 115</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850 </field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Honorific decree of an unknown city for a citizen of Byzantion, perhaps Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285470?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285470</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">CROWN</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines">ll. 6-7</field>
+  <field name="material">GOLD</field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.49</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Lampsakos</field>
+  <field name="reference_num">Lampsakos 6</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000161959</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Fragment of a Lampsakene decree from the stele for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/287500?bookid=715&amp;location=1631 </field>
+  <field name="phi_id">287500</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLICATION</field>
+  <field name="context"></field>
+  <field name="lines">ll. 8-10</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.50</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">I.Lampsakos</field>
+  <field name="reference_num">Lampsakos 6</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000161959</field>
+  <field name="date_from">-170</field>
+  <field name="date_to">-170</field>
+  <field name="description">Fragment of a Lampsakene decree from the stele for Eudemos son of Nikon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/287500?bookid=715&amp;location=1631 </field>
+  <field name="phi_id">287500</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">PROPERTY RIGHTS (ἔγκτησις)</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">l. 17</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Right to purchase property.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.51</field>
+  <field name="region">Isauria</field>
+  <field name="city">Seleukeia on the Kalykadnos</field>
+  <field name="place_of_publication">http://nomisma.org/id/seleuceia_ad_calycadnum</field>
+  <field name="lat">36.381739</field>
+  <field name="long">33.927572</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">184</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850 </field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Funerary epigram for Sunphoros</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285462?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285462</field>
+  <field name="doc_type">FUNERARY INSCRIPTION (EPIGRAM)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.54</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">62</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-83</field>
+  <field name="date_to">-63</field>
+  <field name="description">Private honorific statue-base for Hermias set up by king Philipp I of Syria</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285909?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285909</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.55</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">62</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-83</field>
+  <field name="date_to">-63</field>
+  <field name="description">Private honorific statue-base for Hermias set up by king Philipp I of Syria</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285909?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285909</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">HELLENISTIC MONARCH</field>
+  <field name="activity">GIFT</field>
+  <field name="purpose">GIFT</field>
+  <field name="context"></field>
+  <field name="lines">ll. 4-6</field>
+  <field name="material"></field>
+  <field name="nature">GOLD</field>
+  <field name="denomination">CHRUSOS</field>
+  <field name="notes">Mention of Hermias possessing a necklace (maniakes) worth 100 chrusoi, perhaps as a sort of court rank.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.56</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">63</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Private honorific statue-base for Hermias set up by the high-priest of Zenophanes</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285910?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285910</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.57</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">64</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Private honorific statue-base for Trebemis set up by the high-priest of Zenophanes</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285911?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285911</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.58</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">65</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Honorific statue-base for the high-priest Zenophanes set up by the people of Antioch (?)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285912?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285912</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.59</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">66</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Private honorific statue-base for Teukros set up by the high-priest of Zenophanes</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285913?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285913</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.60</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">67</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Private honorific statue-base for an Olban citizen set up by the high-priest of Zenophanes</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285914?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285914</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.61</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">68</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Honorific statue-base for Zenophanes the high-priest set up by the people of Olba and the Kannatai</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285915?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285915</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.62</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">MAMA III</field>
+  <field name="reference_num">69</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000160762</field>
+  <field name="date_from">-130</field>
+  <field name="date_to">-30</field>
+  <field name="description">Funerary inscription</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285916?bookid=694&amp;location=1662 </field>
+  <field name="phi_id">285916</field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.63</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">11A</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">200</field>
+  <field name="description">List of names</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285559?&amp;bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285559</field>
+  <field name="doc_type">LIST (NAMES)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.64</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">166</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Dedication of high-priest Teukros for the renovation of a roof first built by Seleukos I</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285445?&amp;bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285445</field>
+  <field name="doc_type">DEDICATION (ARCHITECTURAL)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.65</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">167</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Dedication (?) dated to the priesthood of Teukros and the epistates Tberemosis son of Orbalassetas</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285446?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285446</field>
+  <field name="doc_type">DEDICATION (ARCHITECTURAL)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.66</field>
+  <field name="region">Isauria</field>
+  <field name="city">Diokaisareia-Olba (area of Uzuncaburç)</field>
+  <field name="place_of_publication">http://nomisma.org/id/diocaesareia_cilicia</field>
+  <field name="lat">36.58519</field>
+  <field name="long">33.956685</field>
+  <field name="reference">SEG 26</field>
+  <field name="reference_num">1451</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-100</field>
+  <field name="date_to">-70</field>
+  <field name="description">Honorific statue-base for Zenas the high-priest set up by the people of Olba and the Kanuatai (?)</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.69</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">155</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-230</field>
+  <field name="date_to">-30</field>
+  <field name="description">List of priests of the temple of Zeus</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285434?&amp;bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285434</field>
+  <field name="doc_type">LIST (OFFICIALS)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.70</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">Hicks, JHS 12 (1891)</field>
+  <field name="reference_num">238 n. 22</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000057314</field>
+  <field name="date_from">-300</field>
+  <field name="date_to">-200</field>
+  <field name="description">Funerary inscription for Mos set up by his wife and son</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285724?bookid=145&amp;location=1661</field>
+  <field name="phi_id">285724</field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.71</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">Durugönül (1998)</field>
+  <field name="reference_num">51</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000041879 </field>
+  <field name="date_from">-300</field>
+  <field name="date_to">-100</field>
+  <field name="description">Dedication of a fortified tower dated by the damiourgos Artemidoros</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (ARCHITECTURAL)</field>
+  <field name="authority">UNCERTAIN</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">CONSTRUCTION</field>
+  <field name="context">MILITARY</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.72</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">SEG 34</field>
+  <field name="reference_num">1405</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-325</field>
+  <field name="date_to">-300</field>
+  <field name="description">Marks on a marble block with a relief of two women on mules and four standing women</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">UNCERTAIN</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.73</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">SEG 53</field>
+  <field name="reference_num">1739</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Funerary inscription</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.74</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">SEG 58</field>
+  <field name="reference_num">1655</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Dedication to Zeus Kodopaios</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.75</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">SEG 58</field>
+  <field name="reference_num">1656</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Dedication to Zeus Kodopas</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.76</field>
+  <field name="region">Isauria</field>
+  <field name="city">Korykos</field>
+  <field name="place_of_publication">http://nomisma.org/id/corycus</field>
+  <field name="lat">36.467249</field>
+  <field name="long">34.148625</field>
+  <field name="reference">SEG 66</field>
+  <field name="reference_num">1851</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Dedication to Athena Oreia</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.78</field>
+  <field name="region">Isauria</field>
+  <field name="city">Elaioussa-Sebaste</field>
+  <field name="place_of_publication">http://nomisma.org/id/elaeusa</field>
+  <field name="lat">36.483812</field>
+  <field name="long">34.174114</field>
+  <field name="reference">Hicks, JHS 12 (1891)</field>
+  <field name="reference_num">237 n. 18</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000057314</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Funerary inscription dated to the priesthood of Hermogenes</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285721?bookid=145&amp;location=1661 </field>
+  <field name="phi_id">285721</field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.79</field>
+  <field name="region">Isauria</field>
+  <field name="city">Elaioussa-Sebaste</field>
+  <field name="place_of_publication">http://nomisma.org/id/elaeusa</field>
+  <field name="lat">36.483812</field>
+  <field name="long">34.174114</field>
+  <field name="reference">SEG 54</field>
+  <field name="reference_num">1497</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Dedication to Athena Oreia</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.80</field>
+  <field name="region">Isauria</field>
+  <field name="city">Elaioussa-Sebaste</field>
+  <field name="place_of_publication">http://nomisma.org/id/elaeusa</field>
+  <field name="lat">36.483812</field>
+  <field name="long">34.174114</field>
+  <field name="reference">SEG 54</field>
+  <field name="reference_num">1498</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Dedication to Athena Oreia</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.81</field>
+  <field name="region">Isauria</field>
+  <field name="city">Elaioussa-Sebaste</field>
+  <field name="place_of_publication">http://nomisma.org/id/elaeusa</field>
+  <field name="lat">36.483812</field>
+  <field name="long">34.174114</field>
+  <field name="reference">SEG 54</field>
+  <field name="reference_num">1499</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Dedication to Athena Oreia</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.85</field>
+  <field name="region">Isauria</field>
+  <field name="city">Kanytellis</field>
+  <field name="place_of_publication">https://pleiades.stoa.org/places/648663 </field>
+  <field name="lat">36.5266</field>
+  <field name="long">34.1794605</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">121-122</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-200</field>
+  <field name="description">Dedication to Zeus Olbios by Tarkyarios dated to the year of the epistates Pleistarchos (?)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285397?&amp;bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285397</field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.89</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">23bis</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-375</field>
+  <field name="date_to">-350</field>
+  <field name="description">Funerary inscription</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285573?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285573</field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.91</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">OGIS</field>
+  <field name="reference_num">230</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000829662</field>
+  <field name="date_from">-197</field>
+  <field name="date_to">-188</field>
+  <field name="description">Dedication to Hermes, Herakles and Antiochos III the Great by Ptolemaios son of Thraseas</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.93</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">101</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-230</field>
+  <field name="date_to">-200</field>
+  <field name="description">Fragment of a letter of Antiochos III on the misbehaviour of billeting soldiers, and civic obligations?</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285382?&amp;bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285382</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">HELLENISTIC MONARCH</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">IMPERIAL</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Mention of the oppression of the city by troops, when it had been exempt from billeting since the time of Alexander the Great, probably as a background to a grant of remission from such obligations.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.94</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">SEG 37</field>
+  <field name="reference_num">1332</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-375</field>
+  <field name="date_to">-350</field>
+  <field name="description">Funerary inscription for Philokalos and Choirine</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.95</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">SEG 51</field>
+  <field name="reference_num">1863</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-240</field>
+  <field name="date_to">-230</field>
+  <field name="description">Rhodian amphora stamp</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">INSCRIBED VESSEL</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.96</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">SEG 67</field>
+  <field name="reference_num">1283</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-300</field>
+  <field name="date_to">-100</field>
+  <field name="description">Funerary inscription for two Kretans</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.97</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">SEG 67</field>
+  <field name="reference_num">1284</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-100</field>
+  <field name="date_to">0</field>
+  <field name="description">Funerary inscription</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.98</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">Peek, GVI</field>
+  <field name="reference_num">502</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000772324</field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Funerary epigram for the sons of Alexagoras</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION (EPIGRAM)</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.99</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">Laflı, AS 67 (2017)</field>
+  <field name="reference_num">149-150 n. 1</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/001513479 </field>
+  <field name="date_from">-370</field>
+  <field name="date_to">-100</field>
+  <field name="description">Funerary inscription of Soteira and Parmenion</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.100</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Soloi-Pompeiopolis</field>
+  <field name="place_of_publication">http://nomisma.org/id/soli-pompeiopolis</field>
+  <field name="lat">36.7426583</field>
+  <field name="long">34.5378936</field>
+  <field name="reference">Laflı, AS 67 (2017)</field>
+  <field name="reference_num">153-155 n. 5</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/001513479 </field>
+  <field name="date_from">-100</field>
+  <field name="date_to">0</field>
+  <field name="description">Funerary inscription for Glaukos</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.104</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Tarsos (Antiocheia ad Cydnum)</field>
+  <field name="place_of_publication">http://nomisma.org/id/tarsus</field>
+  <field name="lat">36.916667</field>
+  <field name="long">34.9</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">8</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Funerary inscription</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285291?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285291</field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.105</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Tarsos (Antiocheia ad Cydnum)</field>
+  <field name="place_of_publication">http://nomisma.org/id/tarsus</field>
+  <field name="lat">36.916667</field>
+  <field name="long">34.9</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">9</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Funerary inscription</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285292?bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285292</field>
+  <field name="doc_type">FUNERARY INSCRIPTION</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.109</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Adana</field>
+  <field name="place_of_publication">http://nomisma.org/id/adana</field>
+  <field name="lat">36.986559</field>
+  <field name="long">35.338677</field>
+  <field name="reference">SEG 61</field>
+  <field name="reference_num">1310</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-130</field>
+  <field name="date_to">-70</field>
+  <field name="description">Graffito on a plate</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">GRAFFITO</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.110</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Adana</field>
+  <field name="place_of_publication">http://nomisma.org/id/adana</field>
+  <field name="lat">36.986559</field>
+  <field name="long">35.338677</field>
+  <field name="reference">SEG 64</field>
+  <field name="reference_num">1464</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-330</field>
+  <field name="date_to">-30</field>
+  <field name="description">Inscribed weight</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">INSCRIBED WEIGHT</field>
+  <field name="authority"></field>
+  <field name="activity"></field>
+  <field name="purpose"></field>
+  <field name="context"></field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.112</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Antioch-Magarsa/Antioch ad Pyramum</field>
+  <field name="place_of_publication">http://nomisma.org/id/antiocheia_ad_pyramum</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">Cilicie 68</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for Hermokrates</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285618?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285618</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.113</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Antioch-Magarsa/Antioch ad Pyramum</field>
+  <field name="place_of_publication">http://nomisma.org/id/antiocheia_ad_pyramum</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">Cilicie 68</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for Hermokrates</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285618?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285618</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">EMBASSY</field>
+  <field name="context"></field>
+  <field name="lines">ll. 3-8</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.114</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Antioch-Magarsa/Antioch ad Pyramum</field>
+  <field name="place_of_publication">http://nomisma.org/id/antiocheia_ad_pyramum</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">SEG 12</field>
+  <field name="reference_num">511</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-140</field>
+  <field name="date_to">-140</field>
+  <field name="description">Honorific decree of Antioch on the Pyramos for Antioch on the Kydnos (Tarsos)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286802?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286802</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines">ll. 4-5</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.115</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Antioch-Magarsa/Antioch ad Pyramum</field>
+  <field name="place_of_publication">http://nomisma.org/id/antiocheia_ad_pyramum</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">SEG 12</field>
+  <field name="reference_num">511</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-140</field>
+  <field name="date_to">-140</field>
+  <field name="description">Honorific decree of Antioch on the Pyramos for Antioch on the Kydnos (Tarsos)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286802?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286802</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">SACRIFICES</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines">ll. 5-30</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Instructions for sacrifices, procession and games.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.116</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Antioch-Magarsa/Antioch ad Pyramum</field>
+  <field name="place_of_publication">http://nomisma.org/id/antiocheia_ad_pyramum</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">SEG 12</field>
+  <field name="reference_num">511</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-140</field>
+  <field name="date_to">-140</field>
+  <field name="description">Honorific decree of Antioch on the Pyramos for Antioch on the Kydnos (Tarsos)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286802?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286802</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLICATION</field>
+  <field name="context"></field>
+  <field name="lines">ll. 30-34</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.117</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Antioch-Magarsa/Antioch ad Pyramum</field>
+  <field name="place_of_publication">http://nomisma.org/id/antiocheia_ad_pyramum</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">SEG 12</field>
+  <field name="reference_num">511</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-140</field>
+  <field name="date_to">-140</field>
+  <field name="description">Honorific decree of Antioch on the Pyramos for Antioch on the Kydnos (Tarsos)</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286802?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286802</field>
+  <field name="doc_type">HONORIFIC DECREE</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">EMBASSY</field>
+  <field name="context"></field>
+  <field name="lines">ll. 34-41</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.119</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mallos</field>
+  <field name="place_of_publication">http://nomisma.org/id/mallus</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">Cilicie 69</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for Demeas</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285619?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285619</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.120</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mallos</field>
+  <field name="place_of_publication">http://nomisma.org/id/mallus</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">70</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for Iason</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285620?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285620</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.121</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mallos</field>
+  <field name="place_of_publication">http://nomisma.org/id/mallus</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">70</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for Iason</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285620?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285620</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">PUBLIC OFFICE</field>
+  <field name="context">GYMNASIUM</field>
+  <field name="lines">ll. 4-6</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">The honorand was gymnasiarch.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.122</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mallos</field>
+  <field name="place_of_publication">http://nomisma.org/id/mallus</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">70</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for Iason</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285620?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285620</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">OIL</field>
+  <field name="context"></field>
+  <field name="lines">ll. 6-9</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.123</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mallos</field>
+  <field name="place_of_publication">http://nomisma.org/id/mallus</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num"></field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for the demiourgos Iason</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285621?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285621</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.124</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mallos</field>
+  <field name="place_of_publication">http://nomisma.org/id/mallus</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">71</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">0</field>
+  <field name="description">Private honorific statue-base for Demetria</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285622?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285622</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.125</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mallos</field>
+  <field name="place_of_publication">http://nomisma.org/id/mallus</field>
+  <field name="lat">36.5631516</field>
+  <field name="long">35.3812981</field>
+  <field name="reference">Heberdey - Wilhelm, Kilikien</field>
+  <field name="reference_num">16</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000173850</field>
+  <field name="date_from">-300</field>
+  <field name="date_to">-100</field>
+  <field name="description">Honorific statue-base for the royal treasurer Diomedes</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285299?&amp;bookid=636&amp;location=1662 </field>
+  <field name="phi_id">285299</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.130</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mopsos/Mopsuestia (Seleukeia ad Pyramum)</field>
+  <field name="place_of_publication">http://nomisma.org/id/mopsus</field>
+  <field name="lat">36.95778</field>
+  <field name="long">35.619478</field>
+  <field name="reference">SEG 44</field>
+  <field name="reference_num">1227</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-85</field>
+  <field name="date_to">-80</field>
+  <field name="description">Letters of Sulla and Lucullus confirming the asylia of Isis and Sarapis</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION </field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">CONTRACT (LEASE)</field>
+  <field name="lines">ll. 24-29</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Diodotos and his family exempted from taxation during the city's distribution of tax-contracts.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.131</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mopsos/Mopsuestia (Seleukeia ad Pyramum)</field>
+  <field name="place_of_publication">http://nomisma.org/id/mopsus</field>
+  <field name="lat">36.95778</field>
+  <field name="long">35.619478</field>
+  <field name="reference">SEG 44</field>
+  <field name="reference_num">1227</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-85</field>
+  <field name="date_to">-80</field>
+  <field name="description">Letters of Sulla and Lucullus confirming the asylia of Isis and Sarapis</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAXATION</field>
+  <field name="context">CIVIC</field>
+  <field name="lines">ll. 24-29</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Diodotos and his family exempted from taxation during the city's distribution of tax-contracts.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.133</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Mopsos/Mopsuestia (Seleukeia ad Pyramum)</field>
+  <field name="place_of_publication">http://nomisma.org/id/mopsus</field>
+  <field name="lat">36.95778</field>
+  <field name="long">35.619478</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">Cilicie 83</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-200</field>
+  <field name="date_to">0</field>
+  <field name="description">Dedication to Helios and the people by the architect Philokles</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285634?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285634</field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.138</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Aigeai</field>
+  <field name="place_of_publication">http://nomisma.org/id/aegeae_cilicia</field>
+  <field name="lat">36.7695548</field>
+  <field name="long">35.7886505</field>
+  <field name="reference">SEG 49</field>
+  <field name="reference_num">1943</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-197</field>
+  <field name="date_to">-197</field>
+  <field name="description">Dedication to Zeus Kasios by Themison on behalf of Antiochos III and his children</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.139</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Aigeai</field>
+  <field name="place_of_publication">http://nomisma.org/id/aegeae_cilicia</field>
+  <field name="lat">36.7695548</field>
+  <field name="long">35.7886505</field>
+  <field name="reference">I.Cilicie</field>
+  <field name="reference_num">Cilicie 76</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000752602</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">100</field>
+  <field name="description">Fragmentary honorific statue-base for Seleukos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285627?bookid=692&amp;location=1662 </field>
+  <field name="phi_id">285627</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.141</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Anazarbos</field>
+  <field name="place_of_publication">http://nomisma.org/id/anazarbus</field>
+  <field name="lat">37.256404</field>
+  <field name="long">35.898549</field>
+  <field name="reference">SEG 51</field>
+  <field name="reference_num">1848</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-20</field>
+  <field name="date_to">17</field>
+  <field name="description">Honorific statue-base for Tarkondimotos II Philopator</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.142</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Anazarbos</field>
+  <field name="place_of_publication">http://nomisma.org/id/anazarbus</field>
+  <field name="lat">37.256404</field>
+  <field name="long">35.898549</field>
+  <field name="reference">SEG 51</field>
+  <field name="reference_num">1849</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-20</field>
+  <field name="date_to">17</field>
+  <field name="description">Honorific statue-base for Tarkondimotos II Philopator by Diophantos</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.144</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Hierapolis-Kastabala</field>
+  <field name="place_of_publication">http://nomisma.org/id/hieropolis_castabala</field>
+  <field name="lat">37.1806978</field>
+  <field name="long">36.1887932</field>
+  <field name="reference">Hicks (1890)</field>
+  <field name="reference_num">243 n. 14</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000057314</field>
+  <field name="date_from">-100</field>
+  <field name="date_to">0</field>
+  <field name="description">Honorific statue-base for Deinon</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/285697?bookid=145&amp;location=1662 </field>
+  <field name="phi_id">285697</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.145</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Hierapolis-Kastabala</field>
+  <field name="place_of_publication">http://nomisma.org/id/hieropolis_castabala</field>
+  <field name="lat">37.1806978</field>
+  <field name="long">36.1887932</field>
+  <field name="reference">SEG 39</field>
+  <field name="reference_num">1500</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-100</field>
+  <field name="date_to">100</field>
+  <field name="description">Honorific statue-base for the demiourgos Athenodoros</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286968?bookid=172&amp;location=1662 </field>
+  <field name="phi_id">286968</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">STATUE</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.146</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Hierapolis-Kastabala</field>
+  <field name="place_of_publication">http://nomisma.org/id/hieropolis_castabala</field>
+  <field name="lat">37.1806978</field>
+  <field name="long">36.1887932</field>
+  <field name="reference">JÖAI 18 (1915) beiblatt</field>
+  <field name="reference_num">49-50</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000056058</field>
+  <field name="date_from">-30</field>
+  <field name="date_to">0</field>
+  <field name="description">Honorific statue-base for Kleon (?), a friend of king Tarkondimotos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/286727?&amp;bookid=422&amp;location=1662 </field>
+  <field name="phi_id">286727</field>
+  <field name="doc_type">HONORIFIC INSCRIPTION (STATUE-BASE)</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">UNCERTAIN</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines">ll. 3-4</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Mention of unspecified honours.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.152</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Rhosos</field>
+  <field name="place_of_publication">http://nomisma.org/id/rhosus</field>
+  <field name="lat">36.411822</field>
+  <field name="long">35.892815</field>
+  <field name="reference">SEG 51</field>
+  <field name="reference_num">1990</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000856338  </field>
+  <field name="date_from">-300</field>
+  <field name="date_to">-100</field>
+  <field name="description">Dedication to Dionysos</field>
+  <field name="phi_url"></field>
+  <field name="phi_id"></field>
+  <field name="doc_type">DEDICATION (VOTIVE)</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">DEDICATION</field>
+  <field name="context">RELIGIOUS</field>
+  <field name="lines"></field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.153</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Rhosos</field>
+  <field name="place_of_publication">http://nomisma.org/id/rhosus</field>
+  <field name="lat">36.411822</field>
+  <field name="long">35.892815</field>
+  <field name="reference">RDGE</field>
+  <field name="reference_num">58</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000778643</field>
+  <field name="date_from">-42</field>
+  <field name="date_to">-30</field>
+  <field name="description">Letters and edict of Octavian to Rhosos on the honours for Seleukos of Rhosos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/242797?bookid=472&amp;location=1676 </field>
+  <field name="phi_id">242797</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">INDIVIDUAL</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">MILITARY CAMPAIGN</field>
+  <field name="context">IMPERIAL</field>
+  <field name="lines">ll. 12-18, 81-82, 87-90</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Seleukos' military service with the Romans.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.154</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Rhosos</field>
+  <field name="place_of_publication">http://nomisma.org/id/rhosus</field>
+  <field name="lat">36.411822</field>
+  <field name="long">35.892815</field>
+  <field name="reference">RDGE</field>
+  <field name="reference_num">58</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000778643</field>
+  <field name="date_from">-42</field>
+  <field name="date_to">-30</field>
+  <field name="description">Letters and edict of Octavian to Rhosos on the honours for Seleukos of Rhosos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/242797?bookid=472&amp;location=1676 </field>
+  <field name="phi_id">242797</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">ROMANS</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">TAX-IMMUNITY</field>
+  <field name="context">IMPERIAL</field>
+  <field name="lines">ll. 19-23, 33-35, 47-52, 90-91</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Exemption from taxation and military obligations, billeting obligations, and on customs-dues.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.155</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Rhosos</field>
+  <field name="place_of_publication">http://nomisma.org/id/rhosus</field>
+  <field name="lat">36.411822</field>
+  <field name="long">35.892815</field>
+  <field name="reference">RDGE</field>
+  <field name="reference_num">58</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000778643</field>
+  <field name="date_from">-42</field>
+  <field name="date_to">-30</field>
+  <field name="description">Letters and edict of Octavian to Rhosos on the honours for Seleukos of Rhosos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/242797?bookid=472&amp;location=1676 </field>
+  <field name="phi_id">242797</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">ROMANS</field>
+  <field name="activity">REGULATION</field>
+  <field name="purpose">PENALTY</field>
+  <field name="context">IMPERIAL</field>
+  <field name="lines">ll. 64-69</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination">SESTERTIUS</field>
+  <field name="notes">Fine of 100,000 sestertii for anyone or any community that hinders Seleukos' enjoyment of these privileges.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.156</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Rhosos</field>
+  <field name="place_of_publication">http://nomisma.org/id/rhosus</field>
+  <field name="lat">36.411822</field>
+  <field name="long">35.892815</field>
+  <field name="reference">RDGE</field>
+  <field name="reference_num">58</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000778643</field>
+  <field name="date_from">-42</field>
+  <field name="date_to">-30</field>
+  <field name="description">Letters and edict of Octavian to Rhosos on the honours for Seleukos of Rhosos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/242797?bookid=472&amp;location=1676 </field>
+  <field name="phi_id">242797</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">EMBASSY</field>
+  <field name="context"></field>
+  <field name="lines">ll. 76-78</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+ <doc>
+  <field name="id">item-02.157</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Rhosos</field>
+  <field name="place_of_publication">http://nomisma.org/id/rhosus</field>
+  <field name="lat">36.411822</field>
+  <field name="long">35.892815</field>
+  <field name="reference">RDGE</field>
+  <field name="reference_num">58</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000778643</field>
+  <field name="date_from">-42</field>
+  <field name="date_to">-30</field>
+  <field name="description">Letters and edict of Octavian to Rhosos on the honours for Seleukos of Rhosos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/242797?bookid=472&amp;location=1676 </field>
+  <field name="phi_id">242797</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">UNCERTAIN</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines">l. 79</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes">Mention of unspecified honours for Octavian.</field>
+ </doc>
+ <doc>
+  <field name="id">item-02.158</field>
+  <field name="region">Kilikia, from Soloi</field>
+  <field name="city">Rhosos</field>
+  <field name="place_of_publication">http://nomisma.org/id/rhosus</field>
+  <field name="lat">36.411822</field>
+  <field name="long">35.892815</field>
+  <field name="reference">RDGE</field>
+  <field name="reference_num">58</field>
+  <field name="bib_url">https://zenon.dainst.org/Record/000778643</field>
+  <field name="date_from">-42</field>
+  <field name="date_to">-30</field>
+  <field name="description">Letters and edict of Octavian to Rhosos on the honours for Seleukos of Rhosos</field>
+  <field name="phi_url">https://inscriptions.packhum.org/text/242797?bookid=472&amp;location=1676 </field>
+  <field name="phi_id">242797</field>
+  <field name="doc_type">OFFICIAL LETTER</field>
+  <field name="authority">CITY</field>
+  <field name="activity">SPENDING</field>
+  <field name="purpose">CROWN</field>
+  <field name="context">HONORIFIC</field>
+  <field name="lines">l. 79</field>
+  <field name="material"></field>
+  <field name="nature"></field>
+  <field name="denomination"></field>
+  <field name="notes"></field>
+ </doc>
+</add>

@@ -1,0 +1,68 @@
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+ }
+
+ .btn-bd-primary {
+    --bd-violet-bg: #712cf9;
+    --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #6528e0;
+    --bs-btn-hover-border-color: #6528e0;
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #5a23c8;
+    --bs-btn-active-border-color: #5a23c8;
+ }
+
+ .bd-mode-toggle {
+    z-index: 1500;
+ }
+
+ .bd-mode-toggle .dropdown-menu .active .bi {
+    display: block !important;
+ }
+
+ #map { height: 50vh; }
+
+ /* .dropdown-menu .inner .show li.selected{
+   background-color: #0d6efd !important;
+ }*/
+ .dropdown-menu .inner .show li.selected a.selected{
+   background-color: #0d6efd !important;
+   color: white !important;
+ }
+
+ .dropdown-menu .inner .show li.selected a.selected small{
+   color: white !important;
+ }
+
+ /* This is for map loading */
+ .content{
+   position: relative;
+}
+.overlay{
+   position: absolute;
+   left: 0; 
+   top: 0; 
+   right: 0; 
+   bottom: 0;
+   z-index: 10000;
+   background-color: rgba(81, 78, 78, 0.8);
+}
+.overlay-content {
+   position: absolute;
+   transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+   top: 50%;
+   left: 0;
+   right: 0;
+   text-align: center;
+   color: rgb(255, 255, 255);
+}

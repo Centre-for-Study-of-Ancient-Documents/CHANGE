@@ -1,0 +1,102 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+  <div class="col-md-9 order-md-2 mb-5" style="margin-top: 2rem !important;">
+    <div class="row">
+      <h1> Results <a id="btnMapResults" type="button" class="text-decoration-none fs-5 d-none" data-bs-toggle="modal"
+          data-bs-target="#mapModal">
+          Map Results
+        </a>
+      </h1>
+    </div>
+    {% if (res | length) > 0 %}
+    <div class="paging_div row">
+      {% include 'pagination.html' %}
+    </div>
+    {% else %}
+    <h4>No records to show</h4>
+    {% endif %}
+    <!-- <div class="row">
+      <div class="col-md-9">
+        <form role="form" class="sortForm form-inline" action="results" method="GET">
+          <div class="form-group">
+            <select class="sortForm_categories form-select">
+              <option value="null">Select from List</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <select class="sortForm_order form-select">
+              <option value="asc">Ascending</option>
+              <option value="desc">Descending</option>
+            </select>
+          </div>
+          <input type="hidden" name="q" value=""><input type="hidden" name="sort" value=""
+            class="sort_param">
+            <button class="btn btn-default sort_button" type="submit" disabled="">
+              <span class="glyphicon glyphicon-sort-by-attributes"></span> Sort Results
+            </button>
+        </form>
+      </div>
+      <div class="col-md-3 pull-right text-right"><a class="btn btn-default" style="margin-right:10px"
+          title="List layout" href="results?layout=grid" disabled="disabled"><span
+            class="glyphicon glyphicon-th-list"></span></a><a class="btn btn-default" title="Grid layout"
+          href="results?layout=grid"><span class="glyphicon glyphicon-th"></span></a></div>
+    </div> -->
+    {% for item in res %}
+    <div class="row result-doc border-bottom mt-2">
+      <div class="col-md-12">
+        <h4><a class="text-decoration-none" href="{{url_for('item', id=item.id)}}">{{ item.city}}: {{item.date_from}} To
+            {{item.date_to}} {{item.description}}</a></h4>
+      </div>
+      <div class="col-md-7 col-lg-8">
+        <dl class="row">
+          <dt class="col-md-2">Date</dt>
+          <dd class="col-md-10">{{item.date_from}} To {{item.date_to}}</dd>
+          <dt class="col-md-2">Region</dt>
+          <dd class="col-md-10">{{item.region}}</dd>
+          <dt class="col-md-2">Authority</dt>
+          <dd class="col-md-10">{{ item.authority }}</dd>
+          <dt class="col-md-2">Activity</dt>
+          <dd class="col-md-10">{{item.activity}}</dd>
+          <dt class="col-md-2">Reference</dt>
+          <dd class="col-md-10">{{item.reference}}</dd>
+        </dl>
+      </div>
+    </div>
+    {% endfor %}
+
+    {% if (res | length) > 0 %}
+    <div class="paging_div row mt-3 mb-5">
+      {% include 'pagination.html' %}
+    </div>
+    {% endif %}
+  </div>
+  <div class="col-md-3 order-md-1">
+    {% include 'filters.html' %}
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="mapModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+  aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Results on Map</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body content">
+        <!-- Loader element -->
+        <div id="divLoadingMap" class="overlay">
+          <div class="overlay-content">
+            <div class="spinner-border text-light" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div> Loading...
+          </div>
+        </div>
+        <div id="map" style="height: 60vh !important;"></div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

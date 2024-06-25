@@ -1,0 +1,58 @@
+version: "3.9"
+
+services:
+  web:
+    build: .
+    container_name: web
+    networks:
+      - caddy_network
+    ports:
+      - "8008:5000"
+    volumes:
+      - .:/code
+    environment:
+      FLASK_DEBUG: "true" 
+  webtest:
+    profiles:
+      - test
+    build: .
+    ports:
+      - "8001:5000" 
+    volumes:
+      - .:/code
+    environment:
+      FLASK_APP: "testapp" 
+      FLASK_DEBUG: "true" 
+  solr:
+    image: solr:8
+    networks:
+      - caddy_network
+    ports:
+      - "8983:8983"
+    volumes:
+      - ./solr:/solr-conf
+    command:
+      - solr-precreate
+      - inscriptions
+      - /solr-conf
+  caddy:
+    container_name: caddy
+    networks:
+      - caddy_network
+    image: caddy:latest
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - caddy-config:/config
+      - caddy-data:/data
+      - ./Caddyfile:/etc/caddy/Caddyfile
+
+networks:
+  caddy_network:
+
+volumes:
+  caddy-config:
+  caddy-data:
+

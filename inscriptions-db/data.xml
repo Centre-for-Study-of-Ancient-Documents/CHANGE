@@ -1,0 +1,20 @@
+<add>
+  <doc>
+    <field name="date_from">-100</field>
+    <field name="date_to">50</field>
+    <field name="city">Ephesus</field>
+    <field name="description">This is an entry</field>
+  </doc>
+  <doc>
+    <field name="date_from">20</field>
+    <field name="date_to">100</field>
+    <field name="city">Sardis</field>
+    <field name="description">Another entry</field>
+  </doc>
+  <doc>
+    <field name="date_from">50</field>
+    <field name="date_to">200</field>
+    <field name="city">Sardis</field>
+    <field name="description">One more entry</field>
+  </doc>
+</add>

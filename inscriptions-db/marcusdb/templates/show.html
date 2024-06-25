@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+    <div class="col-md-12 mt-4">
+        <h4> {{ item.city}}: {{item.date_from}} - {{item.date_to}} {{item.description}} </h4>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 order-md-1 order-sm-2 order-2 mt-2">
+        <dl class="row p-0 m-0 text-wrap">
+        {% for f in fields %}
+            {% if (item[f]) %}
+                {% if 'http' in item[f] and not 'place_of' in f %}
+                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">{{ f | replace('_', ' ') }}:</dt>
+                <dd class="col-md-9 col-sm-9 col-9 text-wrap text-break"><a href="{{item[f]}}" target="_blank">{{item[f]}}</a></dd>
+                {% elif 'place_of' in f or 'lat' in f or 'long' in f %}
+                <span></span>
+                {% elif 'city' in f %}
+                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">City:</dt>
+                <dd class="col-md-9 col-sm-9 col-9"><a href="{{item['place_of_publication']}}" target="_blank">{{item['city']}}</a></dd>
+                {% else %}
+                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">{{ f | replace('_', ' ') }}:</dt>
+                <dd class="col-md-9 col-sm-9 col-9 text-wrap text-break">{{ item[f] }}</dd>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        </dl>
+    </div>
+    <div class="col-md-6 order-md-2 order-sm-1 order-1">
+        <div id="map"></div>
+    </div>
+</div>
+<script>
+    // Injected latitude and longitude from Flask
+    var latitude = {{ item.lat }};
+    var longitude = {{ item.long }};
+
+    var map = L.map('map').setView([latitude, longitude], 6);
+
+    var mapboxToken = '{{ mapbox_token }}'
+
+    // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    //     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    // }).addTo(map);
+
+    L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token=' + mapboxToken, {
+            attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            tileSize: 512,
+            zoomOffset: -1
+        }).addTo(map);
+
+    var marker = L.marker([latitude, longitude]).addTo(map)
+        .bindPopup('{{ item.city}}: {{item.date_from}} - {{item.date_to}} {{item.description}}')
+        .openPopup();
+</script>
+{% endblock %}

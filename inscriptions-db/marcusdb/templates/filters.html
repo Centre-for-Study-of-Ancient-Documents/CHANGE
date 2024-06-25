@@ -1,0 +1,138 @@
+<div class="position-sticky" style="margin-top: 2rem !important; top:80px !important;">
+    <div class="row">
+        <div class="col-md-12 border-bottom">
+            <h3>Filters</h3>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <form class="col-md-12" {{ url_for('results') }} method="GET" id="qs_form">
+            <div class="input-group mb-3">
+                <input type="search" class="form-control txtSearch" id="txtKeywords" name="q"
+                    placeholder="Search in description/notes" />
+                <button class="btn btn-outline-secondary" type="submit">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </form>
+
+        <form class="col-md-12" {{ url_for('results') }} method="GET" id="qs_form">
+            <input type="hidden" name="q" id="hidQuery" />
+            <h4>Refine Results:</h4>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Region</label>
+                <select class="selectpicker form-control" id="selRegion" name="region" multiple data-live-search="true"
+                    data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, region in filters.regions.items() %}
+                    <option value="{{region}}" data-subtext="({{ hits }})">{{ region }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Date</label>
+                <div class="row p-0">
+                    <div class="col-md-5">
+                        <input class="form-control date" type="number" id="date_from" name="date_from" placeholder="From" />
+                    </div>
+                    <div class="col-md-5">
+                        <input type="number" class="form-control date" id="date_to" name="date_to" placeholder="To" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Activity</label>
+                <select class="selectpicker form-control" id="selActivity" name="activity" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, activity in filters.activities.items() %}
+                    <option value="{{activity}}" data-subtext="({{ hits }})">{{ activity }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Authority</label>
+                <select class="selectpicker form-control" id="selAuthority" name="authority" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, authority in filters.authorities.items() %}
+                    <option value="{{authority}}" data-subtext="({{ hits }})">{{ authority }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Purpose</label>
+                <select class="selectpicker form-control" id="selPurpose" name="purpose" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, purpose in filters.purposes.items() %}
+                    <option value="{{purpose}}" data-subtext="({{ hits }})">{{ purpose }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Context</label>
+                <select class="selectpicker form-control" id="selContext" name="context" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, context in filters.contextes.items() %}
+                    <option value="{{context}}" data-subtext="({{ hits }})">{{ context }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Lines</label>
+                <select class="selectpicker form-control" id="selLines" name="lines" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, line in filters.lines.items() %}
+                    <option value="{{line}}" data-subtext="({{ hits }})">{{ line }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Material</label>
+                <select class="selectpicker form-control" id="selMaterial" name="material" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, material in filters.materials.items() %}
+                    <option value="{{material}}" data-subtext="({{ hits }})">{{ material }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Nature</label>
+                <select class="selectpicker form-control" id="selNature" name="nature" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, nature in filters.natures.items() %}
+                    <option value="{{nature}}" data-subtext="({{ hits }})">{{ nature }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">Denomination</label>
+                <select class="selectpicker form-control" id="selDenomination" name="denomination" multiple
+                    data-live-search="true" data-selected-text-format="count > 3" data-size="5">
+                    {% for hits, denomination in filters.denominations.items() %}
+                    <option value="{{denomination}}" data-subtext="({{ hits }})">{{ denomination }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+            
+
+            <div class="mb-3" id="divOperator">
+                <label class="text-capitalize form-labe;">Logical Operator</label>
+                <div class="form-check form-switch">
+                    <input type="hidden" id="hidOperator" name="operator" value="OR" />
+                    <input class="form-check-input" type="checkbox" role="switch" id="chkOperator" checked />
+                    <label class="form-check-label" for="chkOperator">OR</label>
+                </div>
+            </div>
+
+            <button type="submit" id="btnRefineSearch" value="Refine Search..." class="btn btn-primary mb-5"><i
+                    class="fas fa-filter"></i> Refine Search</button>
+            <form>
+    </div>
+</div>
