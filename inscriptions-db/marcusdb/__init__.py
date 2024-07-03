@@ -41,6 +41,10 @@ def create_app(test_config=None):
     from . import item
     app.add_url_rule('/item/<id>', 'item', item.show)
 
+    from . import editRecords
+    app.add_url_rule('/editresults', 'editresults', editRecords.results)
+    app.add_url_rule('/login', 'login', editRecords.login, methods=['POST'])
+
     # CLI command
     from . import index
     @app.cli.command('index-csv')

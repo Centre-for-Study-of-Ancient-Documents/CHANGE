@@ -2,7 +2,7 @@
 {% block content %}
 <div class="row">
     <div class="col-md-12 mt-4">
-        <h4> {{ item.city}}: {{item.date_from}} - {{item.date_to}} {{item.description}} </h4>
+        <h4> {{ item.city}}: {{item.date_from}} To {{item.date_to}} {{item.description}} </h4>
     </div>
 </div>
 
@@ -26,6 +26,8 @@
             {% endif %}
         {% endfor %}
         </dl>
+
+        <button id="btnEdit" class="btn btn-primary d-none mt-3">Edit</button>
     </div>
     <div class="col-md-6 order-md-2 order-sm-1 order-1">
         <div id="map"></div>
@@ -51,7 +53,7 @@
         }).addTo(map);
 
     var marker = L.marker([latitude, longitude]).addTo(map)
-        .bindPopup('{{ item.city}}: {{item.date_from}} - {{item.date_to}} {{item.description}}')
+        .bindPopup('{{ item.city}}: {{item.date_from}} To {{item.date_to}} {{item.description}}')
         .openPopup();
 </script>
 {% endblock %}

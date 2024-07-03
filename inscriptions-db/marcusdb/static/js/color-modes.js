@@ -25,6 +25,34 @@
     } else {
       document.documentElement.setAttribute('data-bs-theme', theme)
     }
+
+    if (document.documentElement.getAttribute('data-bs-theme') === 'dark') {
+      document.getElementById('imgLogo').setAttribute('src', '/inscriptions/static/images/logo_dark.png')
+      let interval = setInterval(() => {
+        $('.selectpicker').toArray().forEach(e => {
+          if ($(e).next().length > 0) {
+            clearInterval(interval);
+            $(e).next().removeClass('btn-light')
+            $(e).next().addClass('btn-dark')
+            $(e).next().addClass('border')
+          }
+        })
+      }, 1);
+
+    }
+    else {
+      document.getElementById('imgLogo').setAttribute('src', '/inscriptions/static/images/logo.png')
+      let interval = setInterval(() => {
+        $('.selectpicker').toArray().forEach(e => {
+          if ($(e).next().length > 0) {
+            clearInterval(interval);
+            $(e).next().addClass('btn-light')
+            $(e).next().removeClass('btn-dark')
+            $(e).next().removeClass('border')
+          }
+        })
+      }, 1);
+    }
   }
 
   setTheme(getPreferredTheme())
