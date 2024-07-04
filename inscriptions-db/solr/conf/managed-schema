@@ -449,7 +449,7 @@
   </fieldType>
   <field name="_nest_path_" type="_nest_path_"/>
   <field name="_root_" type="string" docValues="false" indexed="true" stored="false"/>
-  <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
+  <field name="_text_" type="text_general" multiValued="false" indexed="true" stored="false"/>
   <field name="_version_" type="plong" indexed="false" stored="false"/>
   <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
   <field name="region" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
@@ -464,6 +464,7 @@
   <field name="date_from" type="pint" uninvertible="false" indexed="true" stored="true"/>
   <field name="date_to" type="pint" uninvertible="false" indexed="true" stored="true"/>
   <field name="description" type="text_en" uninvertible="false" indexed="true" stored="true"/>
+  <field name="notes" type="text_en" uninvertible="false" indexed="true" stored="true"/>
   <field name="phi_url" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="phi_id" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="doc_type" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
@@ -472,8 +473,11 @@
   <field name="purpose" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="context" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="denomination" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
-  <field name="notes" type="text_en" uninvertible="false" indexed="true" stored="true"/>
-  <!-- todo: DATE/CERTAINTY, LINES, MATERIAL, NATURE, REFERENCE 2, REFERENCE 3, TRISMEGISTOS ID -->
+  <field name="lines" type="string" uninvertible="false" indexed="true" stored="true"/>
+  <field name="material" type="string" uninvertible="false" indexed="true" stored="true"/>
+  <field name="nature" type="string" uninvertible="false" indexed="true" stored="true"/>
+  <field name="epigraphic_reference" type="string" uninvertible="false" indexed="true" stored="true"/>
+
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
   <dynamicField name="*_ancestor_path" type="ancestor_path" indexed="true" stored="true"/>

@@ -52,6 +52,7 @@ MATERIAL="MATERIAL"
 NATURE="NATURE"
 DENOM="DENOMINATION"
 NOTES="NOTES"
+COMBINED_REF = "COMBINED_REF"
 
 activity_fields = { ACTIVITY, AUTHORITY, PURPOSE, CONTEXT, LINES, MATERIAL,
                     NATURE, DENOM, NOTES }
@@ -81,7 +82,8 @@ solr_fields = {
         "material":MATERIAL,
         "nature":NATURE,
         "denomination":DENOM,
-        "notes":NOTES
+        "notes":NOTES,
+        "epigraphic_reference": COMBINED_REF
     }
 
 processed = 0
@@ -127,6 +129,7 @@ def process_entry(l):
     if l[REF]:
         stored[REF] = l[REF]
         stored[REF_NUM] = l[REF_NUM]
+        stored[COMBINED_REF] = l[REF] + ' ' + l[REF_NUM]
         stored[BIB_URL] = l[BIB_URL]
         stored[PHI_ID] = l[PHI_ID]
         stored[PHI_URL] = l[PHI_URL]

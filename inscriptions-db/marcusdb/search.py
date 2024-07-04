@@ -26,7 +26,8 @@ def results():
     # Perform the Solr query with pagination parameters
     results = solr.search(search_query, **{
         'start': start,
-        'rows': ITEMS_PER_PAGE
+        'rows': ITEMS_PER_PAGE,
+        'sort': ''
     })
 
     # Calculate the total number of pages
@@ -105,6 +106,9 @@ def fullTextQuery(txt):
 # Filters
 def getAllFilters(solr):
     regions = getAllRowsByField(solr, 'region')
+    cities = getAllRowsByField(solr, 'city')
+    docTypes = getAllRowsByField(solr, 'doc_type')
+    epigraphic_references = getAllRowsByField(solr, 'epigraphic_reference')
     activities = getAllRowsByField(solr, 'activity')
     authorities = getAllRowsByField(solr, 'authority')
     purposes = getAllRowsByField(solr, 'purpose')
@@ -114,16 +118,23 @@ def getAllFilters(solr):
     natures = getAllRowsByField(solr, 'nature')
     denominations = getAllRowsByField(solr, 'denomination')
 
+    #print("**** epigraphic_references: " )
+    ##print(len(epigraphic_references))
+    #print(epigraphic_references)
+
     filters = {
-        'regions': {hits: region for hits, region in regions},
-        'activities': {hits: activity for hits, activity in activities},
-        'authorities': {hits: auth for hits, auth in authorities},
-        'purposes': {hits: purpose for hits, purpose in purposes},
-        'contextes': {hits: context for hits, context in contextes},
-        'lines': {hits: line for hits, line in lines},
-        'materials': {hits: material for hits, material in materials},
-        'natures': {hits: nature for hits, nature in natures},
-        'denominations': {hits: denomination for hits, denomination in denominations}
+        'regions': regions,
+        'cities': cities,
+        'epigraphic_references': epigraphic_references,
+        'docTypes': docTypes,
+        'activities': activities,
+        'authorities': authorities,
+        'purposes': purposes,
+        'contextes': contextes,
+        'lines': lines,
+        'materials': materials,
+        'natures': natures,
+        'denominations': denominations
     }
 
     return filters
@@ -132,16 +143,17 @@ def getAllRowsByField(solr, field):
     results = solr.search('*:*', **{
         'facet': 'true',
         'facet.field': field,
-        # 'facet.limit': -1,  # Set to -1 to get all distinct values
+        'facet.limit': -1,  # Set to -1 to get all distinct values
+        'facet.sort': 'count',
         'rows': 0
     })
 
     distinct_values = results.facets['facet_fields'][field]
     # The facets are returned as a list with alternating values and counts
-    values_with_hits = [(distinct_values[i+1], distinct_values[i])
-                        for i in range(0, len(distinct_values), 2)]
+    #values_with_hits = [(distinct_values[i+1], distinct_values[i])
+    #                    for i in range(0, len(distinct_values), 2)]
 
-    return values_with_hits
+    return distinct_values
 
 # ====================================================================================================
 # Lat lng

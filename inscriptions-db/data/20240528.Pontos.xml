@@ -24,6 +24,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">OGIS 365</field>
  </doc>
  <doc>
   <field name="id">item-10.5</field>
@@ -50,6 +51,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Meriones had set up the stele, although whether this was for his services to Pharnabazos, or the services of someone else towards himself, is unclear.</field>
+  <field name="epigraphic_reference">Studia Pontica III 95A</field>
  </doc>
  <doc>
   <field name="id">item-10.6</field>
@@ -76,6 +78,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Studia Pontica III 95B</field>
  </doc>
  <doc>
   <field name="id">item-10.7</field>
@@ -102,6 +105,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1614</field>
  </doc>
  <doc>
   <field name="id">item-10.8</field>
@@ -128,6 +132,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1615</field>
  </doc>
  <doc>
   <field name="id">item-10.9</field>
@@ -154,6 +159,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1617</field>
  </doc>
  <doc>
   <field name="id">item-10.10</field>
@@ -180,6 +186,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 55 1390</field>
  </doc>
  <doc>
   <field name="id">item-10.11</field>
@@ -206,6 +213,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 55 1392</field>
  </doc>
  <doc>
   <field name="id">item-10.12</field>
@@ -232,6 +240,7 @@
   <field name="nature"></field>
   <field name="denomination">CHALKOS</field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1444</field>
  </doc>
  <doc>
   <field name="id">item-10.13</field>
@@ -258,6 +267,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1199</field>
  </doc>
  <doc>
   <field name="id">item-10.16</field>
@@ -284,6 +294,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Prohibition on entering the garrison without the commander (akrophylax), with slaves caught doing so punished by whipping, while free persons have to defend themselves.</field>
+  <field name="epigraphic_reference">Studia Pontica III 278</field>
  </doc>
  <doc>
   <field name="id">item-10.17</field>
@@ -310,6 +321,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 64 1283</field>
  </doc>
  <doc>
   <field name="id">item-10.20</field>
@@ -336,6 +348,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1281</field>
  </doc>
  <doc>
   <field name="id">item-10.21</field>
@@ -362,6 +375,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 42 1131</field>
  </doc>
  <doc>
   <field name="id">item-10.22</field>
@@ -388,6 +402,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 42 1132</field>
  </doc>
  <doc>
   <field name="id">item-10.37</field>
@@ -414,6 +429,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Marek (1993) 155 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-10.38</field>
@@ -440,6 +456,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Alkimos gave 200 drachmas to the phratores.</field>
+  <field name="epigraphic_reference">Marek (1993) 155 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-10.39</field>
@@ -466,6 +483,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Alkimos gave gilt crowns to the presbuteroi.</field>
+  <field name="epigraphic_reference">Marek (1993) 155 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-10.40</field>
@@ -492,6 +510,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Marek (1993) 155 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-10.41</field>
@@ -518,6 +537,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Marek (1993) 155 n. 2</field>
  </doc>
  <doc>
   <field name="id">item-10.45</field>
@@ -544,6 +564,7 @@
   <field name="nature"></field>
   <field name="denomination">HEMISTATER</field>
   <field name="notes">Pay for soldiers to be 2.5 staters a month.</field>
+  <field name="epigraphic_reference">I.Sinope 1</field>
  </doc>
  <doc>
   <field name="id">item-10.46</field>
@@ -570,6 +591,7 @@
   <field name="nature"></field>
   <field name="denomination">HEMISTATER</field>
   <field name="notes">Pay for soldiers to be 2.5 staters a month.</field>
+  <field name="epigraphic_reference">I.Sinope 1</field>
  </doc>
  <doc>
   <field name="id">item-10.47</field>
@@ -596,6 +618,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 2</field>
  </doc>
  <doc>
   <field name="id">item-10.48</field>
@@ -622,6 +645,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 3</field>
  </doc>
  <doc>
   <field name="id">item-10.49</field>
@@ -648,6 +672,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">STATER</field>
   <field name="notes">Honorand granted immunity from taxes up to 100 gold staters</field>
+  <field name="epigraphic_reference">I.Sinope 4</field>
  </doc>
  <doc>
   <field name="id">item-10.50</field>
@@ -674,6 +699,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 5</field>
  </doc>
  <doc>
   <field name="id">item-10.51</field>
@@ -700,6 +726,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 6</field>
  </doc>
  <doc>
   <field name="id">item-10.52</field>
@@ -726,6 +753,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 7</field>
  </doc>
  <doc>
   <field name="id">item-10.53</field>
@@ -752,6 +780,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Provisions on the priest's duties and privileges, including providing sacrificial animals.</field>
+  <field name="epigraphic_reference">I.Sinope 8</field>
  </doc>
  <doc>
   <field name="id">item-10.54</field>
@@ -778,6 +807,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Provisions on the priest's duties and privileges, including providing sacrificial animals.</field>
+  <field name="epigraphic_reference">I.Sinope 8</field>
  </doc>
  <doc>
   <field name="id">item-10.55</field>
@@ -804,6 +834,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Granted a white crown at the games.</field>
+  <field name="epigraphic_reference">I.Sinope 8</field>
  </doc>
  <doc>
   <field name="id">item-10.56</field>
@@ -830,6 +861,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The priest to be exempt from military service and the capital tax.</field>
+  <field name="epigraphic_reference">I.Sinope 8</field>
  </doc>
  <doc>
   <field name="id">item-10.57</field>
@@ -856,6 +888,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of an obligation to purchase unknown items, perhaps in relation to sacrifice.</field>
+  <field name="epigraphic_reference">I.Sinope 8</field>
  </doc>
  <doc>
   <field name="id">item-10.58</field>
@@ -882,6 +915,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 9</field>
  </doc>
  <doc>
   <field name="id">item-10.59</field>
@@ -908,6 +942,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 10</field>
  </doc>
  <doc>
   <field name="id">item-10.60</field>
@@ -934,6 +969,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 11</field>
  </doc>
  <doc>
   <field name="id">item-10.61</field>
@@ -960,6 +996,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 12</field>
  </doc>
  <doc>
   <field name="id">item-10.62</field>
@@ -986,6 +1023,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 13</field>
  </doc>
  <doc>
   <field name="id">item-10.63</field>
@@ -1012,6 +1050,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 14</field>
  </doc>
  <doc>
   <field name="id">item-10.64</field>
@@ -1038,6 +1077,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 15</field>
  </doc>
  <doc>
   <field name="id">item-10.65</field>
@@ -1064,6 +1104,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 16</field>
  </doc>
  <doc>
   <field name="id">item-10.66</field>
@@ -1090,6 +1131,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 17</field>
  </doc>
  <doc>
   <field name="id">item-10.67</field>
@@ -1116,6 +1158,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 18</field>
  </doc>
  <doc>
   <field name="id">item-10.68</field>
@@ -1142,6 +1185,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 19</field>
  </doc>
  <doc>
   <field name="id">item-10.69</field>
@@ -1168,6 +1212,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 20</field>
  </doc>
  <doc>
   <field name="id">item-10.70</field>
@@ -1194,6 +1239,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 21</field>
  </doc>
  <doc>
   <field name="id">item-10.71</field>
@@ -1220,6 +1266,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 22</field>
  </doc>
  <doc>
   <field name="id">item-10.72</field>
@@ -1246,6 +1293,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 23</field>
  </doc>
  <doc>
   <field name="id">item-10.73</field>
@@ -1272,6 +1320,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 24</field>
  </doc>
  <doc>
   <field name="id">item-10.74</field>
@@ -1298,6 +1347,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 25</field>
  </doc>
  <doc>
   <field name="id">item-10.75</field>
@@ -1324,6 +1374,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 26</field>
  </doc>
  <doc>
   <field name="id">item-10.76</field>
@@ -1350,6 +1401,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 27</field>
  </doc>
  <doc>
   <field name="id">item-10.77</field>
@@ -1376,6 +1428,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 28</field>
  </doc>
  <doc>
   <field name="id">item-10.78</field>
@@ -1402,6 +1455,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 29</field>
  </doc>
  <doc>
   <field name="id">item-10.79</field>
@@ -1428,6 +1482,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 30</field>
  </doc>
  <doc>
   <field name="id">item-10.80</field>
@@ -1454,6 +1509,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 31</field>
  </doc>
  <doc>
   <field name="id">item-10.81</field>
@@ -1480,6 +1536,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 32</field>
  </doc>
  <doc>
   <field name="id">item-10.82</field>
@@ -1506,6 +1563,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 33</field>
  </doc>
  <doc>
   <field name="id">item-10.83</field>
@@ -1532,6 +1590,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 34</field>
  </doc>
  <doc>
   <field name="id">item-10.84</field>
@@ -1558,6 +1617,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 35</field>
  </doc>
  <doc>
   <field name="id">item-10.85</field>
@@ -1584,6 +1644,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 36</field>
  </doc>
  <doc>
   <field name="id">item-10.86</field>
@@ -1610,6 +1671,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 37</field>
  </doc>
  <doc>
   <field name="id">item-10.87</field>
@@ -1636,6 +1698,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 38</field>
  </doc>
  <doc>
   <field name="id">item-10.88</field>
@@ -1662,6 +1725,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 39</field>
  </doc>
  <doc>
   <field name="id">item-10.89</field>
@@ -1688,6 +1752,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 40</field>
  </doc>
  <doc>
   <field name="id">item-10.90</field>
@@ -1714,6 +1779,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 41</field>
  </doc>
  <doc>
   <field name="id">item-10.91</field>
@@ -1740,6 +1806,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 42</field>
  </doc>
  <doc>
   <field name="id">item-10.92</field>
@@ -1766,6 +1833,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 43</field>
  </doc>
  <doc>
   <field name="id">item-10.93</field>
@@ -1792,6 +1860,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 44</field>
  </doc>
  <doc>
   <field name="id">item-10.94</field>
@@ -1818,6 +1887,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 45</field>
  </doc>
  <doc>
   <field name="id">item-10.95</field>
@@ -1844,6 +1914,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 46</field>
  </doc>
  <doc>
   <field name="id">item-10.96</field>
@@ -1870,6 +1941,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 47</field>
  </doc>
  <doc>
   <field name="id">item-10.97</field>
@@ -1896,6 +1968,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 48</field>
  </doc>
  <doc>
   <field name="id">item-10.98</field>
@@ -1922,6 +1995,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 49</field>
  </doc>
  <doc>
   <field name="id">item-10.99</field>
@@ -1948,6 +2022,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 50</field>
  </doc>
  <doc>
   <field name="id">item-10.100</field>
@@ -1974,6 +2049,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 51</field>
  </doc>
  <doc>
   <field name="id">item-10.101</field>
@@ -2000,6 +2076,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 52</field>
  </doc>
  <doc>
   <field name="id">item-10.102</field>
@@ -2026,6 +2103,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 53</field>
  </doc>
  <doc>
   <field name="id">item-10.103</field>
@@ -2052,6 +2130,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 54</field>
  </doc>
  <doc>
   <field name="id">item-10.104</field>
@@ -2078,6 +2157,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 55</field>
  </doc>
  <doc>
   <field name="id">item-10.105</field>
@@ -2104,6 +2184,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 56</field>
  </doc>
  <doc>
   <field name="id">item-10.106</field>
@@ -2130,6 +2211,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 57</field>
  </doc>
  <doc>
   <field name="id">item-10.107</field>
@@ -2156,6 +2238,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 58</field>
  </doc>
  <doc>
   <field name="id">item-10.108</field>
@@ -2182,6 +2265,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 59</field>
  </doc>
  <doc>
   <field name="id">item-10.109</field>
@@ -2208,6 +2292,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 60</field>
  </doc>
  <doc>
   <field name="id">item-10.110</field>
@@ -2234,6 +2319,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 61</field>
  </doc>
  <doc>
   <field name="id">item-10.111</field>
@@ -2260,6 +2346,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 62</field>
  </doc>
  <doc>
   <field name="id">item-10.112</field>
@@ -2286,6 +2373,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 63</field>
  </doc>
  <doc>
   <field name="id">item-10.113</field>
@@ -2312,6 +2400,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 64</field>
  </doc>
  <doc>
   <field name="id">item-10.114</field>
@@ -2338,6 +2427,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 65</field>
  </doc>
  <doc>
   <field name="id">item-10.115</field>
@@ -2364,6 +2454,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 66</field>
  </doc>
  <doc>
   <field name="id">item-10.116</field>
@@ -2390,6 +2481,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 67</field>
  </doc>
  <doc>
   <field name="id">item-10.117</field>
@@ -2416,6 +2508,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 68</field>
  </doc>
  <doc>
   <field name="id">item-10.118</field>
@@ -2442,6 +2535,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 69</field>
  </doc>
  <doc>
   <field name="id">item-10.119</field>
@@ -2468,6 +2562,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 70</field>
  </doc>
  <doc>
   <field name="id">item-10.120</field>
@@ -2494,6 +2589,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 71</field>
  </doc>
  <doc>
   <field name="id">item-10.121</field>
@@ -2520,6 +2616,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 72</field>
  </doc>
  <doc>
   <field name="id">item-10.122</field>
@@ -2546,6 +2643,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 73</field>
  </doc>
  <doc>
   <field name="id">item-10.123</field>
@@ -2572,6 +2670,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 74</field>
  </doc>
  <doc>
   <field name="id">item-10.124</field>
@@ -2598,6 +2697,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 75</field>
  </doc>
  <doc>
   <field name="id">item-10.125</field>
@@ -2624,6 +2724,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 76</field>
  </doc>
  <doc>
   <field name="id">item-10.126</field>
@@ -2650,6 +2751,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 77</field>
  </doc>
  <doc>
   <field name="id">item-10.127</field>
@@ -2676,6 +2778,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 78</field>
  </doc>
  <doc>
   <field name="id">item-10.128</field>
@@ -2702,6 +2805,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 79</field>
  </doc>
  <doc>
   <field name="id">item-10.129</field>
@@ -2728,6 +2832,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 80</field>
  </doc>
  <doc>
   <field name="id">item-10.130</field>
@@ -2754,6 +2859,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 81</field>
  </doc>
  <doc>
   <field name="id">item-10.131</field>
@@ -2780,6 +2886,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 82</field>
  </doc>
  <doc>
   <field name="id">item-10.132</field>
@@ -2806,6 +2913,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 83</field>
  </doc>
  <doc>
   <field name="id">item-10.133</field>
@@ -2832,6 +2940,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 84</field>
  </doc>
  <doc>
   <field name="id">item-10.134</field>
@@ -2858,6 +2967,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sinope 85</field>
  </doc>
  <doc>
   <field name="id">item-10.135</field>
@@ -2884,6 +2994,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 30 1456</field>
  </doc>
  <doc>
   <field name="id">item-10.136</field>
@@ -2910,6 +3021,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Sağlan and Bağdatli Çam (2017)  125-127 n. 2</field>
  </doc>
  <doc>
   <field name="id">item-10.139</field>
@@ -2936,6 +3048,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The date, based on letter-forms alone, is doubted by Pleket in SEG 33.1113.</field>
+  <field name="epigraphic_reference">SEG 33 1113</field>
  </doc>
  <doc>
   <field name="id">item-10.142</field>
@@ -2962,6 +3075,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 33</field>
  </doc>
  <doc>
   <field name="id">item-10.143</field>
@@ -2988,6 +3102,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honoured with a flowered crown with a fillet for life.</field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 33</field>
  </doc>
  <doc>
   <field name="id">item-10.144</field>
@@ -3014,6 +3129,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 34</field>
  </doc>
  <doc>
   <field name="id">item-10.145</field>
@@ -3040,6 +3156,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 34</field>
  </doc>
  <doc>
   <field name="id">item-10.146</field>
@@ -3066,6 +3183,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honoured with a stele on which a crown is to be painted.</field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 35</field>
  </doc>
  <doc>
   <field name="id">item-10.147</field>
@@ -3092,6 +3210,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honoured with crowns to be annoucned at different gatherings of the association.</field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 35</field>
  </doc>
  <doc>
   <field name="id">item-10.148</field>
@@ -3118,6 +3237,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 36</field>
  </doc>
  <doc>
   <field name="id">item-10.149</field>
@@ -3144,6 +3264,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 37</field>
  </doc>
  <doc>
   <field name="id">item-10.150</field>
@@ -3170,6 +3291,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 138</field>
  </doc>
  <doc>
   <field name="id">item-10.151</field>
@@ -3196,6 +3318,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Apameia und Pylai 140</field>
  </doc>
  <doc>
   <field name="id">item-10.152</field>
@@ -3222,6 +3345,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Doğan (2016)  269-270 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-10.153</field>
@@ -3248,6 +3372,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Doğan (2016)  269-270 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-10.154</field>
@@ -3274,6 +3399,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand was a priest, perhaps in the context of the association.</field>
+  <field name="epigraphic_reference">Doğan (2016)  269-270 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-10.157</field>
@@ -3300,6 +3426,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1</field>
  </doc>
  <doc>
   <field name="id">item-10.158</field>
@@ -3326,6 +3453,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of misthoi.</field>
+  <field name="epigraphic_reference">I.Prusa 1</field>
  </doc>
  <doc>
   <field name="id">item-10.159</field>
@@ -3352,6 +3480,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1</field>
  </doc>
  <doc>
   <field name="id">item-10.160</field>
@@ -3378,6 +3507,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 2</field>
  </doc>
  <doc>
   <field name="id">item-10.161</field>
@@ -3404,6 +3534,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 2</field>
  </doc>
  <doc>
   <field name="id">item-10.162</field>
@@ -3430,6 +3561,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of a military campaign.</field>
+  <field name="epigraphic_reference">I.Prusa 2</field>
  </doc>
  <doc>
   <field name="id">item-10.163</field>
@@ -3456,6 +3588,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 2</field>
  </doc>
  <doc>
   <field name="id">item-10.164</field>
@@ -3482,6 +3615,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 25</field>
  </doc>
  <doc>
   <field name="id">item-10.165</field>
@@ -3508,6 +3642,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 40</field>
  </doc>
  <doc>
   <field name="id">item-10.166</field>
@@ -3534,6 +3669,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 46</field>
  </doc>
  <doc>
   <field name="id">item-10.167</field>
@@ -3560,6 +3696,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 62</field>
  </doc>
  <doc>
   <field name="id">item-10.168</field>
@@ -3586,6 +3723,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 133</field>
  </doc>
  <doc>
   <field name="id">item-10.169</field>
@@ -3612,6 +3750,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 139</field>
  </doc>
  <doc>
   <field name="id">item-10.171</field>
@@ -3638,6 +3777,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1013</field>
  </doc>
  <doc>
   <field name="id">item-10.172</field>
@@ -3664,6 +3804,7 @@
   <field name="nature">GRAIN</field>
   <field name="denomination">MEDIMNOS</field>
   <field name="notes">The land defined as being 10 medimnoi in size, i.e. able to produce 10 medimnoi, about 2.5 hectares.</field>
+  <field name="epigraphic_reference">I.Prusa 1013</field>
  </doc>
  <doc>
   <field name="id">item-10.173</field>
@@ -3690,6 +3831,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1017</field>
  </doc>
  <doc>
   <field name="id">item-10.174</field>
@@ -3716,6 +3858,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1019</field>
  </doc>
  <doc>
   <field name="id">item-10.175</field>
@@ -3742,6 +3885,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1020</field>
  </doc>
  <doc>
   <field name="id">item-10.176</field>
@@ -3768,6 +3912,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1021</field>
  </doc>
  <doc>
   <field name="id">item-10.177</field>
@@ -3794,6 +3939,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1025</field>
  </doc>
  <doc>
   <field name="id">item-10.178</field>
@@ -3820,6 +3966,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1033</field>
  </doc>
  <doc>
   <field name="id">item-10.179</field>
@@ -3846,6 +3993,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1060</field>
  </doc>
  <doc>
   <field name="id">item-10.180</field>
@@ -3872,6 +4020,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of the tomb's construction.</field>
+  <field name="epigraphic_reference">I.Prusa 1061</field>
  </doc>
  <doc>
   <field name="id">item-10.181</field>
@@ -3898,6 +4047,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1063</field>
  </doc>
  <doc>
   <field name="id">item-10.182</field>
@@ -3924,6 +4074,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1070</field>
  </doc>
  <doc>
   <field name="id">item-10.183</field>
@@ -3950,6 +4101,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1090</field>
  </doc>
  <doc>
   <field name="id">item-10.185</field>
@@ -3976,6 +4128,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 1</field>
  </doc>
  <doc>
   <field name="id">item-10.186</field>
@@ -4002,6 +4155,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 2</field>
  </doc>
  <doc>
   <field name="id">item-10.187</field>
@@ -4028,6 +4182,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 5</field>
  </doc>
  <doc>
   <field name="id">item-10.188</field>
@@ -4054,6 +4209,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honoured also with a marble cult-statue.</field>
+  <field name="epigraphic_reference">I.Kios 5</field>
  </doc>
  <doc>
   <field name="id">item-10.189</field>
@@ -4080,6 +4236,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 8</field>
  </doc>
  <doc>
   <field name="id">item-10.190</field>
@@ -4106,6 +4263,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of anointing oil, epalimma.</field>
+  <field name="epigraphic_reference">I.Kios 8</field>
  </doc>
  <doc>
   <field name="id">item-10.191</field>
@@ -4132,6 +4290,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">ARGURION</field>
   <field name="notes">Mention of distributions, diadoseis, possibly of money.</field>
+  <field name="epigraphic_reference">I.Kios 8</field>
  </doc>
  <doc>
   <field name="id">item-10.192</field>
@@ -4158,6 +4317,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 8</field>
  </doc>
  <doc>
   <field name="id">item-10.193</field>
@@ -4184,6 +4344,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 7</field>
  </doc>
  <doc>
   <field name="id">item-10.195</field>
@@ -4210,6 +4371,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 19</field>
  </doc>
  <doc>
   <field name="id">item-10.196</field>
@@ -4236,6 +4398,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 23</field>
  </doc>
  <doc>
   <field name="id">item-10.197</field>
@@ -4262,6 +4425,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Context is very unclear.</field>
+  <field name="epigraphic_reference">I.Kios 25</field>
  </doc>
  <doc>
   <field name="id">item-10.198</field>
@@ -4288,6 +4452,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 28</field>
  </doc>
  <doc>
   <field name="id">item-10.199</field>
@@ -4314,6 +4479,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 58</field>
  </doc>
  <doc>
   <field name="id">item-10.200</field>
@@ -4340,6 +4506,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 59</field>
  </doc>
  <doc>
   <field name="id">item-10.201</field>
@@ -4366,6 +4533,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 75</field>
  </doc>
  <doc>
   <field name="id">item-10.202</field>
@@ -4392,6 +4560,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kios 102</field>
  </doc>
  <doc>
   <field name="id">item-10.208</field>
@@ -4418,6 +4587,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 40 1426</field>
  </doc>
  <doc>
   <field name="id">item-10.210</field>
@@ -4444,6 +4614,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">BSt 5</field>
  </doc>
  <doc>
   <field name="id">item-10.211</field>
@@ -4470,6 +4641,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">BSt 8</field>
  </doc>
  <doc>
   <field name="id">item-10.212</field>
@@ -4496,6 +4668,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">BSt 9</field>
  </doc>
  <doc>
   <field name="id">item-10.213</field>
@@ -4522,6 +4695,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 36 1158</field>
  </doc>
  <doc>
   <field name="id">item-10.214</field>
@@ -4548,6 +4722,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Nikaia/Iznik 225</field>
  </doc>
  <doc>
   <field name="id">item-10.217</field>
@@ -4574,6 +4749,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 2</field>
  </doc>
  <doc>
   <field name="id">item-10.218</field>
@@ -4600,6 +4776,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 3</field>
  </doc>
  <doc>
   <field name="id">item-10.219</field>
@@ -4626,6 +4803,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 4</field>
  </doc>
  <doc>
   <field name="id">item-10.220</field>
@@ -4652,6 +4830,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 5 ll. 1-17</field>
  </doc>
  <doc>
   <field name="id">item-10.221</field>
@@ -4678,6 +4857,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 5 ll. 18-30</field>
  </doc>
  <doc>
   <field name="id">item-10.222</field>
@@ -4704,6 +4884,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 6</field>
  </doc>
  <doc>
   <field name="id">item-10.223</field>
@@ -4730,6 +4911,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 7</field>
  </doc>
  <doc>
   <field name="id">item-10.224</field>
@@ -4756,6 +4938,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 8</field>
  </doc>
  <doc>
   <field name="id">item-10.225</field>
@@ -4782,6 +4965,7 @@
   <field name="nature"></field>
   <field name="denomination">MINA, DRACHMA, TRIOBOL, OBOL, CHALKOS</field>
   <field name="notes">Outline of the costs that the incoming priest must pay to priests of other gods, a triobol per mina paid (unknown god, Hermes, Ammon), a drachma, two obols and four chalkoi per mina (Herakles), three drachmas and two obols (Samothracian gods), two drachmas and four obols per mina (Zeus Boulaios for the use of a herald).</field>
+  <field name="epigraphic_reference">I.Kalchedon 10</field>
  </doc>
  <doc>
   <field name="id">item-10.226</field>
@@ -4808,6 +4992,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Fine of 400 drachmas for anyone who opposes the decree.</field>
+  <field name="epigraphic_reference">I.Kalchedon 10</field>
  </doc>
  <doc>
   <field name="id">item-10.227</field>
@@ -4834,6 +5019,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 10</field>
  </doc>
  <doc>
   <field name="id">item-10.228</field>
@@ -4860,6 +5046,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Regulation that the priest should receive the necessary funds oly when the previous priest has ceased to receive them.</field>
+  <field name="epigraphic_reference">I.Kalchedon 10</field>
  </doc>
  <doc>
   <field name="id">item-10.229</field>
@@ -4886,6 +5073,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA, DEKATE</field>
   <field name="notes">The priesthood was purchased for 300 drachmas, with a 10% tax, epidekaton, of 30 drachmas on top of this.</field>
+  <field name="epigraphic_reference">I.Kalchedon 11</field>
  </doc>
  <doc>
   <field name="id">item-10.230</field>
@@ -4912,6 +5100,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Outline of the priestess' sacrificial obligations and privileges.</field>
+  <field name="epigraphic_reference">I.Kalchedon 11</field>
  </doc>
  <doc>
   <field name="id">item-10.231</field>
@@ -4938,6 +5127,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 11</field>
  </doc>
  <doc>
   <field name="id">item-10.232</field>
@@ -4964,6 +5154,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Fine for opposing the decree of an unknown sum, perhaps 1,000 drachmas.</field>
+  <field name="epigraphic_reference">I.Kalchedon 11</field>
  </doc>
  <doc>
   <field name="id">item-10.233</field>
@@ -4990,6 +5181,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA, OBOL</field>
   <field name="notes">Mention of the price of the priesthood, with taxes included, as 5038 drachmas 4 obols</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.234</field>
@@ -5016,6 +5208,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Regulations on the priest's privileges and obligations.</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.235</field>
@@ -5042,6 +5235,7 @@
   <field name="nature"></field>
   <field name="denomination">EPIKEPHALAION</field>
   <field name="notes">Exemption from military service and the capital tax, the epikephalaion telos.</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.236</field>
@@ -5068,6 +5262,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The priest to enjoy the use of the land around the sanctuary, so long as the city does not wish to build on it.</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.237</field>
@@ -5094,6 +5289,7 @@
   <field name="nature"></field>
   <field name="denomination">HEKATOSTE, TRIAKOSTE</field>
   <field name="notes">The priest is allowed to sell the priesthood only to his son, and no one else; regulations on the 1/100 and 1/30 tax payable on the price of the priesthood.</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.238</field>
@@ -5120,6 +5316,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Penalty of 1,000 drachmas for opposing the decree.</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.239</field>
@@ -5146,6 +5343,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA, OBOL, HEKATOSTE, TRIAKOSTE</field>
   <field name="notes">Priesthood purchased by a Matris for 5,038 drachmas and 4 obols, including the proportionate taxes.</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.240</field>
@@ -5172,6 +5370,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA, OBOL, HEKATOSTE, TRIAKOSTE</field>
   <field name="notes">Mention of the 1/100 and 1/30 tax added to the cost of the priesthood, probably a tax on purchases.</field>
+  <field name="epigraphic_reference">I.Kalchedon 12</field>
  </doc>
  <doc>
   <field name="id">item-10.241</field>
@@ -5198,6 +5397,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 13</field>
  </doc>
  <doc>
   <field name="id">item-10.242</field>
@@ -5224,6 +5424,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Provisions on the priest's sacrificial obligations.</field>
+  <field name="epigraphic_reference">I.Kalchedon 13</field>
  </doc>
  <doc>
   <field name="id">item-10.243</field>
@@ -5250,6 +5451,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Provisions on the priest's sacrificial obligations.</field>
+  <field name="epigraphic_reference">I.Kalchedon 13</field>
  </doc>
  <doc>
   <field name="id">item-10.244</field>
@@ -5276,6 +5478,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 14</field>
  </doc>
  <doc>
   <field name="id">item-10.245</field>
@@ -5302,6 +5505,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 15</field>
  </doc>
  <doc>
   <field name="id">item-10.246</field>
@@ -5328,6 +5532,7 @@
   <field name="nature">GOLD, SILVER, BRONZE</field>
   <field name="denomination">KYZIKENE STATER, HEMISTATER, CHRUSION EPISEMON, ARGURION EPISEMON, CHALKOS</field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 16</field>
  </doc>
  <doc>
   <field name="id">item-10.247</field>
@@ -5354,6 +5559,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 30</field>
  </doc>
  <doc>
   <field name="id">item-10.248</field>
@@ -5380,6 +5586,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 31</field>
  </doc>
  <doc>
   <field name="id">item-10.249</field>
@@ -5406,6 +5613,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 33</field>
  </doc>
  <doc>
   <field name="id">item-10.250</field>
@@ -5432,6 +5640,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 34</field>
  </doc>
  <doc>
   <field name="id">item-10.251</field>
@@ -5458,6 +5667,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 35</field>
  </doc>
  <doc>
   <field name="id">item-10.252</field>
@@ -5484,6 +5694,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 36</field>
  </doc>
  <doc>
   <field name="id">item-10.253</field>
@@ -5510,6 +5721,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 37</field>
  </doc>
  <doc>
   <field name="id">item-10.254</field>
@@ -5536,6 +5748,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 38</field>
  </doc>
  <doc>
   <field name="id">item-10.255</field>
@@ -5562,6 +5775,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 39</field>
  </doc>
  <doc>
   <field name="id">item-10.256</field>
@@ -5588,6 +5802,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 40</field>
  </doc>
  <doc>
   <field name="id">item-10.257</field>
@@ -5614,6 +5829,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 41</field>
  </doc>
  <doc>
   <field name="id">item-10.258</field>
@@ -5640,6 +5856,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 43</field>
  </doc>
  <doc>
   <field name="id">item-10.259</field>
@@ -5666,6 +5883,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 44</field>
  </doc>
  <doc>
   <field name="id">item-10.260</field>
@@ -5692,6 +5910,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 45</field>
  </doc>
  <doc>
   <field name="id">item-10.261</field>
@@ -5718,6 +5937,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 46</field>
  </doc>
  <doc>
   <field name="id">item-10.262</field>
@@ -5744,6 +5964,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 47</field>
  </doc>
  <doc>
   <field name="id">item-10.263</field>
@@ -5770,6 +5991,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 48</field>
  </doc>
  <doc>
   <field name="id">item-10.264</field>
@@ -5796,6 +6018,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 49</field>
  </doc>
  <doc>
   <field name="id">item-10.265</field>
@@ -5822,6 +6045,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 51</field>
  </doc>
  <doc>
   <field name="id">item-10.266</field>
@@ -5848,6 +6072,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 52</field>
  </doc>
  <doc>
   <field name="id">item-10.267</field>
@@ -5874,6 +6099,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Kalchedon 53</field>
  </doc>
  <doc>
   <field name="id">item-10.268</field>
@@ -5900,6 +6126,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 27 735</field>
  </doc>
  <doc>
   <field name="id">item-10.269</field>
@@ -5926,6 +6153,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 35 1299</field>
  </doc>
  <doc>
   <field name="id">item-10.270</field>
@@ -5952,6 +6180,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 63 1134</field>
  </doc>
  <doc>
   <field name="id">item-10.273</field>
@@ -5978,6 +6207,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">BSt 12</field>
  </doc>
  <doc>
   <field name="id">item-10.274</field>
@@ -6004,6 +6234,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 29 1276</field>
  </doc>
  <doc>
   <field name="id">item-10.275</field>
@@ -6030,6 +6261,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of Kouroupedion and the river Phrygios, near which the battles took place.</field>
+  <field name="epigraphic_reference">I.Kios 98</field>
  </doc>
  <doc>
   <field name="id">item-10.280</field>
@@ -6056,6 +6288,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 27 826</field>
  </doc>
  <doc>
   <field name="id">item-10.281</field>
@@ -6082,6 +6315,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 27 831</field>
  </doc>
  <doc>
   <field name="id">item-10.282</field>
@@ -6108,6 +6342,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 36 1154</field>
  </doc>
  <doc>
   <field name="id">item-10.283</field>
@@ -6134,6 +6369,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 40 1147</field>
  </doc>
  <doc>
   <field name="id">item-10.284</field>
@@ -6160,6 +6396,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1011</field>
  </doc>
  <doc>
   <field name="id">item-10.285</field>
@@ -6186,6 +6423,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1793</field>
  </doc>
  <doc>
   <field name="id">item-10.286</field>
@@ -6212,6 +6450,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1028</field>
  </doc>
  <doc>
   <field name="id">item-10.287</field>
@@ -6238,6 +6477,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Prusa 1054</field>
  </doc>
  <doc>
   <field name="id">item-10.290</field>
@@ -6264,6 +6504,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Heraclea Pontica 70</field>
  </doc>
  <doc>
   <field name="id">item-10.299</field>
@@ -6290,6 +6531,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 4</field>
  </doc>
  <doc>
   <field name="id">item-10.300</field>
@@ -6316,6 +6558,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 4</field>
  </doc>
  <doc>
   <field name="id">item-10.301</field>
@@ -6342,6 +6585,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 5</field>
  </doc>
  <doc>
   <field name="id">item-10.302</field>
@@ -6368,6 +6612,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 6</field>
  </doc>
  <doc>
   <field name="id">item-10.303</field>
@@ -6394,6 +6639,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 7</field>
  </doc>
  <doc>
   <field name="id">item-10.304</field>
@@ -6420,6 +6666,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 8A</field>
  </doc>
  <doc>
   <field name="id">item-10.305</field>
@@ -6446,6 +6693,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 8B</field>
  </doc>
  <doc>
   <field name="id">item-10.306</field>
@@ -6472,6 +6720,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 9</field>
  </doc>
  <doc>
   <field name="id">item-10.307</field>
@@ -6498,6 +6747,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 41</field>
  </doc>
  <doc>
   <field name="id">item-10.308</field>
@@ -6524,6 +6774,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 42</field>
  </doc>
  <doc>
   <field name="id">item-10.309</field>
@@ -6550,6 +6801,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 50</field>
  </doc>
  <doc>
   <field name="id">item-10.310</field>
@@ -6576,6 +6828,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 53</field>
  </doc>
  <doc>
   <field name="id">item-10.311</field>
@@ -6602,6 +6855,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 57</field>
  </doc>
  <doc>
   <field name="id">item-10.312</field>
@@ -6628,6 +6882,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 58</field>
  </doc>
  <doc>
   <field name="id">item-10.313</field>
@@ -6654,6 +6909,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 59</field>
  </doc>
  <doc>
   <field name="id">item-10.314</field>
@@ -6680,6 +6936,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 60</field>
  </doc>
  <doc>
   <field name="id">item-10.315</field>
@@ -6706,6 +6963,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 61</field>
  </doc>
  <doc>
   <field name="id">item-10.316</field>
@@ -6732,6 +6990,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 62</field>
  </doc>
  <doc>
   <field name="id">item-10.317</field>
@@ -6758,6 +7017,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 63</field>
  </doc>
  <doc>
   <field name="id">item-10.318</field>
@@ -6784,6 +7044,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 64</field>
  </doc>
  <doc>
   <field name="id">item-10.319</field>
@@ -6810,6 +7071,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 65</field>
  </doc>
  <doc>
   <field name="id">item-10.320</field>
@@ -6836,6 +7098,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 66</field>
  </doc>
  <doc>
   <field name="id">item-10.321</field>
@@ -6862,6 +7125,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 67</field>
  </doc>
  <doc>
   <field name="id">item-10.322</field>
@@ -6888,6 +7152,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 68</field>
  </doc>
  <doc>
   <field name="id">item-10.323</field>
@@ -6914,6 +7179,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 69</field>
  </doc>
  <doc>
   <field name="id">item-10.324</field>
@@ -6940,6 +7206,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 70</field>
  </doc>
  <doc>
   <field name="id">item-10.325</field>
@@ -6966,6 +7233,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 71</field>
  </doc>
  <doc>
   <field name="id">item-10.326</field>
@@ -6992,6 +7260,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 72</field>
  </doc>
  <doc>
   <field name="id">item-10.327</field>
@@ -7018,6 +7287,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 73</field>
  </doc>
  <doc>
   <field name="id">item-10.328</field>
@@ -7044,6 +7314,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 74</field>
  </doc>
  <doc>
   <field name="id">item-10.329</field>
@@ -7070,6 +7341,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 75</field>
  </doc>
  <doc>
   <field name="id">item-10.330</field>
@@ -7096,6 +7368,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 76</field>
  </doc>
  <doc>
   <field name="id">item-10.331</field>
@@ -7122,6 +7395,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 77</field>
  </doc>
  <doc>
   <field name="id">item-10.332</field>
@@ -7148,6 +7422,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 78</field>
  </doc>
  <doc>
   <field name="id">item-10.333</field>
@@ -7174,6 +7449,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 79</field>
  </doc>
  <doc>
   <field name="id">item-10.334</field>
@@ -7200,6 +7476,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 80</field>
  </doc>
  <doc>
   <field name="id">item-10.335</field>
@@ -7226,6 +7503,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 81</field>
  </doc>
  <doc>
   <field name="id">item-10.336</field>
@@ -7252,6 +7530,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 82</field>
  </doc>
  <doc>
   <field name="id">item-10.337</field>
@@ -7278,6 +7557,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 83</field>
  </doc>
  <doc>
   <field name="id">item-10.338</field>
@@ -7304,6 +7584,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 84</field>
  </doc>
  <doc>
   <field name="id">item-10.339</field>
@@ -7330,6 +7611,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 85</field>
  </doc>
  <doc>
   <field name="id">item-10.340</field>
@@ -7356,6 +7638,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 86</field>
  </doc>
  <doc>
   <field name="id">item-10.341</field>
@@ -7382,6 +7665,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 87</field>
  </doc>
  <doc>
   <field name="id">item-10.342</field>
@@ -7408,6 +7692,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 88</field>
  </doc>
  <doc>
   <field name="id">item-10.343</field>
@@ -7434,6 +7719,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 89</field>
  </doc>
  <doc>
   <field name="id">item-10.344</field>
@@ -7460,6 +7746,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 90</field>
  </doc>
  <doc>
   <field name="id">item-10.345</field>
@@ -7486,6 +7773,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 91</field>
  </doc>
  <doc>
   <field name="id">item-10.346</field>
@@ -7512,6 +7800,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 92</field>
  </doc>
  <doc>
   <field name="id">item-10.347</field>
@@ -7538,6 +7827,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 93</field>
  </doc>
  <doc>
   <field name="id">item-10.348</field>
@@ -7564,6 +7854,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 94</field>
  </doc>
  <doc>
   <field name="id">item-10.349</field>
@@ -7590,6 +7881,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 95</field>
  </doc>
  <doc>
   <field name="id">item-10.350</field>
@@ -7616,6 +7908,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 96</field>
  </doc>
  <doc>
   <field name="id">item-10.351</field>
@@ -7642,6 +7935,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 97</field>
  </doc>
  <doc>
   <field name="id">item-10.352</field>
@@ -7668,6 +7962,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 98</field>
  </doc>
  <doc>
   <field name="id">item-10.353</field>
@@ -7694,6 +7989,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 99</field>
  </doc>
  <doc>
   <field name="id">item-10.354</field>
@@ -7720,6 +8016,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 100</field>
  </doc>
  <doc>
   <field name="id">item-10.355</field>
@@ -7746,6 +8043,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 101</field>
  </doc>
  <doc>
   <field name="id">item-10.356</field>
@@ -7772,6 +8070,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 102</field>
  </doc>
  <doc>
   <field name="id">item-10.357</field>
@@ -7798,6 +8097,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 103</field>
  </doc>
  <doc>
   <field name="id">item-10.358</field>
@@ -7824,6 +8124,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 104</field>
  </doc>
  <doc>
   <field name="id">item-10.359</field>
@@ -7850,6 +8151,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 105</field>
  </doc>
  <doc>
   <field name="id">item-10.360</field>
@@ -7876,6 +8178,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 109</field>
  </doc>
  <doc>
   <field name="id">item-10.361</field>
@@ -7902,6 +8205,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 110</field>
  </doc>
  <doc>
   <field name="id">item-10.362</field>
@@ -7928,6 +8232,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 112</field>
  </doc>
  <doc>
   <field name="id">item-10.363</field>
@@ -7954,6 +8259,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 113</field>
  </doc>
  <doc>
   <field name="id">item-10.364</field>
@@ -7980,6 +8286,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 114</field>
  </doc>
  <doc>
   <field name="id">item-10.365</field>
@@ -8006,6 +8313,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 115</field>
  </doc>
  <doc>
   <field name="id">item-10.366</field>
@@ -8032,6 +8340,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 116</field>
  </doc>
  <doc>
   <field name="id">item-10.367</field>
@@ -8058,6 +8367,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 117</field>
  </doc>
  <doc>
   <field name="id">item-10.368</field>
@@ -8084,6 +8394,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 117A</field>
  </doc>
  <doc>
   <field name="id">item-10.369</field>
@@ -8110,6 +8421,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 117B</field>
  </doc>
  <doc>
   <field name="id">item-10.370</field>
@@ -8136,6 +8448,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 118</field>
  </doc>
  <doc>
   <field name="id">item-10.371</field>
@@ -8162,6 +8475,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 119</field>
  </doc>
  <doc>
   <field name="id">item-10.372</field>
@@ -8188,6 +8502,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 121</field>
  </doc>
  <doc>
   <field name="id">item-10.373</field>
@@ -8214,6 +8529,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 124</field>
  </doc>
  <doc>
   <field name="id">item-10.374</field>
@@ -8240,6 +8556,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 125</field>
  </doc>
  <doc>
   <field name="id">item-10.375</field>
@@ -8266,6 +8583,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 126</field>
  </doc>
  <doc>
   <field name="id">item-10.376</field>
@@ -8292,6 +8610,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 127</field>
  </doc>
  <doc>
   <field name="id">item-10.377</field>
@@ -8318,6 +8637,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 128</field>
  </doc>
  <doc>
   <field name="id">item-10.378</field>
@@ -8344,6 +8664,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 129</field>
  </doc>
  <doc>
   <field name="id">item-10.379</field>
@@ -8370,6 +8691,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 130</field>
  </doc>
  <doc>
   <field name="id">item-10.380</field>
@@ -8396,6 +8718,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 131</field>
  </doc>
  <doc>
   <field name="id">item-10.381</field>
@@ -8422,6 +8745,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 133</field>
  </doc>
  <doc>
   <field name="id">item-10.382</field>
@@ -8448,6 +8772,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 134</field>
  </doc>
  <doc>
   <field name="id">item-10.383</field>
@@ -8474,6 +8799,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 135</field>
  </doc>
  <doc>
   <field name="id">item-10.384</field>
@@ -8500,6 +8826,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 136</field>
  </doc>
  <doc>
   <field name="id">item-10.385</field>
@@ -8526,6 +8853,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 137</field>
  </doc>
  <doc>
   <field name="id">item-10.386</field>
@@ -8552,6 +8880,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 139</field>
  </doc>
  <doc>
   <field name="id">item-10.387</field>
@@ -8578,6 +8907,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 140</field>
  </doc>
  <doc>
   <field name="id">item-10.388</field>
@@ -8604,6 +8934,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 143</field>
  </doc>
  <doc>
   <field name="id">item-10.389</field>
@@ -8630,6 +8961,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 146</field>
  </doc>
  <doc>
   <field name="id">item-10.390</field>
@@ -8656,6 +8988,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 147</field>
  </doc>
  <doc>
   <field name="id">item-10.391</field>
@@ -8682,6 +9015,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 148</field>
  </doc>
  <doc>
   <field name="id">item-10.392</field>
@@ -8708,6 +9042,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 150</field>
  </doc>
  <doc>
   <field name="id">item-10.393</field>
@@ -8734,6 +9069,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 151</field>
  </doc>
  <doc>
   <field name="id">item-10.394</field>
@@ -8760,6 +9096,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 154</field>
  </doc>
  <doc>
   <field name="id">item-10.395</field>
@@ -8786,6 +9123,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 155</field>
  </doc>
  <doc>
   <field name="id">item-10.396</field>
@@ -8812,6 +9150,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 156</field>
  </doc>
  <doc>
   <field name="id">item-10.397</field>
@@ -8838,6 +9177,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 157</field>
  </doc>
  <doc>
   <field name="id">item-10.398</field>
@@ -8864,6 +9204,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 158</field>
  </doc>
  <doc>
   <field name="id">item-10.399</field>
@@ -8890,6 +9231,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 159</field>
  </doc>
  <doc>
   <field name="id">item-10.400</field>
@@ -8916,6 +9258,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 160</field>
  </doc>
  <doc>
   <field name="id">item-10.401</field>
@@ -8942,6 +9285,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 161</field>
  </doc>
  <doc>
   <field name="id">item-10.402</field>
@@ -8968,6 +9312,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 162</field>
  </doc>
  <doc>
   <field name="id">item-10.403</field>
@@ -8994,6 +9339,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 163</field>
  </doc>
  <doc>
   <field name="id">item-10.404</field>
@@ -9020,6 +9366,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 164</field>
  </doc>
  <doc>
   <field name="id">item-10.405</field>
@@ -9046,6 +9393,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 165</field>
  </doc>
  <doc>
   <field name="id">item-10.406</field>
@@ -9072,6 +9420,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 166</field>
  </doc>
  <doc>
   <field name="id">item-10.407</field>
@@ -9098,6 +9447,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 167</field>
  </doc>
  <doc>
   <field name="id">item-10.408</field>
@@ -9124,6 +9474,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 168</field>
  </doc>
  <doc>
   <field name="id">item-10.409</field>
@@ -9150,6 +9501,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 169</field>
  </doc>
  <doc>
   <field name="id">item-10.410</field>
@@ -9176,6 +9528,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 170</field>
  </doc>
  <doc>
   <field name="id">item-10.411</field>
@@ -9202,6 +9555,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 171</field>
  </doc>
  <doc>
   <field name="id">item-10.412</field>
@@ -9228,6 +9582,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 172</field>
  </doc>
  <doc>
   <field name="id">item-10.413</field>
@@ -9254,6 +9609,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 173</field>
  </doc>
  <doc>
   <field name="id">item-10.414</field>
@@ -9280,6 +9636,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 175</field>
  </doc>
  <doc>
   <field name="id">item-10.415</field>
@@ -9306,6 +9663,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 176</field>
  </doc>
  <doc>
   <field name="id">item-10.416</field>
@@ -9332,6 +9690,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 177</field>
  </doc>
  <doc>
   <field name="id">item-10.417</field>
@@ -9358,6 +9717,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 178</field>
  </doc>
  <doc>
   <field name="id">item-10.418</field>
@@ -9384,6 +9744,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 179</field>
  </doc>
  <doc>
   <field name="id">item-10.419</field>
@@ -9410,6 +9771,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 180</field>
  </doc>
  <doc>
   <field name="id">item-10.420</field>
@@ -9436,6 +9798,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 183</field>
  </doc>
  <doc>
   <field name="id">item-10.421</field>
@@ -9462,6 +9825,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 184</field>
  </doc>
  <doc>
   <field name="id">item-10.422</field>
@@ -9488,6 +9852,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 185</field>
  </doc>
  <doc>
   <field name="id">item-10.423</field>
@@ -9514,6 +9879,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 186</field>
  </doc>
  <doc>
   <field name="id">item-10.424</field>
@@ -9540,6 +9906,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 187</field>
  </doc>
  <doc>
   <field name="id">item-10.425</field>
@@ -9566,6 +9933,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 188</field>
  </doc>
  <doc>
   <field name="id">item-10.426</field>
@@ -9592,6 +9960,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 190</field>
  </doc>
  <doc>
   <field name="id">item-10.427</field>
@@ -9618,6 +9987,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 191</field>
  </doc>
  <doc>
   <field name="id">item-10.428</field>
@@ -9644,6 +10014,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 192</field>
  </doc>
  <doc>
   <field name="id">item-10.429</field>
@@ -9670,6 +10041,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 193</field>
  </doc>
  <doc>
   <field name="id">item-10.430</field>
@@ -9696,6 +10068,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 194</field>
  </doc>
  <doc>
   <field name="id">item-10.431</field>
@@ -9722,6 +10095,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 195</field>
  </doc>
  <doc>
   <field name="id">item-10.432</field>
@@ -9748,6 +10122,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 196</field>
  </doc>
  <doc>
   <field name="id">item-10.433</field>
@@ -9774,6 +10149,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 197</field>
  </doc>
  <doc>
   <field name="id">item-10.434</field>
@@ -9800,6 +10176,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 198</field>
  </doc>
  <doc>
   <field name="id">item-10.435</field>
@@ -9826,6 +10203,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 200</field>
  </doc>
  <doc>
   <field name="id">item-10.436</field>
@@ -9852,6 +10230,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 201</field>
  </doc>
  <doc>
   <field name="id">item-10.437</field>
@@ -9878,6 +10257,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 202</field>
  </doc>
  <doc>
   <field name="id">item-10.438</field>
@@ -9904,6 +10284,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 203</field>
  </doc>
  <doc>
   <field name="id">item-10.439</field>
@@ -9930,6 +10311,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 204</field>
  </doc>
  <doc>
   <field name="id">item-10.440</field>
@@ -9956,6 +10338,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 205</field>
  </doc>
  <doc>
   <field name="id">item-10.441</field>
@@ -9982,6 +10365,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 206</field>
  </doc>
  <doc>
   <field name="id">item-10.442</field>
@@ -10008,6 +10392,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 207</field>
  </doc>
  <doc>
   <field name="id">item-10.443</field>
@@ -10034,6 +10419,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 209</field>
  </doc>
  <doc>
   <field name="id">item-10.444</field>
@@ -10060,6 +10446,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 210</field>
  </doc>
  <doc>
   <field name="id">item-10.445</field>
@@ -10086,6 +10473,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 211</field>
  </doc>
  <doc>
   <field name="id">item-10.446</field>
@@ -10112,6 +10500,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 212</field>
  </doc>
  <doc>
   <field name="id">item-10.447</field>
@@ -10138,6 +10527,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 213</field>
  </doc>
  <doc>
   <field name="id">item-10.448</field>
@@ -10164,6 +10554,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 214</field>
  </doc>
  <doc>
   <field name="id">item-10.449</field>
@@ -10190,6 +10581,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 215</field>
  </doc>
  <doc>
   <field name="id">item-10.450</field>
@@ -10216,6 +10608,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 216</field>
  </doc>
  <doc>
   <field name="id">item-10.451</field>
@@ -10242,6 +10635,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 217</field>
  </doc>
  <doc>
   <field name="id">item-10.452</field>
@@ -10268,6 +10662,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 218</field>
  </doc>
  <doc>
   <field name="id">item-10.453</field>
@@ -10294,6 +10689,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 219</field>
  </doc>
  <doc>
   <field name="id">item-10.454</field>
@@ -10320,6 +10716,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 220</field>
  </doc>
  <doc>
   <field name="id">item-10.455</field>
@@ -10346,6 +10743,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 221</field>
  </doc>
  <doc>
   <field name="id">item-10.456</field>
@@ -10372,6 +10770,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 222</field>
  </doc>
  <doc>
   <field name="id">item-10.457</field>
@@ -10398,6 +10797,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 223</field>
  </doc>
  <doc>
   <field name="id">item-10.458</field>
@@ -10424,6 +10824,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 224</field>
  </doc>
  <doc>
   <field name="id">item-10.459</field>
@@ -10450,6 +10851,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 225</field>
  </doc>
  <doc>
   <field name="id">item-10.460</field>
@@ -10476,6 +10878,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 226</field>
  </doc>
  <doc>
   <field name="id">item-10.461</field>
@@ -10502,6 +10905,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 227</field>
  </doc>
  <doc>
   <field name="id">item-10.462</field>
@@ -10528,6 +10932,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 228</field>
  </doc>
  <doc>
   <field name="id">item-10.463</field>
@@ -10554,6 +10959,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 229</field>
  </doc>
  <doc>
   <field name="id">item-10.464</field>
@@ -10580,6 +10986,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 230</field>
  </doc>
  <doc>
   <field name="id">item-10.465</field>
@@ -10606,6 +11013,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 231</field>
  </doc>
  <doc>
   <field name="id">item-10.466</field>
@@ -10632,6 +11040,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 233</field>
  </doc>
  <doc>
   <field name="id">item-10.467</field>
@@ -10658,6 +11067,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 234</field>
  </doc>
  <doc>
   <field name="id">item-10.468</field>
@@ -10684,6 +11094,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 235</field>
  </doc>
  <doc>
   <field name="id">item-10.469</field>
@@ -10710,6 +11121,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 236</field>
  </doc>
  <doc>
   <field name="id">item-10.470</field>
@@ -10736,6 +11148,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 239</field>
  </doc>
  <doc>
   <field name="id">item-10.471</field>
@@ -10762,6 +11175,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 243</field>
  </doc>
  <doc>
   <field name="id">item-10.472</field>
@@ -10788,6 +11202,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 249</field>
  </doc>
  <doc>
   <field name="id">item-10.473</field>
@@ -10814,6 +11229,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 250</field>
  </doc>
  <doc>
   <field name="id">item-10.474</field>
@@ -10840,6 +11256,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 251</field>
  </doc>
  <doc>
   <field name="id">item-10.475</field>
@@ -10866,6 +11283,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 252</field>
  </doc>
  <doc>
   <field name="id">item-10.476</field>
@@ -10892,6 +11310,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 253</field>
  </doc>
  <doc>
   <field name="id">item-10.477</field>
@@ -10918,6 +11337,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 253A</field>
  </doc>
  <doc>
   <field name="id">item-10.478</field>
@@ -10944,6 +11364,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 254</field>
  </doc>
  <doc>
   <field name="id">item-10.479</field>
@@ -10970,6 +11391,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 255</field>
  </doc>
  <doc>
   <field name="id">item-10.480</field>
@@ -10996,6 +11418,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 256</field>
  </doc>
  <doc>
   <field name="id">item-10.481</field>
@@ -11022,6 +11445,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 258</field>
  </doc>
  <doc>
   <field name="id">item-10.482</field>
@@ -11048,6 +11472,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 259</field>
  </doc>
  <doc>
   <field name="id">item-10.483</field>
@@ -11074,6 +11499,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 260</field>
  </doc>
  <doc>
   <field name="id">item-10.484</field>
@@ -11100,6 +11526,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 261</field>
  </doc>
  <doc>
   <field name="id">item-10.485</field>
@@ -11126,6 +11553,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 262</field>
  </doc>
  <doc>
   <field name="id">item-10.486</field>
@@ -11152,6 +11580,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 264</field>
  </doc>
  <doc>
   <field name="id">item-10.487</field>
@@ -11178,6 +11607,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 265</field>
  </doc>
  <doc>
   <field name="id">item-10.488</field>
@@ -11204,6 +11634,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 266</field>
  </doc>
  <doc>
   <field name="id">item-10.489</field>
@@ -11230,6 +11661,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 267</field>
  </doc>
  <doc>
   <field name="id">item-10.490</field>
@@ -11256,6 +11688,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 269</field>
  </doc>
  <doc>
   <field name="id">item-10.491</field>
@@ -11282,6 +11715,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 270</field>
  </doc>
  <doc>
   <field name="id">item-10.492</field>
@@ -11308,6 +11742,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 274</field>
  </doc>
  <doc>
   <field name="id">item-10.493</field>
@@ -11334,6 +11769,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 276</field>
  </doc>
  <doc>
   <field name="id">item-10.494</field>
@@ -11360,6 +11796,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 278</field>
  </doc>
  <doc>
   <field name="id">item-10.495</field>
@@ -11386,6 +11823,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 281</field>
  </doc>
  <doc>
   <field name="id">item-10.496</field>
@@ -11412,6 +11850,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 284</field>
  </doc>
  <doc>
   <field name="id">item-10.497</field>
@@ -11438,6 +11877,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 285</field>
  </doc>
  <doc>
   <field name="id">item-10.498</field>
@@ -11464,6 +11904,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 286</field>
  </doc>
  <doc>
   <field name="id">item-10.499</field>
@@ -11490,6 +11931,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 287</field>
  </doc>
  <doc>
   <field name="id">item-10.500</field>
@@ -11516,6 +11958,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 290</field>
  </doc>
  <doc>
   <field name="id">item-10.501</field>
@@ -11542,6 +11985,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 291</field>
  </doc>
  <doc>
   <field name="id">item-10.502</field>
@@ -11568,6 +12012,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 292</field>
  </doc>
  <doc>
   <field name="id">item-10.503</field>
@@ -11594,6 +12039,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 293</field>
  </doc>
  <doc>
   <field name="id">item-10.504</field>
@@ -11620,6 +12066,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 304</field>
  </doc>
  <doc>
   <field name="id">item-10.505</field>
@@ -11646,6 +12093,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 305</field>
  </doc>
  <doc>
   <field name="id">item-10.506</field>
@@ -11672,6 +12120,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 313</field>
  </doc>
  <doc>
   <field name="id">item-10.507</field>
@@ -11698,6 +12147,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 314</field>
  </doc>
  <doc>
   <field name="id">item-10.508</field>
@@ -11724,6 +12174,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 316</field>
  </doc>
  <doc>
   <field name="id">item-10.509</field>
@@ -11750,6 +12201,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The people honoured Iatrokles with heroic cult, enagismos.</field>
+  <field name="epigraphic_reference">I.Byzantion 316</field>
  </doc>
  <doc>
   <field name="id">item-10.510</field>
@@ -11776,6 +12228,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 325</field>
  </doc>
  <doc>
   <field name="id">item-10.511</field>
@@ -11802,6 +12255,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 326</field>
  </doc>
  <doc>
   <field name="id">item-10.512</field>
@@ -11828,6 +12282,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 327</field>
  </doc>
  <doc>
   <field name="id">item-10.513</field>
@@ -11854,6 +12309,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 329</field>
  </doc>
  <doc>
   <field name="id">item-10.514</field>
@@ -11880,6 +12336,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 331</field>
  </doc>
  <doc>
   <field name="id">item-10.515</field>
@@ -11906,6 +12363,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 335</field>
  </doc>
  <doc>
   <field name="id">item-10.516</field>
@@ -11932,6 +12390,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 336</field>
  </doc>
  <doc>
   <field name="id">item-10.517</field>
@@ -11958,6 +12417,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 338</field>
  </doc>
  <doc>
   <field name="id">item-10.518</field>
@@ -11984,6 +12444,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 339</field>
  </doc>
  <doc>
   <field name="id">item-10.519</field>
@@ -12010,6 +12471,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 340</field>
  </doc>
  <doc>
   <field name="id">item-10.520</field>
@@ -12036,6 +12498,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 342</field>
  </doc>
  <doc>
   <field name="id">item-10.521</field>
@@ -12062,6 +12525,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 343</field>
  </doc>
  <doc>
   <field name="id">item-10.522</field>
@@ -12088,6 +12552,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 344</field>
  </doc>
  <doc>
   <field name="id">item-10.523</field>
@@ -12114,6 +12579,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 345</field>
  </doc>
  <doc>
   <field name="id">item-10.524</field>
@@ -12140,6 +12606,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 346</field>
  </doc>
  <doc>
   <field name="id">item-10.525</field>
@@ -12166,6 +12633,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 347</field>
  </doc>
  <doc>
   <field name="id">item-10.526</field>
@@ -12192,6 +12660,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 348</field>
  </doc>
  <doc>
   <field name="id">item-10.527</field>
@@ -12218,6 +12687,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 349</field>
  </doc>
  <doc>
   <field name="id">item-10.528</field>
@@ -12244,6 +12714,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 350</field>
  </doc>
  <doc>
   <field name="id">item-10.529</field>
@@ -12270,6 +12741,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 351</field>
  </doc>
  <doc>
   <field name="id">item-10.530</field>
@@ -12296,6 +12768,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 355</field>
  </doc>
  <doc>
   <field name="id">item-10.531</field>
@@ -12322,6 +12795,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 356</field>
  </doc>
  <doc>
   <field name="id">item-10.532</field>
@@ -12348,6 +12822,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 358</field>
  </doc>
  <doc>
   <field name="id">item-10.533</field>
@@ -12374,6 +12849,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 359</field>
  </doc>
  <doc>
   <field name="id">item-10.534</field>
@@ -12400,6 +12876,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 361</field>
  </doc>
  <doc>
   <field name="id">item-10.535</field>
@@ -12426,6 +12903,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 362</field>
  </doc>
  <doc>
   <field name="id">item-10.536</field>
@@ -12452,6 +12930,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 363</field>
  </doc>
  <doc>
   <field name="id">item-10.537</field>
@@ -12478,6 +12957,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 364</field>
  </doc>
  <doc>
   <field name="id">item-10.538</field>
@@ -12504,6 +12984,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 365</field>
  </doc>
  <doc>
   <field name="id">item-10.539</field>
@@ -12530,6 +13011,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 366</field>
  </doc>
  <doc>
   <field name="id">item-10.540</field>
@@ -12556,6 +13038,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 369</field>
  </doc>
  <doc>
   <field name="id">item-10.541</field>
@@ -12582,6 +13065,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 370</field>
  </doc>
  <doc>
   <field name="id">item-10.542</field>
@@ -12608,6 +13092,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 370A</field>
  </doc>
  <doc>
   <field name="id">item-10.543</field>
@@ -12634,6 +13119,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 371</field>
  </doc>
  <doc>
   <field name="id">item-10.544</field>
@@ -12660,6 +13146,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 374</field>
  </doc>
  <doc>
   <field name="id">item-10.545</field>
@@ -12686,6 +13173,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 375</field>
  </doc>
  <doc>
   <field name="id">item-10.546</field>
@@ -12712,6 +13200,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 376</field>
  </doc>
  <doc>
   <field name="id">item-10.547</field>
@@ -12738,6 +13227,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 377</field>
  </doc>
  <doc>
   <field name="id">item-10.548</field>
@@ -12764,6 +13254,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 378</field>
  </doc>
  <doc>
   <field name="id">item-10.549</field>
@@ -12790,6 +13281,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 382</field>
  </doc>
  <doc>
   <field name="id">item-10.550</field>
@@ -12816,6 +13308,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 384</field>
  </doc>
  <doc>
   <field name="id">item-10.551</field>
@@ -12842,6 +13335,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 50 667.C1</field>
  </doc>
  <doc>
   <field name="id">item-10.552</field>
@@ -12868,6 +13362,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 50 667.C2</field>
  </doc>
  <doc>
   <field name="id">item-10.553</field>
@@ -12894,6 +13389,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 50 667.C3</field>
  </doc>
  <doc>
   <field name="id">item-10.554</field>
@@ -12920,6 +13416,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 685</field>
  </doc>
  <doc>
   <field name="id">item-10.555</field>
@@ -12946,6 +13443,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 686</field>
  </doc>
  <doc>
   <field name="id">item-10.556</field>
@@ -12972,6 +13470,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 687</field>
  </doc>
  <doc>
   <field name="id">item-10.557</field>
@@ -12998,6 +13497,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 688</field>
  </doc>
  <doc>
   <field name="id">item-10.558</field>
@@ -13024,6 +13524,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 689</field>
  </doc>
  <doc>
   <field name="id">item-10.559</field>
@@ -13050,6 +13551,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 690</field>
  </doc>
  <doc>
   <field name="id">item-10.560</field>
@@ -13076,6 +13578,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 691</field>
  </doc>
  <doc>
   <field name="id">item-10.562</field>
@@ -13102,6 +13605,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 60 741</field>
  </doc>
  <doc>
   <field name="id">item-10.563</field>
@@ -13128,6 +13632,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 659</field>
  </doc>
  <doc>
   <field name="id">item-10.564</field>
@@ -13154,6 +13659,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 660</field>
  </doc>
  <doc>
   <field name="id">item-10.567</field>
@@ -13180,6 +13686,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 1</field>
  </doc>
  <doc>
   <field name="id">item-10.568</field>
@@ -13206,6 +13713,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 2</field>
  </doc>
  <doc>
   <field name="id">item-10.569</field>
@@ -13232,6 +13740,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Mentions sums of 500 and 10 drachmas for stealing wood and clothing.</field>
+  <field name="epigraphic_reference">I.Byzantion 3</field>
  </doc>
  <doc>
   <field name="id">item-10.570</field>
@@ -13258,5 +13767,6 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Byzantion 30</field>
  </doc>
 </add>

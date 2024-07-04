@@ -42,7 +42,8 @@ def create_app(test_config=None):
     app.add_url_rule('/item/<id>', 'item', item.show)
 
     from . import editRecords
-    app.add_url_rule('/editresults', 'editresults', editRecords.results)
+    app.add_url_rule('/edit_record/<id>', 'update_record', editRecords.update_record, methods=['POST'])
+    app.add_url_rule('/edit_record/<id>', 'edit_record', editRecords.edit_record)
     app.add_url_rule('/login', 'login', editRecords.login, methods=['POST'])
 
     # CLI command

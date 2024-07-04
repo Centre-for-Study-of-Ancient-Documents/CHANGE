@@ -23,8 +23,18 @@
                 <label class="text-capitalize form-labe;">Region</label>
                 <select class="selectpicker form-control" id="selRegion" name="region" multiple data-live-search="true"
                     data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, region in filters.regions.items() %}
-                    <option value="{{region}}" data-subtext="({{ hits }})">{{ region }}</option>
+                    {% for i in range(0, filters.regions|length, 2) %}
+                    <option value="{{filters.regions[i]}}" data-subtext="({{ filters.regions[i+1] }})">{{ filters.regions[i] }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">City</label>
+                <select class="selectpicker form-control" id="selCity" name="city" multiple data-live-search="true"
+                    data-selected-text-format="count > 3" data-size="5">
+                    {% for i in range(0, filters.cities|length, 2) %}
+                    <option value="{{filters.cities[i]}}" data-subtext="({{ filters.cities[i+1] }})">{{ filters.cities[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -42,11 +52,31 @@
             </div>
 
             <div class="mb-2">
+                <label class="text-capitalize form-labe;">document type</label>
+                <select class="selectpicker form-control" id="selDoc_type" name="doc_type" multiple data-live-search="true"
+                    data-selected-text-format="count > 3" data-size="5">
+                    {% for i in range(0, filters.docTypes|length, 2) %}
+                    <option value="{{filters.docTypes[i]}}" data-subtext="({{ filters.docTypes[i+1] }})">{{ filters.docTypes[i] }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
+                <label class="text-capitalize form-labe;">epigraphic reference</label>
+                <select class="selectpicker form-control" id="selEpigraphic_reference" name="epigraphic_reference" multiple data-live-search="true"
+                    data-selected-text-format="count > 3" data-size="5">
+                    {% for i in range(0, filters.epigraphic_references|length, 2) %}
+                    <option value="{{filters.epigraphic_references[i]}}" data-subtext="({{ filters.epigraphic_references[i+1] }})">{{ filters.epigraphic_references[i] }}</option>
+                    {% endfor%}
+                </select>
+            </div>
+
+            <div class="mb-2">
                 <label class="text-capitalize form-labe;">Activity</label>
                 <select class="selectpicker form-control" id="selActivity" name="activity" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, activity in filters.activities.items() %}
-                    <option value="{{activity}}" data-subtext="({{ hits }})">{{ activity }}</option>
+                    {% for i in range(0, filters.activities|length, 2) %}
+                    <option value="{{filters.activities[i]}}" data-subtext="({{ filters.activities[i+1] }})">{{ filters.activities[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -55,8 +85,8 @@
                 <label class="text-capitalize form-labe;">Authority</label>
                 <select class="selectpicker form-control" id="selAuthority" name="authority" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, authority in filters.authorities.items() %}
-                    <option value="{{authority}}" data-subtext="({{ hits }})">{{ authority }}</option>
+                    {% for i in range(0, filters.authorities|length, 2) %}
+                    <option value="{{filters.authorities[i]}}" data-subtext="({{ filters.authorities[i+1] }})">{{ filters.authorities[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -65,8 +95,8 @@
                 <label class="text-capitalize form-labe;">Purpose</label>
                 <select class="selectpicker form-control" id="selPurpose" name="purpose" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, purpose in filters.purposes.items() %}
-                    <option value="{{purpose}}" data-subtext="({{ hits }})">{{ purpose }}</option>
+                    {% for i in range(0, filters.purposes|length, 2) %}
+                    <option value="{{filters.purposes[i]}}" data-subtext="({{ filters.purposes[i+1] }})">{{ filters.purposes[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -75,8 +105,8 @@
                 <label class="text-capitalize form-labe;">Context</label>
                 <select class="selectpicker form-control" id="selContext" name="context" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, context in filters.contextes.items() %}
-                    <option value="{{context}}" data-subtext="({{ hits }})">{{ context }}</option>
+                    {% for i in range(0, filters.contextes|length, 2) %}
+                    <option value="{{filters.contextes[i]}}" data-subtext="({{ filters.contextes[i+1] }})">{{ filters.contextes[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -85,8 +115,8 @@
                 <label class="text-capitalize form-labe;">Lines</label>
                 <select class="selectpicker form-control" id="selLines" name="lines" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, line in filters.lines.items() %}
-                    <option value="{{line}}" data-subtext="({{ hits }})">{{ line }}</option>
+                    {% for i in range(0, filters.lines|length, 2) %}
+                    <option value="{{filters.lines[i]}}" data-subtext="({{ filters.lines[i+1] }})">{{ filters.lines[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -95,8 +125,8 @@
                 <label class="text-capitalize form-labe;">Material</label>
                 <select class="selectpicker form-control" id="selMaterial" name="material" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, material in filters.materials.items() %}
-                    <option value="{{material}}" data-subtext="({{ hits }})">{{ material }}</option>
+                    {% for i in range(0, filters.materials|length, 2) %}
+                    <option value="{{filters.materials[i]}}" data-subtext="({{ filters.materials[i+1] }})">{{ filters.materials[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -105,8 +135,8 @@
                 <label class="text-capitalize form-labe;">Nature</label>
                 <select class="selectpicker form-control" id="selNature" name="nature" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, nature in filters.natures.items() %}
-                    <option value="{{nature}}" data-subtext="({{ hits }})">{{ nature }}</option>
+                    {% for i in range(0, filters.natures|length, 2) %}
+                    <option value="{{filters.natures[i]}}" data-subtext="({{ filters.natures[i+1] }})">{{ filters.natures[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
@@ -115,12 +145,11 @@
                 <label class="text-capitalize form-labe;">Denomination</label>
                 <select class="selectpicker form-control" id="selDenomination" name="denomination" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5">
-                    {% for hits, denomination in filters.denominations.items() %}
-                    <option value="{{denomination}}" data-subtext="({{ hits }})">{{ denomination }}</option>
+                    {% for i in range(0, filters.denominations|length, 2) %}
+                    <option value="{{filters.denominations[i]}}" data-subtext="({{ filters.denominations[i+1] }})">{{ filters.denominations[i] }}</option>
                     {% endfor%}
                 </select>
             </div>
-            
 
             <div class="mb-3" id="divOperator">
                 <label class="text-capitalize form-labe;">Logical Operator</label>
@@ -133,6 +162,6 @@
 
             <button type="submit" id="btnRefineSearch" value="Refine Search..." class="btn btn-primary mb-5"><i
                     class="fas fa-filter"></i> Refine Search</button>
-            <form>
+        <form>
     </div>
 </div>

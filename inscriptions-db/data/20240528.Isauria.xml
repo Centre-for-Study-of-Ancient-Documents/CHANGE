@@ -24,6 +24,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Syedrans instructed by the god to set up a statue of Ares being flogged by Hermes and Justice to ward off pirates.</field>
+  <field name="epigraphic_reference">SEG 41 1411</field>
  </doc>
  <doc>
   <field name="id">item-02.7</field>
@@ -50,6 +51,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Prophecy of a war with pirates that presumably took place.</field>
+  <field name="epigraphic_reference">SEG 41 1411</field>
  </doc>
  <doc>
   <field name="id">item-02.10</field>
@@ -76,6 +78,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Nagidos grants public land to settlers of Arsinoe at request of Thraseas.</field>
+  <field name="epigraphic_reference">SEG 39 1426</field>
  </doc>
  <doc>
   <field name="id">item-02.11</field>
@@ -102,6 +105,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">People of Arsinoe to pay the same honours to Ptolemy and Arsinoe.</field>
+  <field name="epigraphic_reference">SEG 39 1426</field>
  </doc>
  <doc>
   <field name="id">item-02.12</field>
@@ -128,6 +132,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">People of Arsinoe to pay the taxes from their own means.</field>
+  <field name="epigraphic_reference">SEG 39 1426</field>
  </doc>
  <doc>
   <field name="id">item-02.13</field>
@@ -154,6 +159,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 39 1426</field>
  </doc>
  <doc>
   <field name="id">item-02.14</field>
@@ -180,6 +186,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Fines for disputing the land arrangements of the decree, 10,000 drachmas for an archon, and 1,000 drachmas for a speaker.</field>
+  <field name="epigraphic_reference">SEG 39 1426</field>
  </doc>
  <doc>
   <field name="id">item-02.15</field>
@@ -206,6 +213,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Arrangments for disputes and reparation payments between Nagideans and Arsinoans.</field>
+  <field name="epigraphic_reference">SEG 39 1426</field>
  </doc>
  <doc>
   <field name="id">item-02.16</field>
@@ -232,6 +240,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 39 1426</field>
  </doc>
  <doc>
   <field name="id">item-02.17</field>
@@ -258,6 +267,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 43 997</field>
  </doc>
  <doc>
   <field name="id">item-02.18</field>
@@ -284,6 +294,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 43 998</field>
  </doc>
  <doc>
   <field name="id">item-02.19</field>
@@ -310,6 +321,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1588</field>
  </doc>
  <doc>
   <field name="id">item-02.20</field>
@@ -336,6 +348,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1589</field>
  </doc>
  <doc>
   <field name="id">item-02.25</field>
@@ -362,6 +375,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 31 1321</field>
  </doc>
  <doc>
   <field name="id">item-02.31</field>
@@ -388,6 +402,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Grant of ateleia.</field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 1-11</field>
  </doc>
  <doc>
   <field name="id">item-02.32</field>
@@ -414,6 +429,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 1-11</field>
  </doc>
  <doc>
   <field name="id">item-02.33</field>
@@ -440,6 +456,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 12-15</field>
  </doc>
  <doc>
   <field name="id">item-02.34</field>
@@ -466,6 +483,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 15-18</field>
  </doc>
  <doc>
   <field name="id">item-02.35</field>
@@ -492,6 +510,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 18-21</field>
  </doc>
  <doc>
   <field name="id">item-02.36</field>
@@ -518,6 +537,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 21-27</field>
  </doc>
  <doc>
   <field name="id">item-02.37</field>
@@ -544,6 +564,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Eudemos asked to fulfill the promised gifts to the city to its naval power, presumably ships and money.</field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 21-27</field>
  </doc>
  <doc>
   <field name="id">item-02.38</field>
@@ -570,6 +591,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Grant of isoteleia.</field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 28-33</field>
  </doc>
  <doc>
   <field name="id">item-02.39</field>
@@ -596,6 +618,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 34-64</field>
  </doc>
  <doc>
   <field name="id">item-02.40</field>
@@ -622,6 +645,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 34-64</field>
  </doc>
  <doc>
   <field name="id">item-02.41</field>
@@ -648,6 +672,7 @@
   <field name="nature"></field>
   <field name="denomination">HEKATOSTE</field>
   <field name="notes">Eudemos to have the choice of being included in the hekatostos/hekatoste, a 1/100 (1%) tax.</field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 34-64</field>
  </doc>
  <doc>
   <field name="id">item-02.42</field>
@@ -674,6 +699,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 34-64</field>
  </doc>
  <doc>
   <field name="id">item-02.43</field>
@@ -700,6 +726,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 65-80</field>
  </doc>
  <doc>
   <field name="id">item-02.44</field>
@@ -726,6 +753,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Grant of isoteleia.</field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 65-80</field>
  </doc>
  <doc>
   <field name="id">item-02.45</field>
@@ -752,6 +780,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 65-80</field>
  </doc>
  <doc>
   <field name="id">item-02.46</field>
@@ -778,6 +807,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Grant of ateleia.</field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 81-93 </field>
  </doc>
  <doc>
   <field name="id">item-02.47</field>
@@ -804,6 +834,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Westkilikien Rep. Sel 63S ll. 81-93 </field>
  </doc>
  <doc>
   <field name="id">item-02.48</field>
@@ -830,6 +861,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien p. 115</field>
  </doc>
  <doc>
   <field name="id">item-02.49</field>
@@ -856,6 +888,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Lampsakos Lampsakos 6</field>
  </doc>
  <doc>
   <field name="id">item-02.50</field>
@@ -882,6 +915,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Right to purchase property.</field>
+  <field name="epigraphic_reference">I.Lampsakos Lampsakos 6</field>
  </doc>
  <doc>
   <field name="id">item-02.51</field>
@@ -908,6 +942,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 184</field>
  </doc>
  <doc>
   <field name="id">item-02.54</field>
@@ -934,6 +969,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 62</field>
  </doc>
  <doc>
   <field name="id">item-02.55</field>
@@ -960,6 +996,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">CHRUSOS</field>
   <field name="notes">Mention of Hermias possessing a necklace (maniakes) worth 100 chrusoi, perhaps as a sort of court rank.</field>
+  <field name="epigraphic_reference">MAMA III 62</field>
  </doc>
  <doc>
   <field name="id">item-02.56</field>
@@ -986,6 +1023,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 63</field>
  </doc>
  <doc>
   <field name="id">item-02.57</field>
@@ -1012,6 +1050,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 64</field>
  </doc>
  <doc>
   <field name="id">item-02.58</field>
@@ -1038,6 +1077,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 65</field>
  </doc>
  <doc>
   <field name="id">item-02.59</field>
@@ -1064,6 +1104,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 66</field>
  </doc>
  <doc>
   <field name="id">item-02.60</field>
@@ -1090,6 +1131,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 67</field>
  </doc>
  <doc>
   <field name="id">item-02.61</field>
@@ -1116,6 +1158,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 68</field>
  </doc>
  <doc>
   <field name="id">item-02.62</field>
@@ -1142,6 +1185,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA III 69</field>
  </doc>
  <doc>
   <field name="id">item-02.63</field>
@@ -1168,6 +1212,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie 11A</field>
  </doc>
  <doc>
   <field name="id">item-02.64</field>
@@ -1194,6 +1239,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 166</field>
  </doc>
  <doc>
   <field name="id">item-02.65</field>
@@ -1220,6 +1266,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 167</field>
  </doc>
  <doc>
   <field name="id">item-02.66</field>
@@ -1246,6 +1293,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1451</field>
  </doc>
  <doc>
   <field name="id">item-02.69</field>
@@ -1272,6 +1320,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 155</field>
  </doc>
  <doc>
   <field name="id">item-02.70</field>
@@ -1298,6 +1347,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Hicks, JHS 12 (1891) 238 n. 22</field>
  </doc>
  <doc>
   <field name="id">item-02.71</field>
@@ -1324,6 +1374,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Durugönül (1998) 51</field>
  </doc>
  <doc>
   <field name="id">item-02.72</field>
@@ -1350,6 +1401,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 34 1405</field>
  </doc>
  <doc>
   <field name="id">item-02.73</field>
@@ -1376,6 +1428,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 53 1739</field>
  </doc>
  <doc>
   <field name="id">item-02.74</field>
@@ -1402,6 +1455,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 1655</field>
  </doc>
  <doc>
   <field name="id">item-02.75</field>
@@ -1428,6 +1482,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 1656</field>
  </doc>
  <doc>
   <field name="id">item-02.76</field>
@@ -1454,6 +1509,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 1851</field>
  </doc>
  <doc>
   <field name="id">item-02.78</field>
@@ -1480,6 +1536,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Hicks, JHS 12 (1891) 237 n. 18</field>
  </doc>
  <doc>
   <field name="id">item-02.79</field>
@@ -1506,6 +1563,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1497</field>
  </doc>
  <doc>
   <field name="id">item-02.80</field>
@@ -1532,6 +1590,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1498</field>
  </doc>
  <doc>
   <field name="id">item-02.81</field>
@@ -1558,6 +1617,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1499</field>
  </doc>
  <doc>
   <field name="id">item-02.85</field>
@@ -1584,6 +1644,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 121-122</field>
  </doc>
  <doc>
   <field name="id">item-02.89</field>
@@ -1610,6 +1671,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie 23bis</field>
  </doc>
  <doc>
   <field name="id">item-02.91</field>
@@ -1636,6 +1698,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">OGIS 230</field>
  </doc>
  <doc>
   <field name="id">item-02.93</field>
@@ -1662,6 +1725,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of the oppression of the city by troops, when it had been exempt from billeting since the time of Alexander the Great, probably as a background to a grant of remission from such obligations.</field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 101</field>
  </doc>
  <doc>
   <field name="id">item-02.94</field>
@@ -1688,6 +1752,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1332</field>
  </doc>
  <doc>
   <field name="id">item-02.95</field>
@@ -1714,6 +1779,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 51 1863</field>
  </doc>
  <doc>
   <field name="id">item-02.96</field>
@@ -1740,6 +1806,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 67 1283</field>
  </doc>
  <doc>
   <field name="id">item-02.97</field>
@@ -1766,6 +1833,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 67 1284</field>
  </doc>
  <doc>
   <field name="id">item-02.98</field>
@@ -1792,6 +1860,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Peek, GVI 502</field>
  </doc>
  <doc>
   <field name="id">item-02.99</field>
@@ -1818,6 +1887,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Laflı, AS 67 (2017) 149-150 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-02.100</field>
@@ -1844,6 +1914,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Laflı, AS 67 (2017) 153-155 n. 5</field>
  </doc>
  <doc>
   <field name="id">item-02.104</field>
@@ -1870,6 +1941,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 8</field>
  </doc>
  <doc>
   <field name="id">item-02.105</field>
@@ -1896,6 +1968,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 9</field>
  </doc>
  <doc>
   <field name="id">item-02.109</field>
@@ -1922,6 +1995,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 61 1310</field>
  </doc>
  <doc>
   <field name="id">item-02.110</field>
@@ -1948,6 +2022,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 64 1464</field>
  </doc>
  <doc>
   <field name="id">item-02.112</field>
@@ -1974,6 +2049,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie Cilicie 68</field>
  </doc>
  <doc>
   <field name="id">item-02.113</field>
@@ -2000,6 +2076,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie Cilicie 68</field>
  </doc>
  <doc>
   <field name="id">item-02.114</field>
@@ -2026,6 +2103,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 12 511</field>
  </doc>
  <doc>
   <field name="id">item-02.115</field>
@@ -2052,6 +2130,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Instructions for sacrifices, procession and games.</field>
+  <field name="epigraphic_reference">SEG 12 511</field>
  </doc>
  <doc>
   <field name="id">item-02.116</field>
@@ -2078,6 +2157,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 12 511</field>
  </doc>
  <doc>
   <field name="id">item-02.117</field>
@@ -2104,6 +2184,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 12 511</field>
  </doc>
  <doc>
   <field name="id">item-02.119</field>
@@ -2130,6 +2211,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie Cilicie 69</field>
  </doc>
  <doc>
   <field name="id">item-02.120</field>
@@ -2156,6 +2238,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie 70</field>
  </doc>
  <doc>
   <field name="id">item-02.121</field>
@@ -2182,6 +2265,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand was gymnasiarch.</field>
+  <field name="epigraphic_reference">I.Cilicie 70</field>
  </doc>
  <doc>
   <field name="id">item-02.122</field>
@@ -2208,6 +2292,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie 70</field>
  </doc>
  <doc>
   <field name="id">item-02.123</field>
@@ -2234,6 +2319,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie </field>
  </doc>
  <doc>
   <field name="id">item-02.124</field>
@@ -2260,6 +2346,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie 71</field>
  </doc>
  <doc>
   <field name="id">item-02.125</field>
@@ -2286,6 +2373,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Heberdey - Wilhelm, Kilikien 16</field>
  </doc>
  <doc>
   <field name="id">item-02.130</field>
@@ -2312,6 +2400,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Diodotos and his family exempted from taxation during the city's distribution of tax-contracts.</field>
+  <field name="epigraphic_reference">SEG 44 1227</field>
  </doc>
  <doc>
   <field name="id">item-02.131</field>
@@ -2338,6 +2427,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Diodotos and his family exempted from taxation during the city's distribution of tax-contracts.</field>
+  <field name="epigraphic_reference">SEG 44 1227</field>
  </doc>
  <doc>
   <field name="id">item-02.133</field>
@@ -2364,6 +2454,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie Cilicie 83</field>
  </doc>
  <doc>
   <field name="id">item-02.138</field>
@@ -2390,6 +2481,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1943</field>
  </doc>
  <doc>
   <field name="id">item-02.139</field>
@@ -2416,6 +2508,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Cilicie Cilicie 76</field>
  </doc>
  <doc>
   <field name="id">item-02.141</field>
@@ -2442,6 +2535,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 51 1848</field>
  </doc>
  <doc>
   <field name="id">item-02.142</field>
@@ -2468,6 +2562,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 51 1849</field>
  </doc>
  <doc>
   <field name="id">item-02.144</field>
@@ -2494,6 +2589,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Hicks (1890) 243 n. 14</field>
  </doc>
  <doc>
   <field name="id">item-02.145</field>
@@ -2520,6 +2616,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 39 1500</field>
  </doc>
  <doc>
   <field name="id">item-02.146</field>
@@ -2546,6 +2643,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of unspecified honours.</field>
+  <field name="epigraphic_reference">JÖAI 18 (1915) beiblatt 49-50</field>
  </doc>
  <doc>
   <field name="id">item-02.152</field>
@@ -2572,6 +2670,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 51 1990</field>
  </doc>
  <doc>
   <field name="id">item-02.153</field>
@@ -2598,6 +2697,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Seleukos' military service with the Romans.</field>
+  <field name="epigraphic_reference">RDGE 58</field>
  </doc>
  <doc>
   <field name="id">item-02.154</field>
@@ -2624,6 +2724,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Exemption from taxation and military obligations, billeting obligations, and on customs-dues.</field>
+  <field name="epigraphic_reference">RDGE 58</field>
  </doc>
  <doc>
   <field name="id">item-02.155</field>
@@ -2650,6 +2751,7 @@
   <field name="nature"></field>
   <field name="denomination">SESTERTIUS</field>
   <field name="notes">Fine of 100,000 sestertii for anyone or any community that hinders Seleukos' enjoyment of these privileges.</field>
+  <field name="epigraphic_reference">RDGE 58</field>
  </doc>
  <doc>
   <field name="id">item-02.156</field>
@@ -2676,6 +2778,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">RDGE 58</field>
  </doc>
  <doc>
   <field name="id">item-02.157</field>
@@ -2702,6 +2805,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of unspecified honours for Octavian.</field>
+  <field name="epigraphic_reference">RDGE 58</field>
  </doc>
  <doc>
   <field name="id">item-02.158</field>
@@ -2728,5 +2832,6 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">RDGE 58</field>
  </doc>
 </add>

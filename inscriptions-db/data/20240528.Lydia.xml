@@ -24,6 +24,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 3</field>
  </doc>
  <doc>
   <field name="id">item-04.8</field>
@@ -50,6 +51,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand served in unspecified liturgies.</field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 4</field>
  </doc>
  <doc>
   <field name="id">item-04.9</field>
@@ -76,6 +78,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand procured services during a time of war.</field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 4</field>
  </doc>
  <doc>
   <field name="id">item-04.10</field>
@@ -102,6 +105,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was gymnasiarch.</field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 4</field>
  </doc>
  <doc>
   <field name="id">item-04.11</field>
@@ -128,6 +132,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was stephanephoros.</field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 4</field>
  </doc>
  <doc>
   <field name="id">item-04.12</field>
@@ -154,6 +159,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand distributed oil unhesitatingly throughout the year.</field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 4</field>
  </doc>
  <doc>
   <field name="id">item-04.13</field>
@@ -180,6 +186,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Fragmentary lines on the honours granted to Lysanias, with possible mention of a crown.</field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 4</field>
  </doc>
  <doc>
   <field name="id">item-04.14</field>
@@ -206,6 +213,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Fragmentary lines on the honours granted to Lysanias, with possible mention of a crown.</field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 4</field>
  </doc>
  <doc>
   <field name="id">item-04.16</field>
@@ -232,6 +240,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 13</field>
  </doc>
  <doc>
   <field name="id">item-04.17</field>
@@ -258,6 +267,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 14 ll. 1-3</field>
  </doc>
  <doc>
   <field name="id">item-04.18</field>
@@ -284,6 +294,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 16</field>
  </doc>
  <doc>
   <field name="id">item-04.19</field>
@@ -310,6 +321,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 16</field>
  </doc>
  <doc>
   <field name="id">item-04.20</field>
@@ -336,6 +348,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Magnesia am Sipylos 35</field>
  </doc>
  <doc>
   <field name="id">item-04.21</field>
@@ -362,6 +375,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 2</field>
  </doc>
  <doc>
   <field name="id">item-04.22</field>
@@ -388,6 +402,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1324</field>
  </doc>
  <doc>
   <field name="id">item-04.23</field>
@@ -414,6 +429,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1325</field>
  </doc>
  <doc>
   <field name="id">item-04.24</field>
@@ -440,6 +456,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 49</field>
  </doc>
  <doc>
   <field name="id">item-04.25</field>
@@ -466,6 +483,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 56</field>
  </doc>
  <doc>
   <field name="id">item-04.26</field>
@@ -492,6 +510,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 56</field>
  </doc>
  <doc>
   <field name="id">item-04.27</field>
@@ -518,6 +537,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1373</field>
  </doc>
  <doc>
   <field name="id">item-04.28</field>
@@ -544,6 +564,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1218</field>
  </doc>
  <doc>
   <field name="id">item-04.29</field>
@@ -570,6 +591,7 @@
   <field name="nature"></field>
   <field name="denomination">KISTOPHOROS</field>
   <field name="notes">Contributions towards the repair of an unknown structure, with contributions of 500 kistophoroi.</field>
+  <field name="epigraphic_reference">Keil - Premerstein, Lydien I 14</field>
  </doc>
  <doc>
   <field name="id">item-04.32</field>
@@ -596,6 +618,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 17 534</field>
  </doc>
  <doc>
   <field name="id">item-04.34</field>
@@ -622,6 +645,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Keil - Premerstein, Lydien I 15</field>
  </doc>
  <doc>
   <field name="id">item-04.36</field>
@@ -648,6 +672,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1307</field>
  </doc>
  <doc>
   <field name="id">item-04.37</field>
@@ -674,6 +699,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1169</field>
  </doc>
  <doc>
   <field name="id">item-04.38</field>
@@ -700,6 +726,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Dedicator was strategos.</field>
+  <field name="epigraphic_reference">SEG 57 1169</field>
  </doc>
  <doc>
   <field name="id">item-04.41</field>
@@ -726,6 +753,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Antigonos had awarded the usufruct of the villages and kleroi to Mnesimachos.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.42</field>
@@ -752,6 +780,7 @@
   <field name="nature"></field>
   <field name="denomination">CHRUSOS</field>
   <field name="notes">Mnesimachos took out a loan of 1,325 chrusoi from the temple of Artemis.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.43</field>
@@ -778,6 +807,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The sanctuary of Artemis claimed the usufruct of Mnesimachos' estate when he failed to repay the loan he had taken with it as security.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.44</field>
@@ -804,6 +834,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">CHRUSOS</field>
   <field name="notes">Outline of the tributary dues of the villages and kleroi of Mnesimachos, which are expressed in chrusoi and gold obols, totalling 116 chrusoi and 7 gold obols.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.45</field>
@@ -830,6 +861,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">OBOL, CHRUSION</field>
   <field name="notes">Outline of the tributary dues of the villages and kleroi of Mnesimachos, which are expressed in chrusoi and gold obols, totalling 116 chrusoi and 7 gold obols.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.46</field>
@@ -856,6 +888,7 @@
   <field name="nature">GRAIN</field>
   <field name="denomination">ARTABA</field>
   <field name="notes">Outline of the tributary dues of two kleroi of Mnesimachos expressed in artabas of seed, totalling 21 artabas, of which a proportion was paid in kind each year.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.47</field>
@@ -882,6 +915,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">CHRUSOS</field>
   <field name="notes">Penalty of 2,650 chrusoi and the monetary value in gold of the produce of Mnesimachos' estates, should he fail to prevent an external claimant from attempting to obtain possession of the estates.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.48</field>
@@ -908,6 +942,7 @@
   <field name="nature"></field>
   <field name="denomination">CHRUSION</field>
   <field name="notes">Penalty of 2,650 chrusoi and the monetary value in gold of the produce of Mnesimachos' estates, should he fail to prevent an external claimant from attempting to obtain possession of the estates.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.49</field>
@@ -934,6 +969,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">CHRUSOS</field>
   <field name="notes">Penalty of 1,325 chrusoi and the monetary value in gold of the produce of Mnesimachos' estates, should king Antigonos seek to reclaim the land and revoke Mnesimachos' usufruct.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.50</field>
@@ -960,6 +996,7 @@
   <field name="nature"></field>
   <field name="denomination">CHRUSION</field>
   <field name="notes">Penalty of 1,325 chrusoi and the monetary value in gold of the produce of Mnesimachos' estates, should king Antigonos seek to reclaim the land and revoke Mnesimachos' usufruct.</field>
+  <field name="epigraphic_reference">I.Sardis I 1</field>
  </doc>
  <doc>
   <field name="id">item-04.51</field>
@@ -986,6 +1023,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">MINA</field>
   <field name="notes">Exempt from paying tax to the king for 7 years, and from the 8th onwards 20 minas per year only. </field>
+  <field name="epigraphic_reference">I.Sardis I 2</field>
  </doc>
  <doc>
   <field name="id">item-04.52</field>
@@ -1012,6 +1050,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 3</field>
  </doc>
  <doc>
   <field name="id">item-04.53</field>
@@ -1038,6 +1077,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was neokoros of Artemis.</field>
+  <field name="epigraphic_reference">I.Sardis I 4</field>
  </doc>
  <doc>
   <field name="id">item-04.54</field>
@@ -1064,6 +1104,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 4</field>
  </doc>
  <doc>
   <field name="id">item-04.55</field>
@@ -1090,6 +1131,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 4</field>
  </doc>
  <doc>
   <field name="id">item-04.56</field>
@@ -1116,6 +1158,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 5</field>
  </doc>
  <doc>
   <field name="id">item-04.57</field>
@@ -1142,6 +1185,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mentions tax-immunity on the import of goods.</field>
+  <field name="epigraphic_reference">I.Sardis I 6</field>
  </doc>
  <doc>
   <field name="id">item-04.58</field>
@@ -1168,6 +1212,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Set up prizes for contests.</field>
+  <field name="epigraphic_reference">I.Sardis I 7</field>
  </doc>
  <doc>
   <field name="id">item-04.59</field>
@@ -1194,6 +1239,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was gymnasiarch, and completed the mysteries and contests for Hermes and Herakles.</field>
+  <field name="epigraphic_reference">I.Sardis I 21</field>
  </doc>
  <doc>
   <field name="id">item-04.60</field>
@@ -1220,6 +1266,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Dedicated a cult-statue of Athena Nikephoros.</field>
+  <field name="epigraphic_reference">I.Sardis I 21</field>
  </doc>
  <doc>
   <field name="id">item-04.61</field>
@@ -1246,6 +1293,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 22</field>
  </doc>
  <doc>
   <field name="id">item-04.62</field>
@@ -1272,6 +1320,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 23</field>
  </doc>
  <doc>
   <field name="id">item-04.63</field>
@@ -1298,6 +1347,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 24</field>
  </doc>
  <doc>
   <field name="id">item-04.64</field>
@@ -1324,6 +1374,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 25</field>
  </doc>
  <doc>
   <field name="id">item-04.65</field>
@@ -1350,6 +1401,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 26</field>
  </doc>
  <doc>
   <field name="id">item-04.66</field>
@@ -1376,6 +1428,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of Iollas' service as public advocate on behalf of the city, presumably throguh embassies to others cities in the province.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.67</field>
@@ -1402,6 +1455,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Iollas was public advocate, strategos five times, priest of Roma, and held other unspecified offices.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.68</field>
@@ -1428,6 +1482,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Iollas was gymnasiarch at his own expense.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.69</field>
@@ -1454,6 +1509,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Iollas was agonothetes of the Panathenaia and Eumenaia at his own expense.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.70</field>
@@ -1480,6 +1536,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Iollas was agonothetes of the Panathenaia and Eumenaia at his own expense.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.71</field>
@@ -1506,6 +1563,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Iollas held sacrifices and feasts at his home and the gymnasium.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.72</field>
@@ -1532,6 +1590,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Iollas held sacrifices and feasts at his home and the gymnasium.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.73</field>
@@ -1558,6 +1617,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mentions epidoseis he made.</field>
+  <field name="epigraphic_reference">I.Sardis I 27</field>
  </doc>
  <doc>
   <field name="id">item-04.74</field>
@@ -1584,6 +1644,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Uncertain form of honour.</field>
+  <field name="epigraphic_reference">I.Sardis I 28</field>
  </doc>
  <doc>
   <field name="id">item-04.75</field>
@@ -1610,6 +1671,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Uncertain form of honour.</field>
+  <field name="epigraphic_reference">I.Sardis I 29</field>
  </doc>
  <doc>
   <field name="id">item-04.76</field>
@@ -1636,6 +1698,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 30</field>
  </doc>
  <doc>
   <field name="id">item-04.77</field>
@@ -1662,6 +1725,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honoured by the gerousia.</field>
+  <field name="epigraphic_reference">I.Sardis I 30</field>
  </doc>
  <doc>
   <field name="id">item-04.78</field>
@@ -1688,6 +1752,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 85</field>
  </doc>
  <doc>
   <field name="id">item-04.79</field>
@@ -1714,6 +1779,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 86</field>
  </doc>
  <doc>
   <field name="id">item-04.80</field>
@@ -1740,6 +1806,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 87</field>
  </doc>
  <doc>
   <field name="id">item-04.81</field>
@@ -1766,6 +1833,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 88</field>
  </doc>
  <doc>
   <field name="id">item-04.82</field>
@@ -1792,6 +1860,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 89</field>
  </doc>
  <doc>
   <field name="id">item-04.83</field>
@@ -1818,6 +1887,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 90</field>
  </doc>
  <doc>
   <field name="id">item-04.84</field>
@@ -1844,6 +1914,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 91</field>
  </doc>
  <doc>
   <field name="id">item-04.85</field>
@@ -1870,6 +1941,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 92</field>
  </doc>
  <doc>
   <field name="id">item-04.86</field>
@@ -1896,6 +1968,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 93</field>
  </doc>
  <doc>
   <field name="id">item-04.87</field>
@@ -1922,6 +1995,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 102</field>
  </doc>
  <doc>
   <field name="id">item-04.88</field>
@@ -1948,6 +2022,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 103</field>
  </doc>
  <doc>
   <field name="id">item-04.89</field>
@@ -1974,6 +2049,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 104</field>
  </doc>
  <doc>
   <field name="id">item-04.90</field>
@@ -2000,6 +2076,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 133</field>
  </doc>
  <doc>
   <field name="id">item-04.91</field>
@@ -2026,6 +2103,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 106</field>
  </doc>
  <doc>
   <field name="id">item-04.92</field>
@@ -2052,6 +2130,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 107</field>
  </doc>
  <doc>
   <field name="id">item-04.93</field>
@@ -2078,6 +2157,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 108</field>
  </doc>
  <doc>
   <field name="id">item-04.94</field>
@@ -2104,6 +2184,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 109</field>
  </doc>
  <doc>
   <field name="id">item-04.95</field>
@@ -2130,6 +2211,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 110</field>
  </doc>
  <doc>
   <field name="id">item-04.96</field>
@@ -2156,6 +2238,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Menophila was a stephanephoros.</field>
+  <field name="epigraphic_reference">I.Sardis I 111</field>
  </doc>
  <doc>
   <field name="id">item-04.97</field>
@@ -2182,6 +2265,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 112</field>
  </doc>
  <doc>
   <field name="id">item-04.98</field>
@@ -2208,6 +2292,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 113</field>
  </doc>
  <doc>
   <field name="id">item-04.99</field>
@@ -2234,6 +2319,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 114</field>
  </doc>
  <doc>
   <field name="id">item-04.100</field>
@@ -2260,6 +2346,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 115</field>
  </doc>
  <doc>
   <field name="id">item-04.101</field>
@@ -2286,6 +2373,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 116</field>
  </doc>
  <doc>
   <field name="id">item-04.102</field>
@@ -2312,6 +2400,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 117</field>
  </doc>
  <doc>
   <field name="id">item-04.103</field>
@@ -2338,6 +2427,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 118</field>
  </doc>
  <doc>
   <field name="id">item-04.104</field>
@@ -2364,6 +2454,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 119</field>
  </doc>
  <doc>
   <field name="id">item-04.105</field>
@@ -2390,6 +2481,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 120</field>
  </doc>
  <doc>
   <field name="id">item-04.106</field>
@@ -2416,6 +2508,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 121</field>
  </doc>
  <doc>
   <field name="id">item-04.107</field>
@@ -2442,6 +2535,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 122</field>
  </doc>
  <doc>
   <field name="id">item-04.108</field>
@@ -2468,6 +2562,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 123</field>
  </doc>
  <doc>
   <field name="id">item-04.109</field>
@@ -2494,6 +2589,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 124</field>
  </doc>
  <doc>
   <field name="id">item-04.110</field>
@@ -2520,6 +2616,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 125</field>
  </doc>
  <doc>
   <field name="id">item-04.111</field>
@@ -2546,6 +2643,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 126</field>
  </doc>
  <doc>
   <field name="id">item-04.112</field>
@@ -2572,6 +2670,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 127</field>
  </doc>
  <doc>
   <field name="id">item-04.113</field>
@@ -2598,6 +2697,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 128</field>
  </doc>
  <doc>
   <field name="id">item-04.114</field>
@@ -2624,6 +2724,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 129</field>
  </doc>
  <doc>
   <field name="id">item-04.115</field>
@@ -2650,6 +2751,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 132</field>
  </doc>
  <doc>
   <field name="id">item-04.116</field>
@@ -2676,6 +2778,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 133</field>
  </doc>
  <doc>
   <field name="id">item-04.117</field>
@@ -2702,6 +2805,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 136</field>
  </doc>
  <doc>
   <field name="id">item-04.118</field>
@@ -2728,6 +2832,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 137</field>
  </doc>
  <doc>
   <field name="id">item-04.119</field>
@@ -2754,6 +2859,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 138</field>
  </doc>
  <doc>
   <field name="id">item-04.120</field>
@@ -2780,6 +2886,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of the construction of the tomb.</field>
+  <field name="epigraphic_reference">I.Sardis I 142</field>
  </doc>
  <doc>
   <field name="id">item-04.121</field>
@@ -2806,6 +2913,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 152</field>
  </doc>
  <doc>
   <field name="id">item-04.122</field>
@@ -2832,6 +2940,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 193</field>
  </doc>
  <doc>
   <field name="id">item-04.123</field>
@@ -2858,6 +2967,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 194</field>
  </doc>
  <doc>
   <field name="id">item-04.124</field>
@@ -2884,6 +2994,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 195</field>
  </doc>
  <doc>
   <field name="id">item-04.125</field>
@@ -2910,6 +3021,7 @@
   <field name="nature"></field>
   <field name="denomination">KISTOPHOROS</field>
   <field name="notes">Possible mention of kistophoroi in line 3, but this could also be a reference to basket-bearers; see Psoma (2009) 171-172.</field>
+  <field name="epigraphic_reference">I.Sardis I 195</field>
  </doc>
  <doc>
   <field name="id">item-04.126</field>
@@ -2936,6 +3048,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 196</field>
  </doc>
  <doc>
   <field name="id">item-04.127</field>
@@ -2962,6 +3075,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 198</field>
  </doc>
  <doc>
   <field name="id">item-04.128</field>
@@ -2988,6 +3102,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was stephanephoros.</field>
+  <field name="epigraphic_reference">I.Sardis I 198</field>
  </doc>
  <doc>
   <field name="id">item-04.129</field>
@@ -3014,6 +3129,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis I 219</field>
  </doc>
  <doc>
   <field name="id">item-04.130</field>
@@ -3040,6 +3156,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 301</field>
  </doc>
  <doc>
   <field name="id">item-04.131</field>
@@ -3066,6 +3183,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 301</field>
  </doc>
  <doc>
   <field name="id">item-04.132</field>
@@ -3092,6 +3210,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">CHRUSOS</field>
   <field name="notes">A crown of 10 chrusoi.</field>
+  <field name="epigraphic_reference">I.Sardis II 301</field>
  </doc>
  <doc>
   <field name="id">item-04.133</field>
@@ -3118,6 +3237,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 301</field>
  </doc>
  <doc>
   <field name="id">item-04.134</field>
@@ -3144,6 +3264,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 302</field>
  </doc>
  <doc>
   <field name="id">item-04.135</field>
@@ -3170,6 +3291,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 302</field>
  </doc>
  <doc>
   <field name="id">item-04.136</field>
@@ -3196,6 +3318,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 302</field>
  </doc>
  <doc>
   <field name="id">item-04.137</field>
@@ -3222,6 +3345,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mentions spending ek tou idiou.</field>
+  <field name="epigraphic_reference">I.Sardis II 303</field>
  </doc>
  <doc>
   <field name="id">item-04.138</field>
@@ -3248,6 +3372,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 304</field>
  </doc>
  <doc>
   <field name="id">item-04.139</field>
@@ -3274,6 +3399,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mentions publicani.</field>
+  <field name="epigraphic_reference">I.Sardis II 305</field>
  </doc>
  <doc>
   <field name="id">item-04.140</field>
@@ -3300,6 +3426,7 @@
   <field name="nature">WOOD</field>
   <field name="denomination"></field>
   <field name="notes">Wood from royal estates to supply the re-building of Sardeis.</field>
+  <field name="epigraphic_reference">I.Sardis II 307</field>
  </doc>
  <doc>
   <field name="id">item-04.141</field>
@@ -3326,6 +3453,7 @@
   <field name="nature"></field>
   <field name="denomination">EIKOSTE</field>
   <field name="notes">Waiver of the 5% tax, the eikoste.</field>
+  <field name="epigraphic_reference">I.Sardis II 307</field>
  </doc>
  <doc>
   <field name="id">item-04.142</field>
@@ -3352,6 +3480,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 308</field>
  </doc>
  <doc>
   <field name="id">item-04.143</field>
@@ -3378,6 +3507,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honours for Laodike, Antiochos and their children.</field>
+  <field name="epigraphic_reference">I.Sardis II 308</field>
  </doc>
  <doc>
   <field name="id">item-04.144</field>
@@ -3404,6 +3534,7 @@
   <field name="nature">OIL</field>
   <field name="denomination">METRETES</field>
   <field name="notes">Grant of 200 metretai of oil annually in lieu of the existing contribution to the city, paid for out of a earmarked fund.</field>
+  <field name="epigraphic_reference">I.Sardis II 309</field>
  </doc>
  <doc>
   <field name="id">item-04.145</field>
@@ -3430,6 +3561,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Reduction in billeting obligations.</field>
+  <field name="epigraphic_reference">I.Sardis II 309</field>
  </doc>
  <doc>
   <field name="id">item-04.146</field>
@@ -3456,6 +3588,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Exemption from tax on workshops.</field>
+  <field name="epigraphic_reference">I.Sardis II 309</field>
  </doc>
  <doc>
   <field name="id">item-04.147</field>
@@ -3482,6 +3615,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Exemption from tax on workshops.</field>
+  <field name="epigraphic_reference">I.Sardis II 309</field>
  </doc>
  <doc>
   <field name="id">item-04.148</field>
@@ -3508,6 +3642,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Exemption from taxation during the Laodikeia festival.</field>
+  <field name="epigraphic_reference">I.Sardis II 309</field>
  </doc>
  <doc>
   <field name="id">item-04.149</field>
@@ -3534,6 +3669,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 310</field>
  </doc>
  <doc>
   <field name="id">item-04.150</field>
@@ -3560,6 +3696,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 311</field>
  </doc>
  <doc>
   <field name="id">item-04.151</field>
@@ -3586,6 +3723,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of tax-immunity, ateleia.</field>
+  <field name="epigraphic_reference">I.Sardis II 312</field>
  </doc>
  <doc>
   <field name="id">item-04.152</field>
@@ -3612,6 +3750,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Deals with grant of land to an individual.</field>
+  <field name="epigraphic_reference">I.Sardis II 313</field>
  </doc>
  <doc>
   <field name="id">item-04.153</field>
@@ -3638,6 +3777,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 314</field>
  </doc>
  <doc>
   <field name="id">item-04.154</field>
@@ -3664,6 +3804,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 315</field>
  </doc>
  <doc>
   <field name="id">item-04.155</field>
@@ -3690,6 +3831,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 316</field>
  </doc>
  <doc>
   <field name="id">item-04.156</field>
@@ -3716,6 +3858,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 317</field>
  </doc>
  <doc>
   <field name="id">item-04.157</field>
@@ -3742,6 +3885,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 323</field>
  </doc>
  <doc>
   <field name="id">item-04.158</field>
@@ -3768,6 +3912,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 324</field>
  </doc>
  <doc>
   <field name="id">item-04.159</field>
@@ -3794,6 +3939,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 326</field>
  </doc>
  <doc>
   <field name="id">item-04.160</field>
@@ -3820,6 +3966,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 327</field>
  </doc>
  <doc>
   <field name="id">item-04.161</field>
@@ -3846,6 +3993,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 432</field>
  </doc>
  <doc>
   <field name="id">item-04.162</field>
@@ -3872,6 +4020,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 434</field>
  </doc>
  <doc>
   <field name="id">item-04.164</field>
@@ -3898,6 +4047,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 435</field>
  </doc>
  <doc>
   <field name="id">item-04.165</field>
@@ -3924,6 +4074,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 436</field>
  </doc>
  <doc>
   <field name="id">item-04.166</field>
@@ -3950,6 +4101,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 439</field>
  </doc>
  <doc>
   <field name="id">item-04.167</field>
@@ -3976,6 +4128,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 441</field>
  </doc>
  <doc>
   <field name="id">item-04.168</field>
@@ -4002,6 +4155,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 474</field>
  </doc>
  <doc>
   <field name="id">item-04.169</field>
@@ -4028,6 +4182,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">DRACHMA, ARGURION</field>
   <field name="notes">Mention of arg- throughout indicates monetary spending, with one of amount of 105 drachmas probably preserved.</field>
+  <field name="epigraphic_reference">I.Sardis II 569</field>
  </doc>
  <doc>
   <field name="id">item-04.170</field>
@@ -4054,6 +4209,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">One contributor described as having been freed in the will of a certain Sosigenes.</field>
+  <field name="epigraphic_reference">I.Sardis II 569</field>
  </doc>
  <doc>
   <field name="id">item-04.171</field>
@@ -4080,6 +4236,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 581</field>
  </doc>
  <doc>
   <field name="id">item-04.172</field>
@@ -4106,6 +4263,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 583</field>
  </doc>
  <doc>
   <field name="id">item-04.173</field>
@@ -4132,6 +4290,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 584</field>
  </doc>
  <doc>
   <field name="id">item-04.174</field>
@@ -4158,6 +4317,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 585</field>
  </doc>
  <doc>
   <field name="id">item-04.175</field>
@@ -4184,6 +4344,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 586</field>
  </doc>
  <doc>
   <field name="id">item-04.176</field>
@@ -4210,6 +4371,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 587</field>
  </doc>
  <doc>
   <field name="id">item-04.177</field>
@@ -4236,6 +4398,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 588</field>
  </doc>
  <doc>
   <field name="id">item-04.178</field>
@@ -4262,6 +4425,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 589</field>
  </doc>
  <doc>
   <field name="id">item-04.179</field>
@@ -4288,6 +4452,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 594</field>
  </doc>
  <doc>
   <field name="id">item-04.180</field>
@@ -4314,6 +4479,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 595</field>
  </doc>
  <doc>
   <field name="id">item-04.181</field>
@@ -4340,6 +4506,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 596</field>
  </doc>
  <doc>
   <field name="id">item-04.182</field>
@@ -4366,6 +4533,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 597</field>
  </doc>
  <doc>
   <field name="id">item-04.183</field>
@@ -4392,6 +4560,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 598</field>
  </doc>
  <doc>
   <field name="id">item-04.184</field>
@@ -4418,6 +4587,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 599</field>
  </doc>
  <doc>
   <field name="id">item-04.185</field>
@@ -4444,6 +4614,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 600</field>
  </doc>
  <doc>
   <field name="id">item-04.186</field>
@@ -4470,6 +4641,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 601A</field>
  </doc>
  <doc>
   <field name="id">item-04.187</field>
@@ -4496,6 +4668,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 602</field>
  </doc>
  <doc>
   <field name="id">item-04.188</field>
@@ -4522,6 +4695,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 603</field>
  </doc>
  <doc>
   <field name="id">item-04.189</field>
@@ -4548,6 +4722,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 604</field>
  </doc>
  <doc>
   <field name="id">item-04.190</field>
@@ -4574,6 +4749,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 605</field>
  </doc>
  <doc>
   <field name="id">item-04.191</field>
@@ -4600,6 +4776,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 606</field>
  </doc>
  <doc>
   <field name="id">item-04.192</field>
@@ -4626,6 +4803,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 607</field>
  </doc>
  <doc>
   <field name="id">item-04.193</field>
@@ -4652,6 +4830,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 608</field>
  </doc>
  <doc>
   <field name="id">item-04.194</field>
@@ -4678,6 +4857,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 609</field>
  </doc>
  <doc>
   <field name="id">item-04.195</field>
@@ -4704,6 +4884,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 610</field>
  </doc>
  <doc>
   <field name="id">item-04.196</field>
@@ -4730,6 +4911,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 611</field>
  </doc>
  <doc>
   <field name="id">item-04.197</field>
@@ -4756,6 +4938,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 612</field>
  </doc>
  <doc>
   <field name="id">item-04.198</field>
@@ -4782,6 +4965,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 613</field>
  </doc>
  <doc>
   <field name="id">item-04.199</field>
@@ -4808,6 +4992,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 614</field>
  </doc>
  <doc>
   <field name="id">item-04.200</field>
@@ -4834,6 +5019,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 615</field>
  </doc>
  <doc>
   <field name="id">item-04.201</field>
@@ -4860,6 +5046,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 616</field>
  </doc>
  <doc>
   <field name="id">item-04.202</field>
@@ -4886,6 +5073,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 617</field>
  </doc>
  <doc>
   <field name="id">item-04.203</field>
@@ -4912,6 +5100,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 618</field>
  </doc>
  <doc>
   <field name="id">item-04.204</field>
@@ -4938,6 +5127,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 619</field>
  </doc>
  <doc>
   <field name="id">item-04.205</field>
@@ -4964,6 +5154,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 621</field>
  </doc>
  <doc>
   <field name="id">item-04.206</field>
@@ -4990,6 +5181,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 622</field>
  </doc>
  <doc>
   <field name="id">item-04.207</field>
@@ -5016,6 +5208,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 623</field>
  </doc>
  <doc>
   <field name="id">item-04.208</field>
@@ -5042,6 +5235,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 624</field>
  </doc>
  <doc>
   <field name="id">item-04.209</field>
@@ -5068,6 +5262,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 625</field>
  </doc>
  <doc>
   <field name="id">item-04.210</field>
@@ -5094,6 +5289,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 626</field>
  </doc>
  <doc>
   <field name="id">item-04.211</field>
@@ -5120,6 +5316,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 627</field>
  </doc>
  <doc>
   <field name="id">item-04.212</field>
@@ -5146,6 +5343,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 628</field>
  </doc>
  <doc>
   <field name="id">item-04.213</field>
@@ -5172,6 +5370,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 629</field>
  </doc>
  <doc>
   <field name="id">item-04.214</field>
@@ -5198,6 +5397,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 631</field>
  </doc>
  <doc>
   <field name="id">item-04.215</field>
@@ -5224,6 +5424,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 632</field>
  </doc>
  <doc>
   <field name="id">item-04.216</field>
@@ -5250,6 +5451,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 633</field>
  </doc>
  <doc>
   <field name="id">item-04.217</field>
@@ -5276,6 +5478,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 634</field>
  </doc>
  <doc>
   <field name="id">item-04.218</field>
@@ -5302,6 +5505,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 635</field>
  </doc>
  <doc>
   <field name="id">item-04.219</field>
@@ -5328,6 +5532,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 636</field>
  </doc>
  <doc>
   <field name="id">item-04.220</field>
@@ -5354,6 +5559,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 637</field>
  </doc>
  <doc>
   <field name="id">item-04.221</field>
@@ -5380,6 +5586,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 638</field>
  </doc>
  <doc>
   <field name="id">item-04.222</field>
@@ -5406,6 +5613,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 639</field>
  </doc>
  <doc>
   <field name="id">item-04.223</field>
@@ -5432,6 +5640,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 641</field>
  </doc>
  <doc>
   <field name="id">item-04.224</field>
@@ -5458,6 +5667,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 652</field>
  </doc>
  <doc>
   <field name="id">item-04.225</field>
@@ -5484,6 +5694,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 657</field>
  </doc>
  <doc>
   <field name="id">item-04.226</field>
@@ -5510,6 +5721,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 658</field>
  </doc>
  <doc>
   <field name="id">item-04.227</field>
@@ -5536,6 +5748,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 664</field>
  </doc>
  <doc>
   <field name="id">item-04.228</field>
@@ -5562,6 +5775,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1243</field>
  </doc>
  <doc>
   <field name="id">item-04.229</field>
@@ -5588,6 +5802,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sardis II 688</field>
  </doc>
  <doc>
   <field name="id">item-04.230</field>
@@ -5614,6 +5829,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 212</field>
  </doc>
  <doc>
   <field name="id">item-04.231</field>
@@ -5640,6 +5856,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1227.1</field>
  </doc>
  <doc>
   <field name="id">item-04.232</field>
@@ -5666,6 +5883,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1228.1</field>
  </doc>
  <doc>
   <field name="id">item-04.233</field>
@@ -5692,6 +5910,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1229.1</field>
  </doc>
  <doc>
   <field name="id">item-04.234</field>
@@ -5718,6 +5937,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1230.1</field>
  </doc>
  <doc>
   <field name="id">item-04.235</field>
@@ -5744,6 +5964,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1231.1</field>
  </doc>
  <doc>
   <field name="id">item-04.236</field>
@@ -5770,6 +5991,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1232.1</field>
  </doc>
  <doc>
   <field name="id">item-04.237</field>
@@ -5796,6 +6018,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1233.1</field>
  </doc>
  <doc>
   <field name="id">item-04.240</field>
@@ -5822,6 +6045,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 486</field>
  </doc>
  <doc>
   <field name="id">item-04.241</field>
@@ -5848,6 +6072,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 487</field>
  </doc>
  <doc>
   <field name="id">item-04.242</field>
@@ -5874,6 +6099,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 61 996</field>
  </doc>
  <doc>
   <field name="id">item-04.244</field>
@@ -5900,6 +6126,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 21</field>
  </doc>
  <doc>
   <field name="id">item-04.245</field>
@@ -5926,6 +6153,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of the generals who determined the boundaries.</field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 21</field>
  </doc>
  <doc>
   <field name="id">item-04.247</field>
@@ -5952,6 +6180,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1425</field>
  </doc>
  <doc>
   <field name="id">item-04.248</field>
@@ -5978,6 +6207,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of the generalship.</field>
+  <field name="epigraphic_reference">TAM V.3 1426</field>
  </doc>
  <doc>
   <field name="id">item-04.249</field>
@@ -6004,6 +6234,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1427</field>
  </doc>
  <doc>
   <field name="id">item-04.250</field>
@@ -6030,6 +6261,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1433</field>
  </doc>
  <doc>
   <field name="id">item-04.251</field>
@@ -6056,6 +6288,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1513</field>
  </doc>
  <doc>
   <field name="id">item-04.252</field>
@@ -6082,6 +6315,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1539</field>
  </doc>
  <doc>
   <field name="id">item-04.253</field>
@@ -6108,6 +6342,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1541</field>
  </doc>
  <doc>
   <field name="id">item-04.254</field>
@@ -6134,6 +6369,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1542</field>
  </doc>
  <doc>
   <field name="id">item-04.255</field>
@@ -6160,6 +6396,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The revenues of the god which would have been given to the kings Antiochos and Seleukos in tax were returned to the god.</field>
+  <field name="epigraphic_reference">TAM V.3 1545</field>
  </doc>
  <doc>
   <field name="id">item-04.256</field>
@@ -6186,6 +6423,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1547</field>
  </doc>
  <doc>
   <field name="id">item-04.257</field>
@@ -6212,6 +6450,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1555</field>
  </doc>
  <doc>
   <field name="id">item-04.258</field>
@@ -6238,6 +6477,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1629</field>
  </doc>
  <doc>
   <field name="id">item-04.259</field>
@@ -6264,6 +6504,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1651</field>
  </doc>
  <doc>
   <field name="id">item-04.260</field>
@@ -6290,6 +6531,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand fulfilled an office that gained him Roman citizenship.</field>
+  <field name="epigraphic_reference">TAM V.3 1658</field>
  </doc>
  <doc>
   <field name="id">item-04.261</field>
@@ -6316,6 +6558,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1669</field>
  </doc>
  <doc>
   <field name="id">item-04.262</field>
@@ -6342,6 +6585,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1670</field>
  </doc>
  <doc>
   <field name="id">item-04.263</field>
@@ -6368,6 +6612,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1671</field>
  </doc>
  <doc>
   <field name="id">item-04.264</field>
@@ -6394,6 +6639,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1672</field>
  </doc>
  <doc>
   <field name="id">item-04.265</field>
@@ -6420,6 +6666,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1673</field>
  </doc>
  <doc>
   <field name="id">item-04.266</field>
@@ -6446,6 +6693,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1674</field>
  </doc>
  <doc>
   <field name="id">item-04.267</field>
@@ -6472,6 +6720,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1675</field>
  </doc>
  <doc>
   <field name="id">item-04.268</field>
@@ -6498,6 +6747,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1676</field>
  </doc>
  <doc>
   <field name="id">item-04.269</field>
@@ -6524,6 +6774,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1677</field>
  </doc>
  <doc>
   <field name="id">item-04.270</field>
@@ -6550,6 +6801,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1678</field>
  </doc>
  <doc>
   <field name="id">item-04.271</field>
@@ -6576,6 +6828,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1679</field>
  </doc>
  <doc>
   <field name="id">item-04.272</field>
@@ -6602,6 +6855,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1680</field>
  </doc>
  <doc>
   <field name="id">item-04.273</field>
@@ -6628,6 +6882,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1681</field>
  </doc>
  <doc>
   <field name="id">item-04.274</field>
@@ -6654,6 +6909,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1682</field>
  </doc>
  <doc>
   <field name="id">item-04.275</field>
@@ -6680,6 +6936,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1683</field>
  </doc>
  <doc>
   <field name="id">item-04.276</field>
@@ -6706,6 +6963,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1684</field>
  </doc>
  <doc>
   <field name="id">item-04.277</field>
@@ -6732,6 +6990,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1685</field>
  </doc>
  <doc>
   <field name="id">item-04.278</field>
@@ -6758,6 +7017,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1686</field>
  </doc>
  <doc>
   <field name="id">item-04.279</field>
@@ -6784,6 +7044,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1687</field>
  </doc>
  <doc>
   <field name="id">item-04.280</field>
@@ -6810,6 +7071,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1688</field>
  </doc>
  <doc>
   <field name="id">item-04.281</field>
@@ -6836,6 +7098,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1689</field>
  </doc>
  <doc>
   <field name="id">item-04.282</field>
@@ -6862,6 +7125,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1690</field>
  </doc>
  <doc>
   <field name="id">item-04.283</field>
@@ -6888,6 +7152,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1691</field>
  </doc>
  <doc>
   <field name="id">item-04.284</field>
@@ -6914,6 +7179,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1692</field>
  </doc>
  <doc>
   <field name="id">item-04.285</field>
@@ -6940,6 +7206,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1693</field>
  </doc>
  <doc>
   <field name="id">item-04.286</field>
@@ -6966,6 +7233,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1694</field>
  </doc>
  <doc>
   <field name="id">item-04.287</field>
@@ -6992,6 +7260,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1695</field>
  </doc>
  <doc>
   <field name="id">item-04.288</field>
@@ -7018,6 +7287,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1696</field>
  </doc>
  <doc>
   <field name="id">item-04.289</field>
@@ -7044,6 +7314,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1697</field>
  </doc>
  <doc>
   <field name="id">item-04.290</field>
@@ -7070,6 +7341,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1698</field>
  </doc>
  <doc>
   <field name="id">item-04.291</field>
@@ -7096,6 +7368,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1699</field>
  </doc>
  <doc>
   <field name="id">item-04.292</field>
@@ -7122,6 +7395,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1700</field>
  </doc>
  <doc>
   <field name="id">item-04.293</field>
@@ -7148,6 +7422,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1701</field>
  </doc>
  <doc>
   <field name="id">item-04.294</field>
@@ -7174,6 +7449,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1702</field>
  </doc>
  <doc>
   <field name="id">item-04.295</field>
@@ -7200,6 +7476,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1703</field>
  </doc>
  <doc>
   <field name="id">item-04.296</field>
@@ -7226,6 +7503,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1704</field>
  </doc>
  <doc>
   <field name="id">item-04.297</field>
@@ -7252,6 +7530,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1705</field>
  </doc>
  <doc>
   <field name="id">item-04.298</field>
@@ -7278,6 +7557,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1706</field>
  </doc>
  <doc>
   <field name="id">item-04.299</field>
@@ -7304,6 +7584,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1707</field>
  </doc>
  <doc>
   <field name="id">item-04.300</field>
@@ -7330,6 +7611,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1708</field>
  </doc>
  <doc>
   <field name="id">item-04.301</field>
@@ -7356,6 +7638,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1709</field>
  </doc>
  <doc>
   <field name="id">item-04.302</field>
@@ -7382,6 +7665,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1710</field>
  </doc>
  <doc>
   <field name="id">item-04.303</field>
@@ -7408,6 +7692,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1711</field>
  </doc>
  <doc>
   <field name="id">item-04.304</field>
@@ -7434,6 +7719,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1712</field>
  </doc>
  <doc>
   <field name="id">item-04.305</field>
@@ -7460,6 +7746,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1894</field>
  </doc>
  <doc>
   <field name="id">item-04.306</field>
@@ -7486,6 +7773,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1894</field>
  </doc>
  <doc>
   <field name="id">item-04.307</field>
@@ -7512,6 +7800,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.3 1922</field>
  </doc>
  <doc>
   <field name="id">item-04.308</field>
@@ -7538,6 +7827,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1637</field>
  </doc>
  <doc>
   <field name="id">item-04.311</field>
@@ -7564,6 +7854,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1689</field>
  </doc>
  <doc>
   <field name="id">item-04.312</field>
@@ -7590,6 +7881,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1745</field>
  </doc>
  <doc>
   <field name="id">item-04.313</field>
@@ -7616,6 +7908,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1557</field>
  </doc>
  <doc>
   <field name="id">item-04.318</field>
@@ -7642,6 +7935,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 652</field>
  </doc>
  <doc>
   <field name="id">item-04.319</field>
@@ -7668,6 +7962,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 29 1160</field>
  </doc>
  <doc>
   <field name="id">item-04.320</field>
@@ -7694,6 +7989,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1559</field>
  </doc>
  <doc>
   <field name="id">item-04.321</field>
@@ -7720,6 +8016,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.322</field>
@@ -7746,6 +8043,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Allusion to upheavals caused by war, and people who had evaded military service.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.323</field>
@@ -7772,6 +8070,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Grant of tax-immunity for five years.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.324</field>
@@ -7798,6 +8097,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Military service to be reduced to one in three being selected.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.325</field>
@@ -7824,6 +8124,7 @@
   <field name="nature"></field>
   <field name="denomination">DEKATE</field>
   <field name="notes">Exemption from the tithe for one year.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.326</field>
@@ -7850,6 +8151,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Eumenes sends masons to the Apollonioucharakians to rebuild their settlement.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.327</field>
@@ -7876,6 +8178,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The priest Bacchios is to remain as priest.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.328</field>
@@ -7902,6 +8205,7 @@
   <field name="nature">SILVER, GRAIN</field>
   <field name="denomination">ARGURION</field>
   <field name="notes">Remission of debts owed to the king, in both monetary and grain form.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.329</field>
@@ -7928,6 +8232,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Earlier agreement with a certain Meleagros to receive back the village Sibloe after making payment, perhaps as a result of borrowing money on the security of the Sibloe; the price is indicated as 448 drachmas and 1.5 obols.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.330</field>
@@ -7954,6 +8259,7 @@
   <field name="nature"></field>
   <field name="denomination">OBOL</field>
   <field name="notes">Earlier agreement with a certain Meleagros to receive back the village Sibloe after making payment, perhaps as a result of borrowing money on the security of the Sibloe; the price is indicated as 448 drachmas and 1.5 obols.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.331</field>
@@ -7980,6 +8286,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Eumenes to give over the village of Sibloe as a gift.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.332</field>
@@ -8006,6 +8313,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The income from Sibloe to go towards sacrifices to Eumenes.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.333</field>
@@ -8032,6 +8340,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Sibloe to be declared sacred and exempt from tax.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.334</field>
@@ -8058,6 +8367,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The price for Sibloe to be paid by the king to Meleagros.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.335</field>
@@ -8084,6 +8394,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Further donation of villages to the Apollonioucharakians towards the restitution of their settlement.</field>
+  <field name="epigraphic_reference">SEG 57 1150</field>
  </doc>
  <doc>
   <field name="id">item-04.337</field>
@@ -8110,6 +8421,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 677</field>
  </doc>
  <doc>
   <field name="id">item-04.338</field>
@@ -8136,6 +8448,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 958</field>
  </doc>
  <doc>
   <field name="id">item-04.339</field>
@@ -8162,6 +8475,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1145</field>
  </doc>
  <doc>
   <field name="id">item-04.340</field>
@@ -8188,6 +8502,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 223</field>
  </doc>
  <doc>
   <field name="id">item-04.341</field>
@@ -8214,6 +8529,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 549</field>
  </doc>
  <doc>
   <field name="id">item-04.345</field>
@@ -8240,6 +8556,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1253</field>
  </doc>
  <doc>
   <field name="id">item-04.346</field>
@@ -8266,6 +8583,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1572</field>
  </doc>
  <doc>
   <field name="id">item-04.347</field>
@@ -8292,6 +8610,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Dedicator was priest.</field>
+  <field name="epigraphic_reference">SEG 49 1572</field>
  </doc>
  <doc>
   <field name="id">item-04.348</field>
@@ -8318,6 +8637,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Received unknown form of honorific recognition.</field>
+  <field name="epigraphic_reference">SEG 57 1162</field>
  </doc>
  <doc>
   <field name="id">item-04.351</field>
@@ -8344,6 +8664,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Jones, ZPE 214 (2020) 33</field>
  </doc>
  <doc>
   <field name="id">item-04.352</field>
@@ -8370,6 +8691,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Jones, ZPE 214 (2020) 33</field>
  </doc>
  <doc>
   <field name="id">item-04.353</field>
@@ -8396,6 +8718,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Instructions for the inscription of the crown on the stele.</field>
+  <field name="epigraphic_reference">Jones, ZPE 214 (2020) 33</field>
  </doc>
  <doc>
   <field name="id">item-04.354</field>
@@ -8422,6 +8745,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand was agonothetes and conducted games.</field>
+  <field name="epigraphic_reference">Jones, ZPE 214 (2020) 33</field>
  </doc>
  <doc>
   <field name="id">item-04.355</field>
@@ -8448,6 +8772,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand was agonothetes and conducted games.</field>
+  <field name="epigraphic_reference">Jones, ZPE 214 (2020) 33</field>
  </doc>
  <doc>
   <field name="id">item-04.358</field>
@@ -8474,6 +8799,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 689</field>
  </doc>
  <doc>
   <field name="id">item-04.359</field>
@@ -8500,6 +8826,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 690</field>
  </doc>
  <doc>
   <field name="id">item-04.360</field>
@@ -8526,6 +8853,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 700A</field>
  </doc>
  <doc>
   <field name="id">item-04.361</field>
@@ -8552,6 +8880,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 700A</field>
  </doc>
  <doc>
   <field name="id">item-04.362</field>
@@ -8578,6 +8907,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 700B</field>
  </doc>
  <doc>
   <field name="id">item-04.363</field>
@@ -8604,6 +8934,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 775</field>
  </doc>
  <doc>
   <field name="id">item-04.364</field>
@@ -8630,6 +8961,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 775</field>
  </doc>
  <doc>
   <field name="id">item-04.365</field>
@@ -8656,6 +8988,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Served as general during the war against Aristonikos.</field>
+  <field name="epigraphic_reference">SEG 34 1198</field>
  </doc>
  <doc>
   <field name="id">item-04.366</field>
@@ -8682,6 +9015,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 34 1198</field>
  </doc>
  <doc>
   <field name="id">item-04.367</field>
@@ -8708,6 +9042,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand held the agonothesia.</field>
+  <field name="epigraphic_reference">SEG 34 1198</field>
  </doc>
  <doc>
   <field name="id">item-04.368</field>
@@ -8734,6 +9069,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand held the generalship.</field>
+  <field name="epigraphic_reference">SEG 34 1198</field>
  </doc>
  <doc>
   <field name="id">item-04.369</field>
@@ -8760,6 +9096,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 34 1198</field>
  </doc>
  <doc>
   <field name="id">item-04.370</field>
@@ -8786,6 +9123,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 33 1004</field>
  </doc>
  <doc>
   <field name="id">item-04.371</field>
@@ -8812,6 +9150,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1037</field>
  </doc>
  <doc>
   <field name="id">item-04.372</field>
@@ -8838,6 +9177,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1037</field>
  </doc>
  <doc>
   <field name="id">item-04.373</field>
@@ -8864,6 +9204,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1038</field>
  </doc>
  <doc>
   <field name="id">item-04.374</field>
@@ -8890,6 +9231,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 48 1437</field>
  </doc>
  <doc>
   <field name="id">item-04.378</field>
@@ -8916,6 +9258,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honornd conducted sacrifices.</field>
+  <field name="epigraphic_reference">TAM V.2 855</field>
  </doc>
  <doc>
   <field name="id">item-04.379</field>
@@ -8942,6 +9285,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand embellised the gymnasium in an unknown way.</field>
+  <field name="epigraphic_reference">TAM V.2 855</field>
  </doc>
  <doc>
   <field name="id">item-04.380</field>
@@ -8968,6 +9312,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 858</field>
  </doc>
  <doc>
   <field name="id">item-04.381</field>
@@ -8994,6 +9339,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 881</field>
  </doc>
  <doc>
   <field name="id">item-04.382</field>
@@ -9020,6 +9366,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The dedicator was saved from the Galatians after being captured, most probably through a ransom payment.</field>
+  <field name="epigraphic_reference">TAM V.2 881</field>
  </doc>
  <doc>
   <field name="id">item-04.383</field>
@@ -9046,6 +9393,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 901</field>
  </doc>
  <doc>
   <field name="id">item-04.384</field>
@@ -9072,6 +9420,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 918</field>
  </doc>
  <doc>
   <field name="id">item-04.385</field>
@@ -9098,6 +9447,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 919</field>
  </doc>
  <doc>
   <field name="id">item-04.386</field>
@@ -9124,6 +9474,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 920</field>
  </doc>
  <doc>
   <field name="id">item-04.387</field>
@@ -9150,6 +9501,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 921</field>
  </doc>
  <doc>
   <field name="id">item-04.388</field>
@@ -9176,6 +9528,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 938</field>
  </doc>
  <doc>
   <field name="id">item-04.389</field>
@@ -9202,6 +9555,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 941</field>
  </doc>
  <doc>
   <field name="id">item-04.390</field>
@@ -9228,6 +9582,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1028</field>
  </doc>
  <doc>
   <field name="id">item-04.391</field>
@@ -9254,6 +9609,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Received unspecified 'greatest' honours.</field>
+  <field name="epigraphic_reference">TAM V.2 1028</field>
  </doc>
  <doc>
   <field name="id">item-04.392</field>
@@ -9280,6 +9636,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1091</field>
  </doc>
  <doc>
   <field name="id">item-04.393</field>
@@ -9306,6 +9663,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 40 1040</field>
  </doc>
  <doc>
   <field name="id">item-04.394</field>
@@ -9332,6 +9690,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1696</field>
  </doc>
  <doc>
   <field name="id">item-04.395</field>
@@ -9358,6 +9717,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1697</field>
  </doc>
  <doc>
   <field name="id">item-04.396</field>
@@ -9384,6 +9744,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1710</field>
  </doc>
  <doc>
   <field name="id">item-04.397</field>
@@ -9410,6 +9771,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1711</field>
  </doc>
  <doc>
   <field name="id">item-04.398</field>
@@ -9436,6 +9798,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1179</field>
  </doc>
  <doc>
   <field name="id">item-04.399</field>
@@ -9462,6 +9825,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1180</field>
  </doc>
  <doc>
   <field name="id">item-04.400</field>
@@ -9488,6 +9852,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 60 1306</field>
  </doc>
  <doc>
   <field name="id">item-04.401</field>
@@ -9514,6 +9879,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">MINA, TRIOBOL</field>
   <field name="notes">Penalty of a mina for not undergoing obligatory purifications, and whipping, each of which is reckoned as being worth 3 obols.</field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 1</field>
  </doc>
  <doc>
   <field name="id">item-04.402</field>
@@ -9540,6 +9906,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1239</field>
  </doc>
  <doc>
   <field name="id">item-04.403</field>
@@ -9566,6 +9933,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 16</field>
  </doc>
  <doc>
   <field name="id">item-04.404</field>
@@ -9592,6 +9960,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Dedicator was priest.</field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 16</field>
  </doc>
  <doc>
   <field name="id">item-04.405</field>
@@ -9618,6 +9987,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 51</field>
  </doc>
  <doc>
   <field name="id">item-04.406</field>
@@ -9644,6 +10014,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 51</field>
  </doc>
  <doc>
   <field name="id">item-04.408</field>
@@ -9670,6 +10041,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Contributed to the foundation of the city in accordance with the wishes of the king.</field>
+  <field name="epigraphic_reference">TAM V.2 1187</field>
  </doc>
  <doc>
   <field name="id">item-04.409</field>
@@ -9696,6 +10068,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Gave money and probably also grain.</field>
+  <field name="epigraphic_reference">TAM V.2 1187</field>
  </doc>
  <doc>
   <field name="id">item-04.410</field>
@@ -9722,6 +10095,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Gave money and probably also grain.</field>
+  <field name="epigraphic_reference">TAM V.2 1187</field>
  </doc>
  <doc>
   <field name="id">item-04.411</field>
@@ -9748,6 +10122,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1188</field>
  </doc>
  <doc>
   <field name="id">item-04.412</field>
@@ -9774,6 +10149,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1189</field>
  </doc>
  <doc>
   <field name="id">item-04.413</field>
@@ -9800,6 +10176,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1190</field>
  </doc>
  <doc>
   <field name="id">item-04.414</field>
@@ -9826,6 +10203,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The training for the ephebes was paid for by the gymnasiarch, hypogymnasiarch and ephebarch.</field>
+  <field name="epigraphic_reference">TAM V.2 1203</field>
  </doc>
  <doc>
   <field name="id">item-04.415</field>
@@ -9852,6 +10230,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The training for the ephebes was paid for by the gymnasiarch, hypogymnasiarch and ephebarch.</field>
+  <field name="epigraphic_reference">TAM V.2 1203</field>
  </doc>
  <doc>
   <field name="id">item-04.416</field>
@@ -9878,6 +10257,7 @@
   <field name="nature">OIL</field>
   <field name="denomination"></field>
   <field name="notes">Gymnasiarch's father paid for day-long oil-distribution.</field>
+  <field name="epigraphic_reference">TAM V.2 1203</field>
  </doc>
  <doc>
   <field name="id">item-04.417</field>
@@ -9904,6 +10284,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1541</field>
  </doc>
  <doc>
   <field name="id">item-04.418</field>
@@ -9930,6 +10311,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1542</field>
  </doc>
  <doc>
   <field name="id">item-04.419</field>
@@ -9956,6 +10338,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1546</field>
  </doc>
  <doc>
   <field name="id">item-04.420</field>
@@ -9982,6 +10365,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1143</field>
  </doc>
  <doc>
   <field name="id">item-04.422</field>
@@ -10008,6 +10392,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1123</field>
  </doc>
  <doc>
   <field name="id">item-04.425</field>
@@ -10034,6 +10419,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.2 1238</field>
  </doc>
  <doc>
   <field name="id">item-04.427</field>
@@ -10060,6 +10446,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 478</field>
  </doc>
  <doc>
   <field name="id">item-04.428</field>
@@ -10086,6 +10473,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 479</field>
  </doc>
  <doc>
   <field name="id">item-04.429</field>
@@ -10112,6 +10500,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 480</field>
  </doc>
  <doc>
   <field name="id">item-04.436</field>
@@ -10138,6 +10527,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of unspecified offices.</field>
+  <field name="epigraphic_reference">TAM V.1 514</field>
  </doc>
  <doc>
   <field name="id">item-04.437</field>
@@ -10164,6 +10554,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of unspecified honorific reciprocation.</field>
+  <field name="epigraphic_reference">TAM V.1 514</field>
  </doc>
  <doc>
   <field name="id">item-04.438</field>
@@ -10190,6 +10581,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 530</field>
  </doc>
  <doc>
   <field name="id">item-04.439</field>
@@ -10216,6 +10608,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 543</field>
  </doc>
  <doc>
   <field name="id">item-04.440</field>
@@ -10242,6 +10635,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.49 1597</field>
  </doc>
  <doc>
   <field name="id">item-04.441</field>
@@ -10268,6 +10662,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.49 1598</field>
  </doc>
  <doc>
   <field name="id">item-04.442</field>
@@ -10294,6 +10689,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.49 1602</field>
  </doc>
  <doc>
   <field name="id">item-04.443</field>
@@ -10320,6 +10716,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.49 1611</field>
  </doc>
  <doc>
   <field name="id">item-04.444</field>
@@ -10346,6 +10743,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.49 1615</field>
  </doc>
  <doc>
   <field name="id">item-04.445</field>
@@ -10372,6 +10770,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1212</field>
  </doc>
  <doc>
   <field name="id">item-04.446</field>
@@ -10398,6 +10797,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1250</field>
  </doc>
  <doc>
   <field name="id">item-04.447</field>
@@ -10424,6 +10824,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1202</field>
  </doc>
  <doc>
   <field name="id">item-04.448</field>
@@ -10450,6 +10851,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 107</field>
  </doc>
  <doc>
   <field name="id">item-04.449</field>
@@ -10476,6 +10878,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 108</field>
  </doc>
  <doc>
   <field name="id">item-04.450</field>
@@ -10502,6 +10905,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 35 1166</field>
  </doc>
  <doc>
   <field name="id">item-04.451</field>
@@ -10528,6 +10932,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 468B</field>
  </doc>
  <doc>
   <field name="id">item-04.452</field>
@@ -10554,6 +10959,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 468B</field>
  </doc>
  <doc>
   <field name="id">item-04.453</field>
@@ -10580,6 +10986,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 468B</field>
  </doc>
  <doc>
   <field name="id">item-04.454</field>
@@ -10606,6 +11013,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mogetes fought as general alongside the Romans.</field>
+  <field name="epigraphic_reference">TAM V.1 468B</field>
  </doc>
  <doc>
   <field name="id">item-04.455</field>
@@ -10632,6 +11040,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mogetes fought as general alongside the Romans.</field>
+  <field name="epigraphic_reference">TAM V.1 468B</field>
  </doc>
  <doc>
   <field name="id">item-04.457</field>
@@ -10658,6 +11067,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1622</field>
  </doc>
  <doc>
   <field name="id">item-04.458</field>
@@ -10684,6 +11094,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1623</field>
  </doc>
  <doc>
   <field name="id">item-04.459</field>
@@ -10710,6 +11121,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 77</field>
  </doc>
  <doc>
   <field name="id">item-04.460</field>
@@ -10736,6 +11148,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 429</field>
  </doc>
  <doc>
   <field name="id">item-04.461</field>
@@ -10762,6 +11175,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 555</field>
  </doc>
  <doc>
   <field name="id">item-04.464</field>
@@ -10788,6 +11202,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Sacrificial meat to be apportioned for Lykinos.</field>
+  <field name="epigraphic_reference">TAM V.1 234</field>
  </doc>
  <doc>
   <field name="id">item-04.465</field>
@@ -10814,6 +11229,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Lykinos and his descendants to receive an honorific portion of sacrificial meat.</field>
+  <field name="epigraphic_reference">TAM V.1 234</field>
  </doc>
  <doc>
   <field name="id">item-04.466</field>
@@ -10840,6 +11256,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Lykinos and his descendants to receive xenion whenever they visit the city.</field>
+  <field name="epigraphic_reference">TAM V.1 234</field>
  </doc>
  <doc>
   <field name="id">item-04.467</field>
@@ -10866,6 +11283,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 234</field>
  </doc>
  <doc>
   <field name="id">item-04.468</field>
@@ -10892,6 +11310,7 @@
   <field name="nature"></field>
   <field name="denomination">PLETHRON</field>
   <field name="notes">Land of 20 plethra dedicated towards sacrifices to Zeus Keraunios.</field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 199</field>
  </doc>
  <doc>
   <field name="id">item-04.469</field>
@@ -10918,6 +11337,7 @@
   <field name="nature"></field>
   <field name="denomination">PLETHRON</field>
   <field name="notes">Land of 20 plethra dedicated towards sacrifices to Zeus Keraunios.</field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 199</field>
  </doc>
  <doc>
   <field name="id">item-04.470</field>
@@ -10944,6 +11364,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 202</field>
  </doc>
  <doc>
   <field name="id">item-04.471</field>
@@ -10970,6 +11391,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1717</field>
  </doc>
  <doc>
   <field name="id">item-04.472</field>
@@ -10996,6 +11418,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1718</field>
  </doc>
  <doc>
   <field name="id">item-04.473</field>
@@ -11022,6 +11445,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of salvation from danger, which may have involved ransom payment.</field>
+  <field name="epigraphic_reference">SEG 49 1718</field>
  </doc>
  <doc>
   <field name="id">item-04.474</field>
@@ -11048,6 +11472,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1722</field>
  </doc>
  <doc>
   <field name="id">item-04.475</field>
@@ -11074,6 +11499,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 518</field>
  </doc>
  <doc>
   <field name="id">item-04.476</field>
@@ -11100,6 +11526,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 519</field>
  </doc>
  <doc>
   <field name="id">item-04.479</field>
@@ -11126,6 +11553,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1216</field>
  </doc>
  <doc>
   <field name="id">item-04.480</field>
@@ -11152,6 +11580,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 54</field>
  </doc>
  <doc>
   <field name="id">item-04.484</field>
@@ -11178,6 +11607,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 40 1062</field>
  </doc>
  <doc>
   <field name="id">item-04.485</field>
@@ -11204,6 +11634,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 40 1062</field>
  </doc>
  <doc>
   <field name="id">item-04.486</field>
@@ -11230,6 +11661,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 966</field>
  </doc>
  <doc>
   <field name="id">item-04.487</field>
@@ -11256,6 +11688,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 967</field>
  </doc>
  <doc>
   <field name="id">item-04.488</field>
@@ -11282,6 +11715,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 968</field>
  </doc>
  <doc>
   <field name="id">item-04.489</field>
@@ -11308,6 +11742,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 969</field>
  </doc>
  <doc>
   <field name="id">item-04.490</field>
@@ -11334,6 +11769,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 970</field>
  </doc>
  <doc>
   <field name="id">item-04.491</field>
@@ -11360,6 +11796,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1652</field>
  </doc>
  <doc>
   <field name="id">item-04.492</field>
@@ -11386,6 +11823,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1212</field>
  </doc>
  <doc>
   <field name="id">item-04.493</field>
@@ -11412,6 +11850,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 57</field>
  </doc>
  <doc>
   <field name="id">item-04.494</field>
@@ -11438,6 +11877,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 166</field>
  </doc>
  <doc>
   <field name="id">item-04.495</field>
@@ -11464,6 +11904,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 183</field>
  </doc>
  <doc>
   <field name="id">item-04.496</field>
@@ -11490,6 +11931,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 184</field>
  </doc>
  <doc>
   <field name="id">item-04.497</field>
@@ -11516,6 +11958,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was a general.</field>
+  <field name="epigraphic_reference">TAM V.1 184</field>
  </doc>
  <doc>
   <field name="id">item-04.498</field>
@@ -11542,6 +11985,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 441</field>
  </doc>
  <doc>
   <field name="id">item-04.499</field>
@@ -11568,6 +12012,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Dedicator was a priest.</field>
+  <field name="epigraphic_reference">TAM V.1 441</field>
  </doc>
  <doc>
   <field name="id">item-04.500</field>
@@ -11594,6 +12039,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 486B</field>
  </doc>
  <doc>
   <field name="id">item-04.501</field>
@@ -11620,6 +12066,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 49 1566</field>
  </doc>
  <doc>
   <field name="id">item-04.502</field>
@@ -11646,6 +12093,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was general and epistates.</field>
+  <field name="epigraphic_reference">SEG 49 1552</field>
  </doc>
  <doc>
   <field name="id">item-04.505</field>
@@ -11672,6 +12120,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay-Petzl, Lydia 109</field>
  </doc>
  <doc>
   <field name="id">item-04.506</field>
@@ -11698,6 +12147,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 1293</field>
  </doc>
  <doc>
   <field name="id">item-04.507</field>
@@ -11724,6 +12174,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was priest of Apollo and Helios.</field>
+  <field name="epigraphic_reference">SEG 66 1293</field>
  </doc>
  <doc>
   <field name="id">item-04.510</field>
@@ -11750,6 +12201,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 205</field>
  </doc>
  <doc>
   <field name="id">item-04.511</field>
@@ -11776,6 +12228,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Allusion to great dangers, which probably relates to military threat.</field>
+  <field name="epigraphic_reference">SEG 53 1360</field>
  </doc>
  <doc>
   <field name="id">item-04.512</field>
@@ -11802,6 +12255,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of stoas and columns.</field>
+  <field name="epigraphic_reference">I.Manisa 517</field>
  </doc>
  <doc>
   <field name="id">item-04.513</field>
@@ -11828,6 +12282,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand carried out sacrifices.</field>
+  <field name="epigraphic_reference">I.Manisa 517</field>
  </doc>
  <doc>
   <field name="id">item-04.514</field>
@@ -11854,6 +12309,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 517</field>
  </doc>
  <doc>
   <field name="id">item-04.515</field>
@@ -11880,6 +12336,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 517</field>
  </doc>
  <doc>
   <field name="id">item-04.516</field>
@@ -11906,6 +12363,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 517</field>
  </doc>
  <doc>
   <field name="id">item-04.517</field>
@@ -11932,6 +12390,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 221</field>
  </doc>
  <doc>
   <field name="id">item-04.518</field>
@@ -11958,6 +12417,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 35 1153</field>
  </doc>
  <doc>
   <field name="id">item-04.519</field>
@@ -11984,6 +12444,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1228</field>
  </doc>
  <doc>
   <field name="id">item-04.522</field>
@@ -12010,6 +12471,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 156</field>
  </doc>
  <doc>
   <field name="id">item-04.523</field>
@@ -12036,6 +12498,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 156</field>
  </doc>
  <doc>
   <field name="id">item-04.526</field>
@@ -12062,6 +12525,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 48</field>
  </doc>
  <doc>
   <field name="id">item-04.527</field>
@@ -12088,6 +12552,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 48</field>
  </doc>
  <doc>
   <field name="id">item-04.528</field>
@@ -12114,6 +12579,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1219</field>
  </doc>
  <doc>
   <field name="id">item-04.529</field>
@@ -12140,6 +12606,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1219</field>
  </doc>
  <doc>
   <field name="id">item-04.530</field>
@@ -12166,6 +12633,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand and his descendants given priority seating and crowning at all public sacrifices.</field>
+  <field name="epigraphic_reference">SEG 57 1219</field>
  </doc>
  <doc>
   <field name="id">item-04.531</field>
@@ -12192,6 +12660,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay, EA 51 (2018) 101-103 n. 6</field>
  </doc>
  <doc>
   <field name="id">item-04.532</field>
@@ -12218,6 +12687,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay, EA 51 (2018) 101-103 n. 6</field>
  </doc>
  <doc>
   <field name="id">item-04.533</field>
@@ -12244,6 +12714,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand praised for unspecified generosity.</field>
+  <field name="epigraphic_reference">Malay, EA 51 (2018) 101-103 n. 6</field>
  </doc>
  <doc>
   <field name="id">item-04.534</field>
@@ -12270,6 +12741,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand said to have crowned the people, perhaps by earning praise and crowns from other communities.</field>
+  <field name="epigraphic_reference">Malay, EA 51 (2018) 101-103 n. 6</field>
  </doc>
  <doc>
   <field name="id">item-04.535</field>
@@ -12296,6 +12768,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Philomelos' sons to be allowed to set up the honours at locations of their choice, implying they paid for the statues.</field>
+  <field name="epigraphic_reference">Malay, EA 51 (2018) 101-103 n. 6</field>
  </doc>
  <doc>
   <field name="id">item-04.536</field>
@@ -12322,6 +12795,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Malay, EA 51 (2018) 101-103 n. 6</field>
  </doc>
  <doc>
   <field name="id">item-04.537</field>
@@ -12348,6 +12822,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM V.1 1</field>
  </doc>
  <doc>
   <field name="id">item-04.542</field>
@@ -12374,6 +12849,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 60 2</field>
  </doc>
  <doc>
   <field name="id">item-04.543</field>
@@ -12400,6 +12876,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 61 999</field>
  </doc>
  <doc>
   <field name="id">item-04.546</field>
@@ -12426,6 +12903,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 60 1290</field>
  </doc>
  <doc>
   <field name="id">item-04.547</field>
@@ -12452,6 +12930,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 28 908</field>
  </doc>
  <doc>
   <field name="id">item-04.549</field>
@@ -12478,6 +12957,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Stratonike was priestess.</field>
+  <field name="epigraphic_reference">SEG 57 1188</field>
  </doc>
  <doc>
   <field name="id">item-04.550</field>
@@ -12504,6 +12984,7 @@
   <field name="nature">GOLD</field>
   <field name="denomination">CHRUSOS</field>
   <field name="notes">A crown of 10 chrusoi.</field>
+  <field name="epigraphic_reference">SEG 57 1188</field>
  </doc>
  <doc>
   <field name="id">item-04.551</field>
@@ -12530,6 +13011,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1188</field>
  </doc>
  <doc>
   <field name="id">item-04.552</field>
@@ -12556,6 +13038,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1188</field>
  </doc>
  <doc>
   <field name="id">item-04.553</field>
@@ -12582,6 +13065,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1188</field>
  </doc>
  <doc>
   <field name="id">item-04.554</field>
@@ -12608,6 +13092,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1189</field>
  </doc>
  <doc>
   <field name="id">item-04.555</field>
@@ -12634,6 +13119,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1191</field>
  </doc>
  <doc>
   <field name="id">item-04.556</field>
@@ -12660,6 +13146,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1192</field>
  </doc>
  <doc>
   <field name="id">item-04.557</field>
@@ -12686,6 +13173,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1388</field>
  </doc>
  <doc>
   <field name="id">item-04.562</field>
@@ -12712,6 +13200,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1299</field>
  </doc>
  <doc>
   <field name="id">item-04.563</field>
@@ -12738,6 +13227,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1383</field>
  </doc>
  <doc>
   <field name="id">item-04.564</field>
@@ -12764,6 +13254,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 60 1292</field>
  </doc>
  <doc>
   <field name="id">item-04.565</field>
@@ -12790,6 +13281,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 60 2</field>
  </doc>
  <doc>
   <field name="id">item-04.566</field>
@@ -12816,6 +13308,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 60 1300</field>
  </doc>
  <doc>
   <field name="id">item-04.567</field>
@@ -12842,6 +13335,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The relief was commissioned by his wife.</field>
+  <field name="epigraphic_reference">SEG 59 1386</field>
  </doc>
  <doc>
   <field name="id">item-04.568</field>
@@ -12868,6 +13362,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Deceased was a hipparch.</field>
+  <field name="epigraphic_reference">SEG 59 1386</field>
  </doc>
  <doc>
   <field name="id">item-04.569</field>
@@ -12894,6 +13389,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1387</field>
  </doc>
  <doc>
   <field name="id">item-04.570</field>
@@ -12920,6 +13416,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1389</field>
  </doc>
  <doc>
   <field name="id">item-04.571</field>
@@ -12946,6 +13443,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1391</field>
  </doc>
  <doc>
   <field name="id">item-04.572</field>
@@ -12972,6 +13470,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 61 1</field>
  </doc>
  <doc>
   <field name="id">item-04.573</field>
@@ -12998,6 +13497,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 61 989</field>
  </doc>
  <doc>
   <field name="id">item-04.574</field>
@@ -13024,6 +13524,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Probable mention of the construction of a structure by the satrap.</field>
+  <field name="epigraphic_reference">Gusmani and Akkan, Kadmos (2004) 139-150</field>
  </doc>
  <doc>
   <field name="id">item-04.579</field>
@@ -13050,6 +13551,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1040</field>
  </doc>
  <doc>
   <field name="id">item-04.580</field>
@@ -13076,6 +13578,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1041</field>
  </doc>
  <doc>
   <field name="id">item-04.581</field>
@@ -13102,6 +13605,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 221</field>
  </doc>
  <doc>
   <field name="id">item-04.582</field>
@@ -13128,6 +13632,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 222</field>
  </doc>
  <doc>
   <field name="id">item-04.583</field>
@@ -13154,6 +13659,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 228</field>
  </doc>
  <doc>
   <field name="id">item-04.584</field>
@@ -13180,6 +13686,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 482</field>
  </doc>
  <doc>
   <field name="id">item-04.585</field>
@@ -13206,6 +13713,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 483</field>
  </doc>
  <doc>
   <field name="id">item-04.586</field>
@@ -13232,6 +13740,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Manisa 488</field>
  </doc>
  <doc>
   <field name="id">item-04.587</field>
@@ -13258,6 +13767,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 42 1086</field>
  </doc>
  <doc>
   <field name="id">item-04.588</field>
@@ -13284,6 +13794,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 48 1475</field>
  </doc>
  <doc>
   <field name="id">item-04.589</field>
@@ -13310,6 +13821,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1254</field>
  </doc>
  <doc>
   <field name="id">item-04.590</field>
@@ -13336,5 +13848,6 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1240</field>
  </doc>
 </add>

@@ -24,6 +24,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 45 1721</field>
  </doc>
  <doc>
   <field name="id">item-09.6</field>
@@ -50,6 +51,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 54 1276</field>
  </doc>
  <doc>
   <field name="id">item-09.7</field>
@@ -76,6 +78,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 63 1220</field>
  </doc>
  <doc>
   <field name="id">item-09.11</field>
@@ -102,6 +105,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA VI 258</field>
  </doc>
  <doc>
   <field name="id">item-09.12</field>
@@ -128,6 +132,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA VI 260</field>
  </doc>
  <doc>
   <field name="id">item-09.13</field>
@@ -154,6 +159,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA VI 260</field>
  </doc>
  <doc>
   <field name="id">item-09.14</field>
@@ -180,6 +186,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Chin and Lazar (2020) 43-44</field>
  </doc>
  <doc>
   <field name="id">item-09.19</field>
@@ -206,6 +213,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1491</field>
  </doc>
  <doc>
   <field name="id">item-09.20</field>
@@ -232,6 +240,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1277</field>
  </doc>
  <doc>
   <field name="id">item-09.21</field>
@@ -258,6 +267,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1278</field>
  </doc>
  <doc>
   <field name="id">item-09.22</field>
@@ -284,6 +294,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1279</field>
  </doc>
  <doc>
   <field name="id">item-09.23</field>
@@ -310,6 +321,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1283</field>
  </doc>
  <doc>
   <field name="id">item-09.24</field>
@@ -336,6 +348,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1284</field>
  </doc>
  <doc>
   <field name="id">item-09.25</field>
@@ -362,6 +375,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1277 (p. 419)</field>
  </doc>
  <doc>
   <field name="id">item-09.29</field>
@@ -388,6 +402,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1372</field>
  </doc>
  <doc>
   <field name="id">item-09.32</field>
@@ -414,6 +429,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA IV 120A</field>
  </doc>
  <doc>
   <field name="id">item-09.40</field>
@@ -440,6 +456,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA VI 53</field>
  </doc>
  <doc>
   <field name="id">item-09.41</field>
@@ -466,6 +483,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA VI 53</field>
  </doc>
  <doc>
   <field name="id">item-09.42</field>
@@ -492,6 +510,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Granted citizenship, and probably privileges associated with his position as a Persian landowner incorporated into the Apollonian civic body.</field>
+  <field name="epigraphic_reference">Robert (1983) 498-505</field>
  </doc>
  <doc>
   <field name="id">item-09.43</field>
@@ -518,6 +537,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 63 990</field>
  </doc>
  <doc>
   <field name="id">item-09.44</field>
@@ -544,6 +564,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 63 990</field>
  </doc>
  <doc>
   <field name="id">item-09.45</field>
@@ -570,6 +591,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 29 1154</field>
  </doc>
  <doc>
   <field name="id">item-09.48</field>
@@ -596,6 +618,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Banabelos and Lachares were oikonomos and eklogistes under Achaios.</field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 1</field>
  </doc>
  <doc>
   <field name="id">item-09.49</field>
@@ -622,6 +645,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Banabelos and Lachares paid the ransom for prisoners of the Galatian war by interceding with Achaios.</field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 1</field>
  </doc>
  <doc>
   <field name="id">item-09.50</field>
@@ -648,6 +672,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 1</field>
  </doc>
  <doc>
   <field name="id">item-09.51</field>
@@ -674,6 +699,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">A bull to be sacrificed to Achaios, and two rams and three sheep for Banabelos and Lachares, each year.</field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 1</field>
  </doc>
  <doc>
   <field name="id">item-09.53</field>
@@ -700,6 +726,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Construction of the strategion.</field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 2</field>
  </doc>
  <doc>
   <field name="id">item-09.54</field>
@@ -726,6 +753,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 2</field>
  </doc>
  <doc>
   <field name="id">item-09.55</field>
@@ -752,6 +780,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 2</field>
  </doc>
  <doc>
   <field name="id">item-09.56</field>
@@ -778,6 +807,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 3</field>
  </doc>
  <doc>
   <field name="id">item-09.57</field>
@@ -804,6 +834,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 3</field>
  </doc>
  <doc>
   <field name="id">item-09.60</field>
@@ -830,6 +861,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 6</field>
  </doc>
  <doc>
   <field name="id">item-09.61</field>
@@ -856,6 +888,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 7</field>
  </doc>
  <doc>
   <field name="id">item-09.62</field>
@@ -882,6 +915,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Laodikeia Lykos 8</field>
  </doc>
  <doc>
   <field name="id">item-09.63</field>
@@ -908,6 +942,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 29 1412</field>
  </doc>
  <doc>
   <field name="id">item-09.64</field>
@@ -934,6 +969,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 35 1395</field>
  </doc>
  <doc>
   <field name="id">item-09.65</field>
@@ -960,6 +996,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 56 1510</field>
  </doc>
  <doc>
   <field name="id">item-09.66</field>
@@ -986,6 +1023,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1493</field>
  </doc>
  <doc>
   <field name="id">item-09.67</field>
@@ -1012,6 +1050,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 62 1241</field>
  </doc>
  <doc>
   <field name="id">item-09.70</field>
@@ -1038,6 +1077,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 1663</field>
  </doc>
  <doc>
   <field name="id">item-09.71</field>
@@ -1064,6 +1104,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 50 1253ter</field>
  </doc>
  <doc>
   <field name="id">item-09.72</field>
@@ -1090,6 +1131,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Rojas and Öztürk (2022) 157</field>
  </doc>
  <doc>
   <field name="id">item-09.73</field>
@@ -1116,6 +1158,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Şimşek (2022) 1-2 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-09.74</field>
@@ -1142,6 +1185,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Şimşek (2022) 1-2 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-09.75</field>
@@ -1168,6 +1212,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Şimşek (2022) 1-2 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-09.76</field>
@@ -1194,6 +1239,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Şimşek (2022) 1-2 n. 1</field>
  </doc>
  <doc>
   <field name="id">item-09.77</field>
@@ -1220,6 +1266,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of the term of a gymnasiarch.</field>
+  <field name="epigraphic_reference">Şimşek (2022) 3 n. 2</field>
  </doc>
  <doc>
   <field name="id">item-09.78</field>
@@ -1246,6 +1293,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of the ephebes who made payments towards a 'common' (koineion) place.</field>
+  <field name="epigraphic_reference">Şimşek (2022) 3 n. 2</field>
  </doc>
  <doc>
   <field name="id">item-09.79</field>
@@ -1272,6 +1320,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Şimşek (2022) 5 n. 3</field>
  </doc>
  <doc>
   <field name="id">item-09.80</field>
@@ -1298,6 +1347,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Şimşek (2022) 5 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.84</field>
@@ -1324,6 +1374,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">OGIS 224</field>
  </doc>
  <doc>
   <field name="id">item-09.85</field>
@@ -1350,6 +1401,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">OGIS 224</field>
  </doc>
  <doc>
   <field name="id">item-09.86</field>
@@ -1376,6 +1428,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Chares was generous during his term as paidonomos, and was also gymnasiarch.</field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.87</field>
@@ -1402,6 +1455,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Chares was steadfast in managing the education of the boys and ephebes.</field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.88</field>
@@ -1428,6 +1482,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Chares distributed oil for 13 months.</field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.89</field>
@@ -1454,6 +1509,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Chares held many contests.</field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.90</field>
@@ -1480,6 +1536,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Built an exedra in the gymnasium.</field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.91</field>
@@ -1506,6 +1563,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Chares promised to pay for his honorific statue.</field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.92</field>
@@ -1532,6 +1590,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.93</field>
@@ -1558,6 +1617,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Diehl and Cousin, BCH 13 (1889) 334 n. 4</field>
  </doc>
  <doc>
   <field name="id">item-09.94</field>
@@ -1584,6 +1644,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Menodoros' honours were possibly for resolving some a financial matter involving the people of Eriza, as he was official in charge of revenues.</field>
+  <field name="epigraphic_reference">OGIS 238</field>
  </doc>
  <doc>
   <field name="id">item-09.95</field>
@@ -1610,6 +1671,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Menodoros' honours were possibly for resolving some a financial matter involving the people of Eriza, as he was official in charge of revenues.</field>
+  <field name="epigraphic_reference">OGIS 238</field>
  </doc>
  <doc>
   <field name="id">item-09.96</field>
@@ -1636,6 +1698,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Menodoros' honours were possibly for resolving some a financial matter involving the people of Eriza, as he was official in charge of revenues.</field>
+  <field name="epigraphic_reference">OGIS 238</field>
  </doc>
  <doc>
   <field name="id">item-09.97</field>
@@ -1662,6 +1725,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Robert, Et. Anat. p. 366</field>
  </doc>
  <doc>
   <field name="id">item-09.101</field>
@@ -1688,6 +1752,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Received unspecified honours.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.102</field>
@@ -1714,6 +1779,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Kephisodoros held the gymnasiarchy, perhaps at his own cost.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.103</field>
@@ -1740,6 +1806,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">He was honoured by the neoi in an unspecified way.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.104</field>
@@ -1766,6 +1833,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Kephisodoros dedicated cult-statues of the Attalid kings.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.105</field>
@@ -1792,6 +1860,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Eumenes II had granted 3,000 drachmas to the city.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.106</field>
@@ -1818,6 +1887,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Kephisodoros gave an unknown amount of drachmas towards funding for Hermaia and Herakleia festivals, likely also covering expenditure for contests.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.107</field>
@@ -1844,6 +1914,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Kephisodoros gave an unknown amount of drachmas towards funding for Hermaia and Herakleia festivals, likely also covering expenditure for contests.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.108</field>
@@ -1870,6 +1941,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">City had provided grain to the king's soldiers during a recent war.</field>
+  <field name="epigraphic_reference">MAMA VI 173</field>
  </doc>
  <doc>
   <field name="id">item-09.109</field>
@@ -1896,6 +1968,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was a gymnasiarch.</field>
+  <field name="epigraphic_reference">SEG.61 1140</field>
  </doc>
  <doc>
   <field name="id">item-09.110</field>
@@ -1922,6 +1995,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.61 1140</field>
  </doc>
  <doc>
   <field name="id">item-09.111</field>
@@ -1948,6 +2022,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.61 1140</field>
  </doc>
  <doc>
   <field name="id">item-09.112</field>
@@ -1974,6 +2049,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA VI 362</field>
  </doc>
  <doc>
   <field name="id">item-09.113</field>
@@ -2000,6 +2076,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Ivantchik and Adiego (2016) 289</field>
  </doc>
  <doc>
   <field name="id">item-09.116</field>
@@ -2026,6 +2103,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA IV 49</field>
  </doc>
  <doc>
   <field name="id">item-09.117</field>
@@ -2052,6 +2130,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA IV 52</field>
  </doc>
  <doc>
   <field name="id">item-09.118</field>
@@ -2078,6 +2157,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA IV 75</field>
  </doc>
  <doc>
   <field name="id">item-09.119</field>
@@ -2104,6 +2184,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Michel, Recueil 545</field>
  </doc>
  <doc>
   <field name="id">item-09.120</field>
@@ -2130,6 +2211,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Michel, Recueil 545</field>
  </doc>
  <doc>
   <field name="id">item-09.121</field>
@@ -2156,6 +2238,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Michel, Recueil 545</field>
  </doc>
  <doc>
   <field name="id">item-09.122</field>
@@ -2182,6 +2265,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Michel, Recueil 545</field>
  </doc>
  <doc>
   <field name="id">item-09.126</field>
@@ -2208,6 +2292,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sultan Dağı Sultan Dağı 1</field>
  </doc>
  <doc>
   <field name="id">item-09.128</field>
@@ -2234,6 +2319,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The text is otherwise identical to that known from Pamukçu in Mysia, SEG 37.1010.</field>
+  <field name="epigraphic_reference">SEG 54 1353</field>
  </doc>
  <doc>
   <field name="id">item-09.136</field>
@@ -2260,6 +2346,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of soldiers that Eumenes would send to Attis.</field>
+  <field name="epigraphic_reference">I.Pessinous 1, 2</field>
  </doc>
  <doc>
   <field name="id">item-09.137</field>
@@ -2286,6 +2373,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Eumenes instructs Attis to send him the dedications, presumably meaning temple revenues.</field>
+  <field name="epigraphic_reference">I.Pessinous 1, 2</field>
  </doc>
  <doc>
   <field name="id">item-09.138</field>
@@ -2312,6 +2400,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Pessinous 3, 4, 5</field>
  </doc>
  <doc>
   <field name="id">item-09.139</field>
@@ -2338,6 +2427,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Pessinous 6</field>
  </doc>
  <doc>
   <field name="id">item-09.140</field>
@@ -2364,6 +2454,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Pessinous 7</field>
  </doc>
  <doc>
   <field name="id">item-09.141</field>
@@ -2390,6 +2481,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Request by Aribazos that he keep the kleroi he formelry possessed.</field>
+  <field name="epigraphic_reference">SEG 64 1296</field>
  </doc>
  <doc>
   <field name="id">item-09.144</field>
@@ -2416,6 +2508,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 47 1745</field>
  </doc>
  <doc>
   <field name="id">item-09.145</field>
@@ -2442,6 +2535,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Unspecified honours for Eumenes II.</field>
+  <field name="epigraphic_reference">SEG 47 1745</field>
  </doc>
  <doc>
   <field name="id">item-09.146</field>
@@ -2468,6 +2562,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Eumenes sends capable men to the community to set up its council, civic offices, and civic tribes, as well as a gymnasium.</field>
+  <field name="epigraphic_reference">SEG 47 1745</field>
  </doc>
  <doc>
   <field name="id">item-09.147</field>
@@ -2494,6 +2589,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Toriaians resolve on building a gymnasium and supplying it with oil.</field>
+  <field name="epigraphic_reference">SEG 47 1745</field>
  </doc>
  <doc>
   <field name="id">item-09.148</field>
@@ -2520,6 +2616,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Eumenes grants the city the income from the agoranomia for the purchaase of oil for the gymnasium.</field>
+  <field name="epigraphic_reference">SEG 47 1745</field>
  </doc>
  <doc>
   <field name="id">item-09.149</field>
@@ -2546,6 +2643,7 @@
   <field name="nature"></field>
   <field name="denomination">DEKATE</field>
   <field name="notes">Regulation on the sources of income that will supply the gymnasium in the future, with reference to the dekate.</field>
+  <field name="epigraphic_reference">SEG 47 1745</field>
  </doc>
  <doc>
   <field name="id">item-09.151</field>
@@ -2572,6 +2670,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG.17 543</field>
  </doc>
  <doc>
   <field name="id">item-09.152</field>
@@ -2598,6 +2697,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1104</field>
  </doc>
  <doc>
   <field name="id">item-09.153</field>
@@ -2624,6 +2724,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1105</field>
  </doc>
  <doc>
   <field name="id">item-09.154</field>
@@ -2650,6 +2751,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1106</field>
  </doc>
  <doc>
   <field name="id">item-09.155</field>
@@ -2676,6 +2778,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1107</field>
  </doc>
  <doc>
   <field name="id">item-09.156</field>
@@ -2702,6 +2805,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1108</field>
  </doc>
  <doc>
   <field name="id">item-09.157</field>
@@ -2728,6 +2832,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1109</field>
  </doc>
  <doc>
   <field name="id">item-09.158</field>
@@ -2754,6 +2859,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1110</field>
  </doc>
  <doc>
   <field name="id">item-09.159</field>
@@ -2780,6 +2886,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1111</field>
  </doc>
  <doc>
   <field name="id">item-09.160</field>
@@ -2806,6 +2913,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1112</field>
  </doc>
  <doc>
   <field name="id">item-09.161</field>
@@ -2832,6 +2940,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1113</field>
  </doc>
  <doc>
   <field name="id">item-09.162</field>
@@ -2858,6 +2967,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1114</field>
  </doc>
  <doc>
   <field name="id">item-09.163</field>
@@ -2884,6 +2994,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1115</field>
  </doc>
  <doc>
   <field name="id">item-09.164</field>
@@ -2910,6 +3021,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1116</field>
  </doc>
  <doc>
   <field name="id">item-09.165</field>
@@ -2936,6 +3048,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1117</field>
  </doc>
  <doc>
   <field name="id">item-09.166</field>
@@ -2962,6 +3075,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1118</field>
  </doc>
  <doc>
   <field name="id">item-09.167</field>
@@ -2988,6 +3102,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1119</field>
  </doc>
  <doc>
   <field name="id">item-09.168</field>
@@ -3014,6 +3129,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1120</field>
  </doc>
  <doc>
   <field name="id">item-09.169</field>
@@ -3040,6 +3156,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1121</field>
  </doc>
  <doc>
   <field name="id">item-09.170</field>
@@ -3066,6 +3183,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1122</field>
  </doc>
  <doc>
   <field name="id">item-09.171</field>
@@ -3092,6 +3210,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1123</field>
  </doc>
  <doc>
   <field name="id">item-09.172</field>
@@ -3118,6 +3237,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1124</field>
  </doc>
  <doc>
   <field name="id">item-09.173</field>
@@ -3144,6 +3264,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1125</field>
  </doc>
  <doc>
   <field name="id">item-09.174</field>
@@ -3170,6 +3291,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1126</field>
  </doc>
  <doc>
   <field name="id">item-09.175</field>
@@ -3196,6 +3318,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1127</field>
  </doc>
  <doc>
   <field name="id">item-09.176</field>
@@ -3222,6 +3345,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1128</field>
  </doc>
  <doc>
   <field name="id">item-09.177</field>
@@ -3248,6 +3372,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1129</field>
  </doc>
  <doc>
   <field name="id">item-09.178</field>
@@ -3274,6 +3399,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1130</field>
  </doc>
  <doc>
   <field name="id">item-09.179</field>
@@ -3300,6 +3426,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1131</field>
  </doc>
  <doc>
   <field name="id">item-09.180</field>
@@ -3326,6 +3453,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1132</field>
  </doc>
  <doc>
   <field name="id">item-09.181</field>
@@ -3352,6 +3480,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1133</field>
  </doc>
  <doc>
   <field name="id">item-09.182</field>
@@ -3378,6 +3507,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1134</field>
  </doc>
  <doc>
   <field name="id">item-09.183</field>
@@ -3404,6 +3534,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1135</field>
  </doc>
  <doc>
   <field name="id">item-09.184</field>
@@ -3430,6 +3561,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1136</field>
  </doc>
  <doc>
   <field name="id">item-09.185</field>
@@ -3456,6 +3588,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1137</field>
  </doc>
  <doc>
   <field name="id">item-09.186</field>
@@ -3482,6 +3615,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1138</field>
  </doc>
  <doc>
   <field name="id">item-09.187</field>
@@ -3508,6 +3642,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1139</field>
  </doc>
  <doc>
   <field name="id">item-09.188</field>
@@ -3534,6 +3669,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1140</field>
  </doc>
  <doc>
   <field name="id">item-09.189</field>
@@ -3560,6 +3696,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1141</field>
  </doc>
  <doc>
   <field name="id">item-09.190</field>
@@ -3586,6 +3723,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1142</field>
  </doc>
  <doc>
   <field name="id">item-09.191</field>
@@ -3612,6 +3750,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1143</field>
  </doc>
  <doc>
   <field name="id">item-09.192</field>
@@ -3638,6 +3777,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1144</field>
  </doc>
  <doc>
   <field name="id">item-09.193</field>
@@ -3664,6 +3804,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1145</field>
  </doc>
  <doc>
   <field name="id">item-09.194</field>
@@ -3690,6 +3831,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1146</field>
  </doc>
  <doc>
   <field name="id">item-09.195</field>
@@ -3716,6 +3858,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1147</field>
  </doc>
  <doc>
   <field name="id">item-09.196</field>
@@ -3742,6 +3885,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1148</field>
  </doc>
  <doc>
   <field name="id">item-09.197</field>
@@ -3768,6 +3912,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1149</field>
  </doc>
  <doc>
   <field name="id">item-09.198</field>
@@ -3794,6 +3939,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1150</field>
  </doc>
  <doc>
   <field name="id">item-09.199</field>
@@ -3820,6 +3966,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1151</field>
  </doc>
  <doc>
   <field name="id">item-09.200</field>
@@ -3846,6 +3993,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1152</field>
  </doc>
  <doc>
   <field name="id">item-09.201</field>
@@ -3872,6 +4020,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1153</field>
  </doc>
  <doc>
   <field name="id">item-09.202</field>
@@ -3898,6 +4047,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1154</field>
  </doc>
  <doc>
   <field name="id">item-09.203</field>
@@ -3924,6 +4074,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1155</field>
  </doc>
  <doc>
   <field name="id">item-09.204</field>
@@ -3950,6 +4101,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1156</field>
  </doc>
  <doc>
   <field name="id">item-09.205</field>
@@ -3976,6 +4128,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1157</field>
  </doc>
  <doc>
   <field name="id">item-09.206</field>
@@ -4002,6 +4155,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1158</field>
  </doc>
  <doc>
   <field name="id">item-09.207</field>
@@ -4028,6 +4182,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1159</field>
  </doc>
  <doc>
   <field name="id">item-09.208</field>
@@ -4054,6 +4209,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1160</field>
  </doc>
  <doc>
   <field name="id">item-09.209</field>
@@ -4080,6 +4236,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 37 1161</field>
  </doc>
  <doc>
   <field name="id">item-09.210</field>
@@ -4106,6 +4263,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 62 1181</field>
  </doc>
  <doc>
   <field name="id">item-09.211</field>
@@ -4132,6 +4290,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Oreshko and Alagöz forthcoming forthcoming</field>
  </doc>
  <doc>
   <field name="id">item-09.215</field>
@@ -4158,6 +4317,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">A list of gymnasiarchs dedicated to Hermes and Herakles.</field>
+  <field name="epigraphic_reference">I.Tyana Tyana 29</field>
  </doc>
  <doc>
   <field name="id">item-09.216</field>
@@ -4184,6 +4344,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">A list of gymnasiarchs dedicated to Hermes and Herakles.</field>
+  <field name="epigraphic_reference">I.Tyana Tyana 29</field>
  </doc>
  <doc>
   <field name="id">item-09.217</field>
@@ -4210,6 +4371,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">A list of gymnasiarchs dedicated to Hermes and Herakles.</field>
+  <field name="epigraphic_reference">I.Tyana Tyana 29</field>
  </doc>
  <doc>
   <field name="id">item-09.218</field>
@@ -4236,6 +4398,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Tyana Tyana 30</field>
  </doc>
  <doc>
   <field name="id">item-09.220</field>
@@ -4262,6 +4425,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Grégoire, CRAI (1908) 438-439</field>
  </doc>
  <doc>
   <field name="id">item-09.223</field>
@@ -4288,6 +4452,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Acquired the kleronomia of the estated of a deceased individual for the city.</field>
+  <field name="epigraphic_reference">Michel, Recueil 546</field>
  </doc>
  <doc>
   <field name="id">item-09.224</field>
@@ -4314,6 +4479,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Michel, Recueil 546</field>
  </doc>
  <doc>
   <field name="id">item-09.225</field>
@@ -4340,6 +4506,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Michel, Recueil 546</field>
  </doc>
  <doc>
   <field name="id">item-09.227</field>
@@ -4366,6 +4533,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">OGIS 358</field>
  </doc>
  <doc>
   <field name="id">item-09.228</field>
@@ -4392,6 +4560,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">OGIS 364</field>
  </doc>
  <doc>
   <field name="id">item-09.229</field>
@@ -4418,6 +4587,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Honorand was a gymnasiarch.</field>
+  <field name="epigraphic_reference">OGIS 364</field>
  </doc>
  <doc>
   <field name="id">item-09.230</field>
@@ -4444,5 +4614,6 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Harper (1969) 101 n. 2, 04</field>
  </doc>
 </add>

@@ -74,7 +74,7 @@
  <header class="mb-5">
     <nav class="navbar navbar-expand-md fixed-top bg-body-tertiary mb-5">
        <div class="container-fluid">
-          <a class="navbar-brand" href="/">
+          <a class="navbar-brand" href="/inscriptions">
             <img id="imgLogo" src="/inscriptions/static/images/logo.png" class="img-fluid d-inline-block align-text-top me-2" width="36" height="30" />
             <div class="mt-2 float-end">CHANGE</div>
          </a>
@@ -91,7 +91,7 @@
                    <a class="nav-link" href="/inscriptions/results">Browse</a>
                 </li>
              </ul>
-             <form class="d-flex" role="search" {{ url_for('results') }} method="GET" id="qs_form">
+             <form class="d-flex" role="search" action="/inscriptions/results" method="GET" id="qs_form">
                 <input type="search" class="form-control me-2 txtSearch" id="txtKeywords" name="q" placeholder="Search in description/notes" />
                 <button class="btn btn-outline-success" type="submit">Search</button>
              </form>

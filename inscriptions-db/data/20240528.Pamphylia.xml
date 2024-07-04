@@ -24,6 +24,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Adak (2006) pp. 1-6</field>
  </doc>
  <doc>
   <field name="id">item-08.6</field>
@@ -50,6 +51,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 30 1515</field>
  </doc>
  <doc>
   <field name="id">item-08.7</field>
@@ -76,6 +78,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 45 1634</field>
  </doc>
  <doc>
   <field name="id">item-08.10</field>
@@ -102,6 +105,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 1</field>
  </doc>
  <doc>
   <field name="id">item-08.11</field>
@@ -128,6 +132,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 2</field>
  </doc>
  <doc>
   <field name="id">item-08.12</field>
@@ -154,6 +159,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 3</field>
  </doc>
  <doc>
   <field name="id">item-08.13</field>
@@ -180,6 +186,7 @@
   <field name="nature"></field>
   <field name="denomination">APARCHE</field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 4</field>
  </doc>
  <doc>
   <field name="id">item-08.14</field>
@@ -206,6 +213,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 5</field>
  </doc>
  <doc>
   <field name="id">item-08.15</field>
@@ -232,6 +240,7 @@
   <field name="nature"></field>
   <field name="denomination">CHRUSOS, HEMICHRUSOS, OBOL, HEMIOBOL</field>
   <field name="notes">Weights of objects indicated in chrusoi and obol denominations.</field>
+  <field name="epigraphic_reference">I.Perge 10</field>
  </doc>
  <doc>
   <field name="id">item-08.16</field>
@@ -258,6 +267,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 11</field>
  </doc>
  <doc>
   <field name="id">item-08.17</field>
@@ -284,6 +294,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 11</field>
  </doc>
  <doc>
   <field name="id">item-08.18</field>
@@ -310,6 +321,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Record that Asklepiades had previously been paid 1,000 drachmas as a salary.</field>
+  <field name="epigraphic_reference">I.Perge 12</field>
  </doc>
  <doc>
   <field name="id">item-08.19</field>
@@ -336,6 +348,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 12</field>
  </doc>
  <doc>
   <field name="id">item-08.20</field>
@@ -362,6 +375,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 12</field>
  </doc>
  <doc>
   <field name="id">item-08.21</field>
@@ -388,6 +402,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 13</field>
  </doc>
  <doc>
   <field name="id">item-08.22</field>
@@ -414,6 +429,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Stasias' role as general.</field>
+  <field name="epigraphic_reference">I.Perge 14</field>
  </doc>
  <doc>
   <field name="id">item-08.23</field>
@@ -440,6 +456,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 14</field>
  </doc>
  <doc>
   <field name="id">item-08.24</field>
@@ -466,6 +483,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 14</field>
  </doc>
  <doc>
   <field name="id">item-08.25</field>
@@ -492,6 +510,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Stasias' role as gymnasiarch, including his oversight of youth training and care for visiting teachers.</field>
+  <field name="epigraphic_reference">I.Perge 14</field>
  </doc>
  <doc>
   <field name="id">item-08.26</field>
@@ -518,6 +537,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Stasias' role as gymnasiarch, including his oversight of youth training and care for visiting teachers.</field>
+  <field name="epigraphic_reference">I.Perge 14</field>
  </doc>
  <doc>
   <field name="id">item-08.27</field>
@@ -544,6 +564,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 17</field>
  </doc>
  <doc>
   <field name="id">item-08.28</field>
@@ -570,6 +591,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Perge 18</field>
  </doc>
  <doc>
   <field name="id">item-08.29</field>
@@ -596,6 +618,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 45 1775</field>
  </doc>
  <doc>
   <field name="id">item-08.30</field>
@@ -622,6 +645,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The dedication was made out of an epistasis, whose meaning is unclear.</field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu (2000)  2 n. 258</field>
  </doc>
  <doc>
   <field name="id">item-08.34</field>
@@ -648,6 +672,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 3</field>
  </doc>
  <doc>
   <field name="id">item-08.35</field>
@@ -674,6 +699,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 3</field>
  </doc>
  <doc>
   <field name="id">item-08.36</field>
@@ -700,6 +726,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 4</field>
  </doc>
  <doc>
   <field name="id">item-08.37</field>
@@ -726,6 +753,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 5</field>
  </doc>
  <doc>
   <field name="id">item-08.38</field>
@@ -752,6 +780,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 6</field>
  </doc>
  <doc>
   <field name="id">item-08.40</field>
@@ -778,6 +807,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Aid provided to the city by the honorands, probably of a military nature.</field>
+  <field name="epigraphic_reference">SEG 17 639</field>
  </doc>
  <doc>
   <field name="id">item-08.41</field>
@@ -804,6 +834,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 17 639</field>
  </doc>
  <doc>
   <field name="id">item-08.42</field>
@@ -830,6 +861,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">ARGURION</field>
   <field name="notes">The honorands allowed to purchase citizenship for an unspecified sum of money.</field>
+  <field name="epigraphic_reference">SEG 17 639</field>
  </doc>
  <doc>
   <field name="id">item-08.43</field>
@@ -856,6 +888,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The dedicator was damiourgos.</field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 17</field>
  </doc>
  <doc>
   <field name="id">item-08.44</field>
@@ -882,6 +915,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">MINA</field>
   <field name="notes">Donated 20 silver minas.</field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 17</field>
  </doc>
  <doc>
   <field name="id">item-08.45</field>
@@ -908,6 +942,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The dedicator was damiourgos.</field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 18</field>
  </doc>
  <doc>
   <field name="id">item-08.46</field>
@@ -934,6 +969,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">MINA</field>
   <field name="notes">Donated 20 silver minas.</field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 18</field>
  </doc>
  <doc>
   <field name="id">item-08.47</field>
@@ -960,6 +996,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 19</field>
  </doc>
  <doc>
   <field name="id">item-08.48</field>
@@ -986,6 +1023,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 19</field>
  </doc>
  <doc>
   <field name="id">item-08.49</field>
@@ -1012,6 +1050,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 20</field>
  </doc>
  <doc>
   <field name="id">item-08.50</field>
@@ -1038,6 +1077,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 21</field>
  </doc>
  <doc>
   <field name="id">item-08.51</field>
@@ -1064,6 +1104,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 22</field>
  </doc>
  <doc>
   <field name="id">item-08.52</field>
@@ -1090,6 +1131,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 23</field>
  </doc>
  <doc>
   <field name="id">item-08.53</field>
@@ -1116,6 +1158,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 24</field>
  </doc>
  <doc>
   <field name="id">item-08.54</field>
@@ -1142,6 +1185,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 25</field>
  </doc>
  <doc>
   <field name="id">item-08.55</field>
@@ -1168,6 +1212,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 26</field>
  </doc>
  <doc>
   <field name="id">item-08.56</field>
@@ -1194,6 +1239,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 27</field>
  </doc>
  <doc>
   <field name="id">item-08.57</field>
@@ -1220,6 +1266,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 28</field>
  </doc>
  <doc>
   <field name="id">item-08.58</field>
@@ -1246,6 +1293,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 29</field>
  </doc>
  <doc>
   <field name="id">item-08.59</field>
@@ -1272,6 +1320,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 30</field>
  </doc>
  <doc>
   <field name="id">item-08.60</field>
@@ -1298,6 +1347,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 31</field>
  </doc>
  <doc>
   <field name="id">item-08.61</field>
@@ -1324,6 +1374,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 32</field>
  </doc>
  <doc>
   <field name="id">item-08.62</field>
@@ -1350,6 +1401,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 33</field>
  </doc>
  <doc>
   <field name="id">item-08.63</field>
@@ -1376,6 +1428,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 34</field>
  </doc>
  <doc>
   <field name="id">item-08.64</field>
@@ -1402,6 +1455,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 35</field>
  </doc>
  <doc>
   <field name="id">item-08.65</field>
@@ -1428,6 +1482,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 36</field>
  </doc>
  <doc>
   <field name="id">item-08.66</field>
@@ -1454,6 +1509,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 37</field>
  </doc>
  <doc>
   <field name="id">item-08.67</field>
@@ -1480,6 +1536,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 38</field>
  </doc>
  <doc>
   <field name="id">item-08.68</field>
@@ -1506,6 +1563,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 39</field>
  </doc>
  <doc>
   <field name="id">item-08.69</field>
@@ -1532,6 +1590,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 40</field>
  </doc>
  <doc>
   <field name="id">item-08.70</field>
@@ -1558,6 +1617,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 41</field>
  </doc>
  <doc>
   <field name="id">item-08.71</field>
@@ -1584,6 +1644,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 42</field>
  </doc>
  <doc>
   <field name="id">item-08.72</field>
@@ -1610,6 +1671,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 43</field>
  </doc>
  <doc>
   <field name="id">item-08.73</field>
@@ -1636,6 +1698,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 44</field>
  </doc>
  <doc>
   <field name="id">item-08.74</field>
@@ -1662,6 +1725,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 45</field>
  </doc>
  <doc>
   <field name="id">item-08.75</field>
@@ -1688,6 +1752,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 46</field>
  </doc>
  <doc>
   <field name="id">item-08.76</field>
@@ -1714,6 +1779,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 47</field>
  </doc>
  <doc>
   <field name="id">item-08.77</field>
@@ -1740,6 +1806,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 48</field>
  </doc>
  <doc>
   <field name="id">item-08.78</field>
@@ -1766,6 +1833,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 49</field>
  </doc>
  <doc>
   <field name="id">item-08.79</field>
@@ -1792,6 +1860,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 50</field>
  </doc>
  <doc>
   <field name="id">item-08.80</field>
@@ -1818,6 +1887,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 51</field>
  </doc>
  <doc>
   <field name="id">item-08.81</field>
@@ -1844,6 +1914,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 52</field>
  </doc>
  <doc>
   <field name="id">item-08.82</field>
@@ -1870,6 +1941,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 53</field>
  </doc>
  <doc>
   <field name="id">item-08.83</field>
@@ -1896,6 +1968,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 54</field>
  </doc>
  <doc>
   <field name="id">item-08.84</field>
@@ -1922,6 +1995,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 55</field>
  </doc>
  <doc>
   <field name="id">item-08.85</field>
@@ -1948,6 +2022,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 56</field>
  </doc>
  <doc>
   <field name="id">item-08.86</field>
@@ -1974,6 +2049,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 57</field>
  </doc>
  <doc>
   <field name="id">item-08.87</field>
@@ -2000,6 +2076,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 58</field>
  </doc>
  <doc>
   <field name="id">item-08.88</field>
@@ -2026,6 +2103,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 59</field>
  </doc>
  <doc>
   <field name="id">item-08.89</field>
@@ -2052,6 +2130,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 60</field>
  </doc>
  <doc>
   <field name="id">item-08.90</field>
@@ -2078,6 +2157,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 61</field>
  </doc>
  <doc>
   <field name="id">item-08.91</field>
@@ -2104,6 +2184,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 62</field>
  </doc>
  <doc>
   <field name="id">item-08.92</field>
@@ -2130,6 +2211,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 63</field>
  </doc>
  <doc>
   <field name="id">item-08.93</field>
@@ -2156,6 +2238,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 64</field>
  </doc>
  <doc>
   <field name="id">item-08.94</field>
@@ -2182,6 +2265,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 65</field>
  </doc>
  <doc>
   <field name="id">item-08.95</field>
@@ -2208,6 +2292,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 66</field>
  </doc>
  <doc>
   <field name="id">item-08.96</field>
@@ -2234,6 +2319,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 67</field>
  </doc>
  <doc>
   <field name="id">item-08.97</field>
@@ -2260,6 +2346,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 68</field>
  </doc>
  <doc>
   <field name="id">item-08.98</field>
@@ -2286,6 +2373,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 69</field>
  </doc>
  <doc>
   <field name="id">item-08.99</field>
@@ -2312,6 +2400,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 70</field>
  </doc>
  <doc>
   <field name="id">item-08.100</field>
@@ -2338,6 +2427,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 71</field>
  </doc>
  <doc>
   <field name="id">item-08.101</field>
@@ -2364,6 +2454,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 72</field>
  </doc>
  <doc>
   <field name="id">item-08.102</field>
@@ -2390,6 +2481,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 73</field>
  </doc>
  <doc>
   <field name="id">item-08.103</field>
@@ -2416,6 +2508,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 74</field>
  </doc>
  <doc>
   <field name="id">item-08.104</field>
@@ -2442,6 +2535,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 75</field>
  </doc>
  <doc>
   <field name="id">item-08.105</field>
@@ -2468,6 +2562,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 76</field>
  </doc>
  <doc>
   <field name="id">item-08.106</field>
@@ -2494,6 +2589,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 77</field>
  </doc>
  <doc>
   <field name="id">item-08.107</field>
@@ -2520,6 +2616,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 78</field>
  </doc>
  <doc>
   <field name="id">item-08.108</field>
@@ -2546,6 +2643,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 79</field>
  </doc>
  <doc>
   <field name="id">item-08.109</field>
@@ -2572,6 +2670,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 80</field>
  </doc>
  <doc>
   <field name="id">item-08.110</field>
@@ -2598,6 +2697,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 81</field>
  </doc>
  <doc>
   <field name="id">item-08.111</field>
@@ -2624,6 +2724,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 82</field>
  </doc>
  <doc>
   <field name="id">item-08.112</field>
@@ -2650,6 +2751,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 83</field>
  </doc>
  <doc>
   <field name="id">item-08.113</field>
@@ -2676,6 +2778,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 84</field>
  </doc>
  <doc>
   <field name="id">item-08.114</field>
@@ -2702,6 +2805,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 85</field>
  </doc>
  <doc>
   <field name="id">item-08.115</field>
@@ -2728,6 +2832,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 86</field>
  </doc>
  <doc>
   <field name="id">item-08.116</field>
@@ -2754,6 +2859,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 87</field>
  </doc>
  <doc>
   <field name="id">item-08.117</field>
@@ -2780,6 +2886,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 88</field>
  </doc>
  <doc>
   <field name="id">item-08.118</field>
@@ -2806,6 +2913,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 89</field>
  </doc>
  <doc>
   <field name="id">item-08.119</field>
@@ -2832,6 +2940,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 90</field>
  </doc>
  <doc>
   <field name="id">item-08.120</field>
@@ -2858,6 +2967,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 91</field>
  </doc>
  <doc>
   <field name="id">item-08.121</field>
@@ -2884,6 +2994,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 92</field>
  </doc>
  <doc>
   <field name="id">item-08.122</field>
@@ -2910,6 +3021,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 93</field>
  </doc>
  <doc>
   <field name="id">item-08.123</field>
@@ -2936,6 +3048,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 94</field>
  </doc>
  <doc>
   <field name="id">item-08.124</field>
@@ -2962,6 +3075,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 95</field>
  </doc>
  <doc>
   <field name="id">item-08.125</field>
@@ -2988,6 +3102,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 96</field>
  </doc>
  <doc>
   <field name="id">item-08.126</field>
@@ -3014,6 +3129,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 97</field>
  </doc>
  <doc>
   <field name="id">item-08.127</field>
@@ -3040,6 +3156,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 98</field>
  </doc>
  <doc>
   <field name="id">item-08.128</field>
@@ -3066,6 +3183,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 99</field>
  </doc>
  <doc>
   <field name="id">item-08.129</field>
@@ -3092,6 +3210,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 100</field>
  </doc>
  <doc>
   <field name="id">item-08.130</field>
@@ -3118,6 +3237,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 101</field>
  </doc>
  <doc>
   <field name="id">item-08.131</field>
@@ -3144,6 +3264,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 102</field>
  </doc>
  <doc>
   <field name="id">item-08.132</field>
@@ -3170,6 +3291,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 103</field>
  </doc>
  <doc>
   <field name="id">item-08.133</field>
@@ -3196,6 +3318,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 104</field>
  </doc>
  <doc>
   <field name="id">item-08.134</field>
@@ -3222,6 +3345,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 105</field>
  </doc>
  <doc>
   <field name="id">item-08.135</field>
@@ -3248,6 +3372,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 106</field>
  </doc>
  <doc>
   <field name="id">item-08.136</field>
@@ -3274,6 +3399,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 107</field>
  </doc>
  <doc>
   <field name="id">item-08.137</field>
@@ -3300,6 +3426,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 108</field>
  </doc>
  <doc>
   <field name="id">item-08.138</field>
@@ -3326,6 +3453,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 109</field>
  </doc>
  <doc>
   <field name="id">item-08.139</field>
@@ -3352,6 +3480,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 110</field>
  </doc>
  <doc>
   <field name="id">item-08.140</field>
@@ -3378,6 +3507,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 111</field>
  </doc>
  <doc>
   <field name="id">item-08.141</field>
@@ -3404,6 +3534,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 112</field>
  </doc>
  <doc>
   <field name="id">item-08.142</field>
@@ -3430,6 +3561,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 113</field>
  </doc>
  <doc>
   <field name="id">item-08.143</field>
@@ -3456,6 +3588,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 114</field>
  </doc>
  <doc>
   <field name="id">item-08.144</field>
@@ -3482,6 +3615,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 115</field>
  </doc>
  <doc>
   <field name="id">item-08.145</field>
@@ -3508,6 +3642,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 116</field>
  </doc>
  <doc>
   <field name="id">item-08.146</field>
@@ -3534,6 +3669,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 117</field>
  </doc>
  <doc>
   <field name="id">item-08.147</field>
@@ -3560,6 +3696,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 118</field>
  </doc>
  <doc>
   <field name="id">item-08.148</field>
@@ -3586,6 +3723,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 119</field>
  </doc>
  <doc>
   <field name="id">item-08.149</field>
@@ -3612,6 +3750,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 120</field>
  </doc>
  <doc>
   <field name="id">item-08.150</field>
@@ -3638,6 +3777,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 121</field>
  </doc>
  <doc>
   <field name="id">item-08.151</field>
@@ -3664,6 +3804,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 122</field>
  </doc>
  <doc>
   <field name="id">item-08.152</field>
@@ -3690,6 +3831,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 123</field>
  </doc>
  <doc>
   <field name="id">item-08.153</field>
@@ -3716,6 +3858,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 124</field>
  </doc>
  <doc>
   <field name="id">item-08.154</field>
@@ -3742,6 +3885,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 125</field>
  </doc>
  <doc>
   <field name="id">item-08.155</field>
@@ -3768,6 +3912,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 126</field>
  </doc>
  <doc>
   <field name="id">item-08.156</field>
@@ -3794,6 +3939,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 127</field>
  </doc>
  <doc>
   <field name="id">item-08.157</field>
@@ -3820,6 +3966,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 128</field>
  </doc>
  <doc>
   <field name="id">item-08.158</field>
@@ -3846,6 +3993,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 129</field>
  </doc>
  <doc>
   <field name="id">item-08.159</field>
@@ -3872,6 +4020,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 130</field>
  </doc>
  <doc>
   <field name="id">item-08.160</field>
@@ -3898,6 +4047,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 131</field>
  </doc>
  <doc>
   <field name="id">item-08.161</field>
@@ -3924,6 +4074,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 132</field>
  </doc>
  <doc>
   <field name="id">item-08.162</field>
@@ -3950,6 +4101,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 133</field>
  </doc>
  <doc>
   <field name="id">item-08.163</field>
@@ -3976,6 +4128,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 134</field>
  </doc>
  <doc>
   <field name="id">item-08.164</field>
@@ -4002,6 +4155,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 135</field>
  </doc>
  <doc>
   <field name="id">item-08.165</field>
@@ -4028,6 +4182,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 136</field>
  </doc>
  <doc>
   <field name="id">item-08.166</field>
@@ -4054,6 +4209,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 137</field>
  </doc>
  <doc>
   <field name="id">item-08.167</field>
@@ -4080,6 +4236,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 138</field>
  </doc>
  <doc>
   <field name="id">item-08.168</field>
@@ -4106,6 +4263,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 139</field>
  </doc>
  <doc>
   <field name="id">item-08.169</field>
@@ -4132,6 +4290,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 140</field>
  </doc>
  <doc>
   <field name="id">item-08.170</field>
@@ -4158,6 +4317,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 142</field>
  </doc>
  <doc>
   <field name="id">item-08.171</field>
@@ -4184,6 +4344,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 143</field>
  </doc>
  <doc>
   <field name="id">item-08.172</field>
@@ -4210,6 +4371,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 144</field>
  </doc>
  <doc>
   <field name="id">item-08.173</field>
@@ -4236,6 +4398,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 145</field>
  </doc>
  <doc>
   <field name="id">item-08.174</field>
@@ -4262,6 +4425,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 146</field>
  </doc>
  <doc>
   <field name="id">item-08.175</field>
@@ -4288,6 +4452,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 147</field>
  </doc>
  <doc>
   <field name="id">item-08.176</field>
@@ -4314,6 +4479,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 148</field>
  </doc>
  <doc>
   <field name="id">item-08.177</field>
@@ -4340,6 +4506,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 149</field>
  </doc>
  <doc>
   <field name="id">item-08.178</field>
@@ -4366,6 +4533,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 150</field>
  </doc>
  <doc>
   <field name="id">item-08.179</field>
@@ -4392,6 +4560,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 151</field>
  </doc>
  <doc>
   <field name="id">item-08.180</field>
@@ -4418,6 +4587,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 152</field>
  </doc>
  <doc>
   <field name="id">item-08.181</field>
@@ -4444,6 +4614,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 153</field>
  </doc>
  <doc>
   <field name="id">item-08.182</field>
@@ -4470,6 +4641,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 154</field>
  </doc>
  <doc>
   <field name="id">item-08.183</field>
@@ -4496,6 +4668,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 155</field>
  </doc>
  <doc>
   <field name="id">item-08.184</field>
@@ -4522,6 +4695,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 156</field>
  </doc>
  <doc>
   <field name="id">item-08.185</field>
@@ -4548,6 +4722,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 157</field>
  </doc>
  <doc>
   <field name="id">item-08.186</field>
@@ -4574,6 +4749,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 158</field>
  </doc>
  <doc>
   <field name="id">item-08.187</field>
@@ -4600,6 +4776,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 159</field>
  </doc>
  <doc>
   <field name="id">item-08.188</field>
@@ -4626,6 +4803,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 160</field>
  </doc>
  <doc>
   <field name="id">item-08.189</field>
@@ -4652,6 +4830,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 161</field>
  </doc>
  <doc>
   <field name="id">item-08.190</field>
@@ -4678,6 +4857,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 162</field>
  </doc>
  <doc>
   <field name="id">item-08.191</field>
@@ -4704,6 +4884,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 163</field>
  </doc>
  <doc>
   <field name="id">item-08.192</field>
@@ -4730,6 +4911,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 164</field>
  </doc>
  <doc>
   <field name="id">item-08.193</field>
@@ -4756,6 +4938,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 165</field>
  </doc>
  <doc>
   <field name="id">item-08.194</field>
@@ -4782,6 +4965,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 166</field>
  </doc>
  <doc>
   <field name="id">item-08.195</field>
@@ -4808,6 +4992,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 167</field>
  </doc>
  <doc>
   <field name="id">item-08.196</field>
@@ -4834,6 +5019,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 168</field>
  </doc>
  <doc>
   <field name="id">item-08.197</field>
@@ -4860,6 +5046,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 169</field>
  </doc>
  <doc>
   <field name="id">item-08.198</field>
@@ -4886,6 +5073,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Dialecte Pamphylie 178</field>
  </doc>
  <doc>
   <field name="id">item-08.199</field>
@@ -4912,6 +5100,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1394</field>
  </doc>
  <doc>
   <field name="id">item-08.200</field>
@@ -4938,6 +5127,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1395</field>
  </doc>
  <doc>
   <field name="id">item-08.201</field>
@@ -4964,6 +5154,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1396</field>
  </doc>
  <doc>
   <field name="id">item-08.202</field>
@@ -4990,6 +5181,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1397</field>
  </doc>
  <doc>
   <field name="id">item-08.203</field>
@@ -5016,6 +5208,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1398</field>
  </doc>
  <doc>
   <field name="id">item-08.204</field>
@@ -5042,6 +5235,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1399</field>
  </doc>
  <doc>
   <field name="id">item-08.205</field>
@@ -5068,6 +5262,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1400</field>
  </doc>
  <doc>
   <field name="id">item-08.206</field>
@@ -5094,6 +5289,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1401</field>
  </doc>
  <doc>
   <field name="id">item-08.207</field>
@@ -5120,6 +5316,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1402</field>
  </doc>
  <doc>
   <field name="id">item-08.208</field>
@@ -5146,6 +5343,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1403</field>
  </doc>
  <doc>
   <field name="id">item-08.209</field>
@@ -5172,6 +5370,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1404</field>
  </doc>
  <doc>
   <field name="id">item-08.210</field>
@@ -5198,6 +5397,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1405</field>
  </doc>
  <doc>
   <field name="id">item-08.211</field>
@@ -5224,6 +5424,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1406</field>
  </doc>
  <doc>
   <field name="id">item-08.212</field>
@@ -5250,6 +5451,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 26 1407</field>
  </doc>
  <doc>
   <field name="id">item-08.213</field>
@@ -5276,6 +5478,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1331</field>
  </doc>
  <doc>
   <field name="id">item-08.214</field>
@@ -5302,6 +5505,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1340</field>
  </doc>
  <doc>
   <field name="id">item-08.215</field>
@@ -5328,6 +5532,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1341</field>
  </doc>
  <doc>
   <field name="id">item-08.216</field>
@@ -5354,6 +5559,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1343</field>
  </doc>
  <doc>
   <field name="id">item-08.217</field>
@@ -5380,6 +5586,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1364</field>
  </doc>
  <doc>
   <field name="id">item-08.218</field>
@@ -5406,6 +5613,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1365</field>
  </doc>
  <doc>
   <field name="id">item-08.219</field>
@@ -5432,6 +5640,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1366</field>
  </doc>
  <doc>
   <field name="id">item-08.220</field>
@@ -5458,6 +5667,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1367</field>
  </doc>
  <doc>
   <field name="id">item-08.221</field>
@@ -5484,6 +5694,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1368</field>
  </doc>
  <doc>
   <field name="id">item-08.222</field>
@@ -5510,6 +5721,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1369A</field>
  </doc>
  <doc>
   <field name="id">item-08.223</field>
@@ -5536,6 +5748,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1370</field>
  </doc>
  <doc>
   <field name="id">item-08.224</field>
@@ -5562,6 +5775,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1371</field>
  </doc>
  <doc>
   <field name="id">item-08.225</field>
@@ -5588,6 +5802,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1372</field>
  </doc>
  <doc>
   <field name="id">item-08.226</field>
@@ -5614,6 +5829,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1373</field>
  </doc>
  <doc>
   <field name="id">item-08.227</field>
@@ -5640,6 +5856,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1374</field>
  </doc>
  <doc>
   <field name="id">item-08.228</field>
@@ -5666,6 +5883,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1375A</field>
  </doc>
  <doc>
   <field name="id">item-08.229</field>
@@ -5692,6 +5910,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1376</field>
  </doc>
  <doc>
   <field name="id">item-08.230</field>
@@ -5718,6 +5937,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1377</field>
  </doc>
  <doc>
   <field name="id">item-08.231</field>
@@ -5744,6 +5964,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1378</field>
  </doc>
  <doc>
   <field name="id">item-08.232</field>
@@ -5770,6 +5991,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1379</field>
  </doc>
  <doc>
   <field name="id">item-08.233</field>
@@ -5796,6 +6018,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1380</field>
  </doc>
  <doc>
   <field name="id">item-08.234</field>
@@ -5822,6 +6045,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1381</field>
  </doc>
  <doc>
   <field name="id">item-08.235</field>
@@ -5848,6 +6072,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1382</field>
  </doc>
  <doc>
   <field name="id">item-08.236</field>
@@ -5874,6 +6099,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1383</field>
  </doc>
  <doc>
   <field name="id">item-08.237</field>
@@ -5900,6 +6126,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1384</field>
  </doc>
  <doc>
   <field name="id">item-08.238</field>
@@ -5926,6 +6153,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1385</field>
  </doc>
  <doc>
   <field name="id">item-08.239</field>
@@ -5952,6 +6180,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1386A</field>
  </doc>
  <doc>
   <field name="id">item-08.240</field>
@@ -5978,6 +6207,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1387</field>
  </doc>
  <doc>
   <field name="id">item-08.241</field>
@@ -6004,6 +6234,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1388</field>
  </doc>
  <doc>
   <field name="id">item-08.242</field>
@@ -6030,6 +6261,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1389</field>
  </doc>
  <doc>
   <field name="id">item-08.243</field>
@@ -6056,6 +6288,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1390</field>
  </doc>
  <doc>
   <field name="id">item-08.244</field>
@@ -6082,6 +6315,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1391</field>
  </doc>
  <doc>
   <field name="id">item-08.245</field>
@@ -6108,6 +6342,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1392</field>
  </doc>
  <doc>
   <field name="id">item-08.246</field>
@@ -6134,6 +6369,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1393</field>
  </doc>
  <doc>
   <field name="id">item-08.247</field>
@@ -6160,6 +6396,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1394</field>
  </doc>
  <doc>
   <field name="id">item-08.248</field>
@@ -6186,6 +6423,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1304</field>
  </doc>
  <doc>
   <field name="id">item-08.249</field>
@@ -6212,6 +6450,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1305</field>
  </doc>
  <doc>
   <field name="id">item-08.250</field>
@@ -6238,6 +6477,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1306</field>
  </doc>
  <doc>
   <field name="id">item-08.251</field>
@@ -6264,6 +6504,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1307</field>
  </doc>
  <doc>
   <field name="id">item-08.252</field>
@@ -6290,6 +6531,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1308</field>
  </doc>
  <doc>
   <field name="id">item-08.253</field>
@@ -6316,6 +6558,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1309</field>
  </doc>
  <doc>
   <field name="id">item-08.254</field>
@@ -6342,6 +6585,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1311</field>
  </doc>
  <doc>
   <field name="id">item-08.255</field>
@@ -6368,6 +6612,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1312</field>
  </doc>
  <doc>
   <field name="id">item-08.256</field>
@@ -6394,6 +6639,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1313</field>
  </doc>
  <doc>
   <field name="id">item-08.257</field>
@@ -6420,6 +6666,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1314</field>
  </doc>
  <doc>
   <field name="id">item-08.258</field>
@@ -6446,6 +6693,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1315</field>
  </doc>
  <doc>
   <field name="id">item-08.259</field>
@@ -6472,6 +6720,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1316</field>
  </doc>
  <doc>
   <field name="id">item-08.260</field>
@@ -6498,6 +6747,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1317</field>
  </doc>
  <doc>
   <field name="id">item-08.261</field>
@@ -6524,6 +6774,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1318</field>
  </doc>
  <doc>
   <field name="id">item-08.262</field>
@@ -6550,6 +6801,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1319</field>
  </doc>
  <doc>
   <field name="id">item-08.263</field>
@@ -6576,6 +6828,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1320</field>
  </doc>
  <doc>
   <field name="id">item-08.264</field>
@@ -6602,6 +6855,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1321</field>
  </doc>
  <doc>
   <field name="id">item-08.265</field>
@@ -6628,6 +6882,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1684</field>
  </doc>
  <doc>
   <field name="id">item-08.266</field>
@@ -6654,6 +6909,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1685</field>
  </doc>
  <doc>
   <field name="id">item-08.267</field>
@@ -6680,6 +6936,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1686</field>
  </doc>
  <doc>
   <field name="id">item-08.268</field>
@@ -6706,6 +6963,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1687</field>
  </doc>
  <doc>
   <field name="id">item-08.269</field>
@@ -6732,6 +6990,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1688</field>
  </doc>
  <doc>
   <field name="id">item-08.270</field>
@@ -6758,6 +7017,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1689</field>
  </doc>
  <doc>
   <field name="id">item-08.271</field>
@@ -6784,6 +7044,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1690</field>
  </doc>
  <doc>
   <field name="id">item-08.272</field>
@@ -6810,6 +7071,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1691</field>
  </doc>
  <doc>
   <field name="id">item-08.273</field>
@@ -6836,6 +7098,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1692</field>
  </doc>
  <doc>
   <field name="id">item-08.274</field>
@@ -6862,6 +7125,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1693</field>
  </doc>
  <doc>
   <field name="id">item-08.275</field>
@@ -6888,6 +7152,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1694</field>
  </doc>
  <doc>
   <field name="id">item-08.276</field>
@@ -6914,6 +7179,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1695</field>
  </doc>
  <doc>
   <field name="id">item-08.277</field>
@@ -6940,6 +7206,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1696</field>
  </doc>
  <doc>
   <field name="id">item-08.278</field>
@@ -6966,6 +7233,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1697</field>
  </doc>
  <doc>
   <field name="id">item-08.279</field>
@@ -6992,6 +7260,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 46 1698</field>
  </doc>
  <doc>
   <field name="id">item-08.280</field>
@@ -7018,6 +7287,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 1 n. 62</field>
  </doc>
  <doc>
   <field name="id">item-08.281</field>
@@ -7044,6 +7314,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 4 n. 259</field>
  </doc>
  <doc>
   <field name="id">item-08.282</field>
@@ -7070,6 +7341,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 6 n. 260</field>
  </doc>
  <doc>
   <field name="id">item-08.283</field>
@@ -7096,6 +7368,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 8 n. 261</field>
  </doc>
  <doc>
   <field name="id">item-08.284</field>
@@ -7122,6 +7395,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 9 n. 262</field>
  </doc>
  <doc>
   <field name="id">item-08.285</field>
@@ -7148,6 +7422,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 10 n. 263</field>
  </doc>
  <doc>
   <field name="id">item-08.286</field>
@@ -7174,6 +7449,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 10 n. 264</field>
  </doc>
  <doc>
   <field name="id">item-08.287</field>
@@ -7200,6 +7476,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 12 n. 265</field>
  </doc>
  <doc>
   <field name="id">item-08.288</field>
@@ -7226,6 +7503,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 13 n. 266</field>
  </doc>
  <doc>
   <field name="id">item-08.289</field>
@@ -7252,6 +7530,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 13 n. 267</field>
  </doc>
  <doc>
   <field name="id">item-08.290</field>
@@ -7278,6 +7557,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 14 n. 268</field>
  </doc>
  <doc>
   <field name="id">item-08.291</field>
@@ -7304,6 +7584,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 15 n. 269</field>
  </doc>
  <doc>
   <field name="id">item-08.292</field>
@@ -7330,6 +7611,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 15 n. 270</field>
  </doc>
  <doc>
   <field name="id">item-08.293</field>
@@ -7356,6 +7638,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 16 n. 271</field>
  </doc>
  <doc>
   <field name="id">item-08.294</field>
@@ -7382,6 +7665,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 17 n. 272</field>
  </doc>
  <doc>
   <field name="id">item-08.295</field>
@@ -7408,6 +7692,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 18 n. 273</field>
  </doc>
  <doc>
   <field name="id">item-08.296</field>
@@ -7434,6 +7719,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 19 n. 274</field>
  </doc>
  <doc>
   <field name="id">item-08.297</field>
@@ -7460,6 +7746,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 20 n. 275</field>
  </doc>
  <doc>
   <field name="id">item-08.298</field>
@@ -7486,6 +7773,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 20 n. 275</field>
  </doc>
  <doc>
   <field name="id">item-08.299</field>
@@ -7512,6 +7800,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">A document likely concerning lease of land, with reference to land, revenue, buildings, guarantors. </field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 25 n. 276</field>
  </doc>
  <doc>
   <field name="id">item-08.300</field>
@@ -7538,6 +7827,7 @@
   <field name="nature"></field>
   <field name="denomination">MINA</field>
   <field name="notes">Likely reference to a fine payable to the city in minas.</field>
+  <field name="epigraphic_reference">Brixhe and Tekoğlu, Kadmos 39 (2000) 25 n. 276</field>
  </doc>
  <doc>
   <field name="id">item-08.301</field>
@@ -7564,6 +7854,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 39 n. 277</field>
  </doc>
  <doc>
   <field name="id">item-08.302</field>
@@ -7590,6 +7881,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 40 n. 278</field>
  </doc>
  <doc>
   <field name="id">item-08.303</field>
@@ -7616,6 +7908,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 41 n. 279</field>
  </doc>
  <doc>
   <field name="id">item-08.304</field>
@@ -7642,6 +7935,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 42 n. 280</field>
  </doc>
  <doc>
   <field name="id">item-08.305</field>
@@ -7668,6 +7962,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 43 n. 281</field>
  </doc>
  <doc>
   <field name="id">item-08.306</field>
@@ -7694,6 +7989,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 43 n. 282</field>
  </doc>
  <doc>
   <field name="id">item-08.307</field>
@@ -7720,6 +8016,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 45 n. 283</field>
  </doc>
  <doc>
   <field name="id">item-08.308</field>
@@ -7746,6 +8043,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 45 n. 284</field>
  </doc>
  <doc>
   <field name="id">item-08.309</field>
@@ -7772,6 +8070,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 46 n. 285</field>
  </doc>
  <doc>
   <field name="id">item-08.310</field>
@@ -7798,6 +8097,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 46 n. 286</field>
  </doc>
  <doc>
   <field name="id">item-08.311</field>
@@ -7824,6 +8124,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 46 n. 287</field>
  </doc>
  <doc>
   <field name="id">item-08.312</field>
@@ -7850,6 +8151,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 48 n. 288</field>
  </doc>
  <doc>
   <field name="id">item-08.313</field>
@@ -7876,6 +8178,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 49 n. 289</field>
  </doc>
  <doc>
   <field name="id">item-08.314</field>
@@ -7902,6 +8205,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 50 n. 290</field>
  </doc>
  <doc>
   <field name="id">item-08.315</field>
@@ -7928,6 +8232,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Brixhe, Tekoğlu and Vottéro, Kadmos 46 (2008) 50 n. 291</field>
  </doc>
  <doc>
   <field name="id">item-08.316</field>
@@ -7954,6 +8259,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 186 n. 292</field>
  </doc>
  <doc>
   <field name="id">item-08.317</field>
@@ -7980,6 +8286,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 187 n. 293</field>
  </doc>
  <doc>
   <field name="id">item-08.318</field>
@@ -8006,6 +8313,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 188 n. 294</field>
  </doc>
  <doc>
   <field name="id">item-08.319</field>
@@ -8032,6 +8340,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 189 n. 295</field>
  </doc>
  <doc>
   <field name="id">item-08.320</field>
@@ -8058,6 +8367,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 190 n. 296</field>
  </doc>
  <doc>
   <field name="id">item-08.321</field>
@@ -8084,6 +8394,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 192 n. 297</field>
  </doc>
  <doc>
   <field name="id">item-08.322</field>
@@ -8110,6 +8421,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 193 n. 298</field>
  </doc>
  <doc>
   <field name="id">item-08.323</field>
@@ -8136,6 +8448,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Tekoğlu and Köse, Kadmos 61 (2022) 195 n. 299</field>
  </doc>
  <doc>
   <field name="id">item-08.324</field>
@@ -8162,6 +8475,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 47 1778</field>
  </doc>
  <doc>
   <field name="id">item-08.325</field>
@@ -8188,6 +8502,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 47 1779</field>
  </doc>
  <doc>
   <field name="id">item-08.326</field>
@@ -8214,6 +8529,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 47 1780</field>
  </doc>
  <doc>
   <field name="id">item-08.331</field>
@@ -8240,6 +8556,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 1</field>
  </doc>
  <doc>
   <field name="id">item-08.332</field>
@@ -8266,6 +8583,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 1</field>
  </doc>
  <doc>
   <field name="id">item-08.333</field>
@@ -8292,6 +8610,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 3</field>
  </doc>
  <doc>
   <field name="id">item-08.334</field>
@@ -8318,6 +8637,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 19</field>
  </doc>
  <doc>
   <field name="id">item-08.335</field>
@@ -8344,6 +8664,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of god-like honour.</field>
+  <field name="epigraphic_reference">I.Side 54</field>
  </doc>
  <doc>
   <field name="id">item-08.336</field>
@@ -8370,6 +8691,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 54</field>
  </doc>
  <doc>
   <field name="id">item-08.337</field>
@@ -8396,6 +8718,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 90</field>
  </doc>
  <doc>
   <field name="id">item-08.338</field>
@@ -8422,6 +8745,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 370</field>
  </doc>
  <doc>
   <field name="id">item-08.339</field>
@@ -8448,6 +8772,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 371</field>
  </doc>
  <doc>
   <field name="id">item-08.340</field>
@@ -8474,6 +8799,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side 372</field>
  </doc>
  <doc>
   <field name="id">item-08.341</field>
@@ -8500,6 +8826,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side S3</field>
  </doc>
  <doc>
   <field name="id">item-08.342</field>
@@ -8526,6 +8853,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side S4</field>
  </doc>
  <doc>
   <field name="id">item-08.343</field>
@@ -8552,6 +8880,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side S5</field>
  </doc>
  <doc>
   <field name="id">item-08.344</field>
@@ -8578,6 +8907,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side S6</field>
  </doc>
  <doc>
   <field name="id">item-08.345</field>
@@ -8604,6 +8934,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side S7</field>
  </doc>
  <doc>
   <field name="id">item-08.346</field>
@@ -8630,6 +8961,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side S8</field>
  </doc>
  <doc>
   <field name="id">item-08.347</field>
@@ -8656,6 +8988,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side S9</field>
  </doc>
  <doc>
   <field name="id">item-08.348</field>
@@ -8682,6 +9015,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1426</field>
  </doc>
  <doc>
   <field name="id">item-08.349</field>
@@ -8708,6 +9042,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1427</field>
  </doc>
  <doc>
   <field name="id">item-08.350</field>
@@ -8734,6 +9069,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1446</field>
  </doc>
  <doc>
   <field name="id">item-08.351</field>
@@ -8760,6 +9096,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1447</field>
  </doc>
  <doc>
   <field name="id">item-08.352</field>
@@ -8786,6 +9123,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1448</field>
  </doc>
  <doc>
   <field name="id">item-08.353</field>
@@ -8812,6 +9150,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1449</field>
  </doc>
  <doc>
   <field name="id">item-08.354</field>
@@ -8838,6 +9177,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1450</field>
  </doc>
  <doc>
   <field name="id">item-08.355</field>
@@ -8864,6 +9204,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1451</field>
  </doc>
  <doc>
   <field name="id">item-08.356</field>
@@ -8890,6 +9231,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 1734</field>
  </doc>
  <doc>
   <field name="id">item-08.357</field>
@@ -8916,6 +9258,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 1735</field>
  </doc>
  <doc>
   <field name="id">item-08.358</field>
@@ -8942,6 +9285,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 1736</field>
  </doc>
  <doc>
   <field name="id">item-08.361</field>
@@ -8968,6 +9312,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Side Side</field>
  </doc>
  <doc>
   <field name="id">item-08.365</field>
@@ -8994,6 +9339,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 55 1440</field>
  </doc>
  <doc>
   <field name="id">item-08.366</field>
@@ -9020,6 +9366,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 55 1440</field>
  </doc>
  <doc>
   <field name="id">item-08.368</field>
@@ -9046,6 +9393,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Made distributions to those who had been exiled.</field>
+  <field name="epigraphic_reference">SEG 44 1108</field>
  </doc>
  <doc>
   <field name="id">item-08.369</field>
@@ -9072,6 +9420,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of expense towards an unknown form of honour, could be the publication of the decree or an honorific statue.</field>
+  <field name="epigraphic_reference">SEG 44 1108</field>
  </doc>
  <doc>
   <field name="id">item-08.370</field>
@@ -9098,6 +9447,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 1108</field>
  </doc>
  <doc>
   <field name="id">item-08.371</field>
@@ -9124,6 +9474,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">References to royal places, basilikoi topoi.</field>
+  <field name="epigraphic_reference">SEG 48 1532</field>
  </doc>
  <doc>
   <field name="id">item-08.372</field>
@@ -9150,6 +9501,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1528</field>
  </doc>
  <doc>
   <field name="id">item-08.374</field>
@@ -9176,6 +9528,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 61 1205</field>
  </doc>
  <doc>
   <field name="id">item-08.378</field>
@@ -9202,6 +9555,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 19 834</field>
  </doc>
  <doc>
   <field name="id">item-08.379</field>
@@ -9228,6 +9582,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Served in the Poglan army.</field>
+  <field name="epigraphic_reference">SEG 19 834</field>
  </doc>
  <doc>
   <field name="id">item-08.382</field>
@@ -9254,6 +9609,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.383</field>
@@ -9280,6 +9636,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Mention of unspecified gifts to the lord Artemis.</field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.384</field>
@@ -9306,6 +9663,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.385</field>
@@ -9332,6 +9690,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 2</field>
  </doc>
  <doc>
   <field name="id">item-08.386</field>
@@ -9358,6 +9717,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 2</field>
  </doc>
  <doc>
   <field name="id">item-08.387</field>
@@ -9384,6 +9744,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Stipulation that the party who sends military aid to the other is to supply a month's worth military pay.</field>
+  <field name="epigraphic_reference">TAM III.1 2</field>
  </doc>
  <doc>
   <field name="id">item-08.388</field>
@@ -9410,6 +9771,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.389</field>
@@ -9436,6 +9798,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.390</field>
@@ -9462,6 +9825,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.391</field>
@@ -9488,6 +9852,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Dedicator was a priest.</field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.392</field>
@@ -9514,6 +9879,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">TAM III.1 1</field>
  </doc>
  <doc>
   <field name="id">item-08.393</field>
@@ -9540,6 +9906,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1266</field>
  </doc>
  <doc>
   <field name="id">item-08.394</field>
@@ -9566,6 +9933,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 41 1267</field>
  </doc>
  <doc>
   <field name="id">item-08.395</field>
@@ -9592,6 +9960,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 47 1772</field>
  </doc>
  <doc>
   <field name="id">item-08.396</field>
@@ -9618,6 +9987,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 47 1772</field>
  </doc>
  <doc>
   <field name="id">item-08.397</field>
@@ -9644,6 +10014,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 47 1773</field>
  </doc>
  <doc>
   <field name="id">item-08.398</field>
@@ -9670,6 +10041,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1433</field>
  </doc>
  <doc>
   <field name="id">item-08.399</field>
@@ -9696,6 +10068,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 57 1472</field>
  </doc>
  <doc>
   <field name="id">item-08.400</field>
@@ -9722,6 +10095,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 58 1568</field>
  </doc>
  <doc>
   <field name="id">item-08.401</field>
@@ -9748,6 +10122,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 63 1270</field>
  </doc>
  <doc>
   <field name="id">item-08.402</field>
@@ -9774,6 +10149,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 66 1686</field>
  </doc>
  <doc>
   <field name="id">item-08.409</field>
@@ -9800,6 +10176,7 @@
   <field name="nature">SILVER</field>
   <field name="denomination">MINA</field>
   <field name="notes">Penalty of 10 silver minas for those who seize the acropolis.</field>
+  <field name="epigraphic_reference">I.Sagalassos 1</field>
  </doc>
  <doc>
   <field name="id">item-08.410</field>
@@ -9826,6 +10203,7 @@
   <field name="nature"></field>
   <field name="denomination">MINA</field>
   <field name="notes">Penalty of 3 minas for theft, now upgraded to death penalty.</field>
+  <field name="epigraphic_reference">I.Sagalassos 1</field>
  </doc>
  <doc>
   <field name="id">item-08.411</field>
@@ -9852,6 +10230,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sagalassos 2</field>
  </doc>
  <doc>
   <field name="id">item-08.412</field>
@@ -9878,6 +10257,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Sagalassos 2</field>
  </doc>
  <doc>
   <field name="id">item-08.416</field>
@@ -9904,6 +10284,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Trokondas sent military aid on the city's behalf to king Amyntas.</field>
+  <field name="epigraphic_reference">SEG 44 1113</field>
  </doc>
  <doc>
   <field name="id">item-08.417</field>
@@ -9930,6 +10311,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 1113</field>
  </doc>
  <doc>
   <field name="id">item-08.418</field>
@@ -9956,6 +10338,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 44 1113</field>
  </doc>
  <doc>
   <field name="id">item-08.424</field>
@@ -9982,6 +10365,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Sterrett (1888) 372 n. 529</field>
  </doc>
  <doc>
   <field name="id">item-08.425</field>
@@ -10008,6 +10392,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The deceased donated money towards the repair of his tomb and a feast for the Thrakians in the city.</field>
+  <field name="epigraphic_reference">Sterrett (1888) 372 n. 529</field>
  </doc>
  <doc>
   <field name="id">item-08.426</field>
@@ -10034,6 +10419,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The deceased donated money towards the repair of his tomb and a feast for the Thrakians in the city.</field>
+  <field name="epigraphic_reference">Sterrett (1888) 372 n. 529</field>
  </doc>
  <doc>
   <field name="id">item-08.427</field>
@@ -10060,6 +10446,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand, perhaps a local notable or Roman governor, had reversed the earlier ordinance of a king, probably Amyntas of Galatia, by returning to Apollonia three territorial districts that had been assigned by this king to neighbouring Tymbriada.</field>
+  <field name="epigraphic_reference">Bru (2017) 90</field>
  </doc>
  <doc>
   <field name="id">item-08.428</field>
@@ -10086,6 +10473,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The honorand, perhaps a local notable or Roman governor, had reversed the earlier ordinance of a king, probably Amyntas of Galatia, by returning to Apollonia three territorial districts that had been assigned by this king to neighbouring Tymbriada.</field>
+  <field name="epigraphic_reference">Bru (2017) 90</field>
  </doc>
  <doc>
   <field name="id">item-08.429</field>
@@ -10112,6 +10500,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA XI 1</field>
  </doc>
  <doc>
   <field name="id">item-08.430</field>
@@ -10138,6 +10527,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA XI 1</field>
  </doc>
  <doc>
   <field name="id">item-08.431</field>
@@ -10164,6 +10554,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA XI 2</field>
  </doc>
  <doc>
   <field name="id">item-08.432</field>
@@ -10190,6 +10581,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA XI 10</field>
  </doc>
  <doc>
   <field name="id">item-08.433</field>
@@ -10216,6 +10608,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">MAMA XI 71</field>
  </doc>
  <doc>
   <field name="id">item-08.434</field>
@@ -10242,6 +10635,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 62 1145</field>
  </doc>
  <doc>
   <field name="id">item-08.438</field>
@@ -10268,6 +10662,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 52 1398</field>
  </doc>
  <doc>
   <field name="id">item-08.439</field>
@@ -10294,6 +10689,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1387</field>
  </doc>
  <doc>
   <field name="id">item-08.440</field>
@@ -10320,6 +10716,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Sterrett (1888) 336 n. 469</field>
  </doc>
  <doc>
   <field name="id">item-08.443</field>
@@ -10346,6 +10743,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 55 1443</field>
  </doc>
  <doc>
   <field name="id">item-08.444</field>
@@ -10372,6 +10770,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 55 1444</field>
  </doc>
  <doc>
   <field name="id">item-08.445</field>
@@ -10398,6 +10797,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 55 1445</field>
  </doc>
  <doc>
   <field name="id">item-08.448</field>
@@ -10424,6 +10824,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 48 1551</field>
  </doc>
  <doc>
   <field name="id">item-08.453</field>
@@ -10450,6 +10851,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 74I</field>
  </doc>
  <doc>
   <field name="id">item-08.454</field>
@@ -10476,6 +10878,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 74II</field>
  </doc>
  <doc>
   <field name="id">item-08.455</field>
@@ -10502,6 +10905,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA, TALENT</field>
   <field name="notes">Amladians had asked to be relived of the 9,000 drachmas they owed to Eumenes as war reparations, and to lighten the annual 2 talent tax; Eumenes agrees to reduce the first by 3,000 drachmas, and the second by 9,000 drachmas.</field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 74II</field>
  </doc>
  <doc>
   <field name="id">item-08.456</field>
@@ -10528,6 +10932,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Eumenes released hostages, perhaps at a price.</field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 74II</field>
  </doc>
  <doc>
   <field name="id">item-08.457</field>
@@ -10554,6 +10959,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 75</field>
  </doc>
  <doc>
   <field name="id">item-08.458</field>
@@ -10580,6 +10986,7 @@
   <field name="nature"></field>
   <field name="denomination">DRACHMA</field>
   <field name="notes">Mention of some thousands and 500 drachmas towards statues.</field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 75</field>
  </doc>
  <doc>
   <field name="id">item-08.459</field>
@@ -10606,6 +11013,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 75</field>
  </doc>
  <doc>
   <field name="id">item-08.460</field>
@@ -10632,6 +11040,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Fragmentary lines probably relating to a temporary remission from tax.</field>
+  <field name="epigraphic_reference">Swoboda-Keil-Knoll, Denkmäler aus Lycaonien 75</field>
  </doc>
  <doc>
   <field name="id">item-08.462</field>
@@ -10658,6 +11067,7 @@
   <field name="nature"></field>
   <field name="denomination">SIGLOS</field>
   <field name="notes">Penalty of a siglos for a cursing person.</field>
+  <field name="epigraphic_reference">SEG 2 710</field>
  </doc>
  <doc>
   <field name="id">item-08.463</field>
@@ -10684,6 +11094,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Outline of the priestess' sacrificial duties  and obligations.</field>
+  <field name="epigraphic_reference">SEG 2 710</field>
  </doc>
  <doc>
   <field name="id">item-08.464</field>
@@ -10710,6 +11121,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Outline of the priestess' sacrificial duties and obligations.</field>
+  <field name="epigraphic_reference">SEG 2 710</field>
  </doc>
  <doc>
   <field name="id">item-08.465</field>
@@ -10736,6 +11148,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">The city is to provide the priestess with some sort of wheat-meal during the festival.</field>
+  <field name="epigraphic_reference">SEG 2 710</field>
  </doc>
  <doc>
   <field name="id">item-08.466</field>
@@ -10762,6 +11175,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes">Priestess is not allowed to sell bread in the temple?</field>
+  <field name="epigraphic_reference">SEG 2 710</field>
  </doc>
  <doc>
   <field name="id">item-08.467</field>
@@ -10788,6 +11202,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 53 1596</field>
  </doc>
  <doc>
   <field name="id">item-08.468</field>
@@ -10814,6 +11229,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 59 1532</field>
  </doc>
  <doc>
   <field name="id">item-08.469</field>
@@ -10840,6 +11256,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1369</field>
  </doc>
  <doc>
   <field name="id">item-08.470</field>
@@ -10866,6 +11283,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 65 1370</field>
  </doc>
  <doc>
   <field name="id">item-08.474</field>
@@ -10892,6 +11310,7 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">I.Selge 14</field>
  </doc>
  <doc>
   <field name="id">item-08.475</field>
@@ -10918,5 +11337,6 @@
   <field name="nature"></field>
   <field name="denomination"></field>
   <field name="notes"></field>
+  <field name="epigraphic_reference">SEG 38 1324</field>
  </doc>
 </add>
