@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+    <div class="col-md-12 mt-5">
+        {% if message %}
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Success!</strong> {{ message }}.
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 order-md-1 order-sm-2 order-2 mt-2">
+        <h1>Edit Record</h1>
+        <form action="/inscriptions/edit_record/{{record['id']}}" method="POST">
+            {% for field in solr_fields %}
+            <div class="mb-3">
+                <label for="{{ field }}" class="form-label">{{ field }}:</label>
+                <input type="text" class="form-control" id="{{ field }}" name="{{ field }}"
+                    value="{{ record[field] }}" />
+            </div>
+            {% endfor %}
+            <button type="submit" class="btn btn-primary mb-4">
+                <i class="fas fa-pen"></i>
+                Update
+            </button>
+        </form>
+    </div>
+</div>
+
+<script>
+    if (!localStorage.getItem('userInfo')) {
+        location.href = '/inscriptions/results'
+    }
+</script>
+{% endblock %}

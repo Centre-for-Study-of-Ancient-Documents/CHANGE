@@ -16,6 +16,10 @@
             data-bs-target="#mapModal">
             Map Results
           </a>
+
+          <a id="btnDownloadCSV" type="button" title="Download CSV" onclick="downloadCSV()" class="btn btn-sm btn-primary text-decoration-none ms-3">
+            <i class="fas fa-download"></i>  <i class="fas fa-file-csv"></i>
+          </a>
         </div>
       </h1>
     </div>
@@ -99,7 +103,7 @@
   <div class="modal-dialog modal-xl">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="staticBackdropLabel">Results on Map (In progress...)</h1>
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Results on Map</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body content">
@@ -111,7 +115,7 @@
             </div> Loading...
           </div>
         </div>
-        <div id="map" style="height: 60vh !important;"></div>
+        <div id="mapGeneral" style="height: 60vh !important;"></div>
       </div>
     </div>
   </div>

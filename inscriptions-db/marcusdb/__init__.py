@@ -36,6 +36,7 @@ def create_app(test_config=None):
 
     from . import search
     app.add_url_rule('/results', 'results', search.results)
+    app.add_url_rule('/query.csv', 'query_csv', search.downloadCSV)
     app.add_url_rule('/map_results', 'map_results', search.getAllLatLang)
 
     from . import item

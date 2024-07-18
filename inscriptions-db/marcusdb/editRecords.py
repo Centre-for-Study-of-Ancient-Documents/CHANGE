@@ -3,24 +3,64 @@ from flask import render_template, current_app, request, jsonify
 import pysolr
 
 # ====================================================================================================
-# Lat lng
-def results():
+solr_fields = [
+        "region",
+        "city",
+        "place_of_publication",
+        "place_of_conception",
+        "place_of_transaction",
+        "lat",
+        "long",
+        "reference",
+        "reference_num",
+        "reference_2",
+        "reference_num_2",
+        "reference_3",
+        "reference_num_3",
+        "bib_url",
+        "date_from",
+        "date_to",
+        "description",
+        "phi_url",
+        "phi_url_2",
+        "phi_id",
+        "tm_id",
+        "doc_type",
+        "authority",
+        "activity",
+        "purpose",
+        "context",
+        "lines",
+        "material",
+        "nature",
+        "denomination",
+        "notes"
+    ]
+
+def edit_record(id):
     corename = current_app.config["SOLR_CORE"]
     solr = pysolr.Solr(corename)
 
-    # Get the search query from the request parameters
-    search_query = '*:*'
+    # Fetch the record from Solr
+    results = solr.search(f'id:{id}')
+    record = results.docs[0]
+    return render_template('edit_record.html', record=record, solr_fields = solr_fields)
 
-    results = solr.search(search_query, **{
-        'rows': 0
-    })
+def update_record(id):
+    corename = current_app.config["SOLR_CORE"]
+    solr = pysolr.Solr(corename, always_commit=True)
 
-    mapRes = solr.search(search_query, **{
-        'rows': results.hits
-    })
+    # Update the record in Solr
+    updated_data = request.form.to_dict()
+    updated_data['epigraphic_reference'] = updated_data['reference'] + ' ' + updated_data['reference_num']
+    updated_data['id'] = id
+    solr.add([updated_data])
 
-    #print('Map: ', list(mapRes)[0]['lat'], ' Hits: ', mapRes.hits, ' Results:', results.hits)
-    return jsonify({ 'results': list(mapRes) })
+    # Fetch the record from Solr
+    results = solr.search(f'id:{id}')
+    record = results.docs[0]
+
+    return render_template('edit_record.html', record=record, solr_fields = solr_fields, message = 'Record updated.')
 
 def login():
     # Process the POST data

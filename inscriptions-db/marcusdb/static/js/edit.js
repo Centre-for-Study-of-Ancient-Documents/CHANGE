@@ -29,7 +29,7 @@ function login(div) {
 
         $.ajax({
             type: 'POST',
-            url: '/login',
+            url: '/inscriptions/login',
             data: JSON.stringify(formData),
             contentType: 'application/json',
             dataType: 'json',

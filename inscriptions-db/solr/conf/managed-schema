@@ -455,18 +455,26 @@
   <field name="region" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="city" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="place_of_publication" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="place_of_conception" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="place_of_transaction" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="lat" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="long" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="location" type="location" uninvertible="false" indexed="true" stored="true"/>
   <field name="reference" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="reference_num" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="reference_2" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="reference_num_2" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="reference_3" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="reference_num_3" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="bib_url" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="date_from" type="pint" uninvertible="false" indexed="true" stored="true"/>
   <field name="date_to" type="pint" uninvertible="false" indexed="true" stored="true"/>
   <field name="description" type="text_en" uninvertible="false" indexed="true" stored="true"/>
   <field name="notes" type="text_en" uninvertible="false" indexed="true" stored="true"/>
   <field name="phi_url" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="phi_url_2" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="phi_id" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
+  <field name="tm_id" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="doc_type" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="authority" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
   <field name="activity" type="string" uninvertible="false" docValues="true" indexed="true" stored="true"/>
@@ -477,6 +485,8 @@
   <field name="material" type="string" uninvertible="false" indexed="true" stored="true"/>
   <field name="nature" type="string" uninvertible="false" indexed="true" stored="true"/>
   <field name="epigraphic_reference" type="string" uninvertible="false" indexed="true" stored="true"/>
+  <field name="epigraphic_reference_2" type="string" uninvertible="false" indexed="true" stored="true"/>
+  <field name="epigraphic_reference_3" type="string" uninvertible="false" indexed="true" stored="true"/>
 
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>

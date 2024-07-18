@@ -1,10 +1,53 @@
 
-from flask import render_template, current_app, request, jsonify
+from flask import render_template, current_app, request, jsonify, Response
 import pysolr
+import csv
+import io
 
 # Number of items per page
 ITEMS_PER_PAGE = 10
 TOKEN = 'pk.eyJ1IjoiaW1yYW5hc2lmIiwiYSI6ImNseDBjaTNtbTA1dDcyaXNjdjJsa2tlbWIifQ.2_kCycbjY-7_LrlucTewZw'
+
+def downloadCSV():
+    corename = current_app.config["SOLR_CORE"]
+
+    solr = pysolr.Solr(corename)
+    # results = solr.search('city:Sardis')
+
+    # Get the search query from the request parameters
+    search_query = buildSearchQuery(request)
+
+    print('Download CSV: ', search_query)
+
+    # Perform the Solr query with pagination parameters
+    results = solr.search(search_query, **{
+       'rows': 0
+    })
+
+    # Calculate the total number of pages
+    total_results = results.hits
+
+    # Perform the Solr query with pagination parameters
+    results = solr.search(search_query, **{
+        'rows': total_results,
+        'sort': ''
+    })
+
+    output = io.StringIO()
+    writer = csv.writer(output)
+    
+    if results.docs:
+        writer.writerow(results.docs[0].keys())  # Write the headers from the first document
+    
+    for doc in results.docs:
+        writer.writerow(doc.values())
+    
+    output.seek(0)
+    
+    response = Response(output, mimetype='text/csv')
+    response.headers.set('Content-Disposition', 'attachment', filename='results.csv')
+    return response
+
 
 def results():
     corename = current_app.config["SOLR_CORE"]
@@ -48,7 +91,7 @@ def results():
                 list(range(page - 2, page + 3)) + ['...', total_pages]
 
     # GET all filters values
-    filters = getAllFilters(solr)
+    filters = getAllFilters(solr, search_query, total_results)
 
     # results = solr.search('*',rows=3000)
     return render_template('results.html', res=list(results), filters=filters, page=page, total_pages=total_pages, page_numbers=page_numbers)
@@ -104,19 +147,19 @@ def fullTextQuery(txt):
 
 # ====================================================================================================
 # Filters
-def getAllFilters(solr):
-    regions = getAllRowsByField(solr, 'region')
-    cities = getAllRowsByField(solr, 'city')
-    docTypes = getAllRowsByField(solr, 'doc_type')
-    epigraphic_references = getAllRowsByField(solr, 'epigraphic_reference')
-    activities = getAllRowsByField(solr, 'activity')
-    authorities = getAllRowsByField(solr, 'authority')
-    purposes = getAllRowsByField(solr, 'purpose')
-    contextes = getAllRowsByField(solr, 'context')
-    lines = getAllRowsByField(solr, 'lines')
-    materials = getAllRowsByField(solr, 'material')
-    natures = getAllRowsByField(solr, 'nature')
-    denominations = getAllRowsByField(solr, 'denomination')
+def getAllFilters(solr, search_query, total_results):
+    regions = getAllRowsByField(solr, 'region', search_query)
+    cities = getAllRowsByField(solr, 'city', search_query)
+    docTypes = getAllRowsByField(solr, 'doc_type', search_query)
+    epigraphic_references = getAllRowsByField(solr, 'epigraphic_reference', search_query)
+    activities = getAllRowsByField(solr, 'activity', search_query)
+    authorities = getAllRowsByField(solr, 'authority', search_query)
+    purposes = getAllRowsByField(solr, 'purpose', search_query)
+    contextes = getAllRowsByField(solr, 'context', search_query)
+    lines = getAllRowsByField(solr, 'lines', search_query)
+    materials = getAllRowsByField(solr, 'material', search_query)
+    natures = getAllRowsByField(solr, 'nature', search_query)
+    denominations = getAllRowsByField(solr, 'denomination', search_query)
 
     #print("**** epigraphic_references: " )
     ##print(len(epigraphic_references))
@@ -139,8 +182,8 @@ def getAllFilters(solr):
 
     return filters
     
-def getAllRowsByField(solr, field):
-    results = solr.search('*:*', **{
+def getAllRowsByField(solr, field, search_query):
+    results = solr.search(search_query, **{
         'facet': 'true',
         'facet.field': field,
         'facet.limit': -1,  # Set to -1 to get all distinct values
