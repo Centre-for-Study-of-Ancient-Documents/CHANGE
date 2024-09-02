@@ -320,11 +320,9 @@
          });
       });
 
-      function downloadCSV() {
-         // console.log(location.host)
-         // console.log(location.pathname)
-         // console.log(location.search)
-         // let href = `https://${location.host}/inscriptions/query.csv${location.search}`
+      function downloadCSV(ele) {
+
+         $(`#${ele.getAttribute('id')}`).addClass('disabled')
 
          $.ajax({
             url: `/inscriptions/query.csv${location.search}`,
@@ -350,6 +348,7 @@
                link.click();
                window.URL.revokeObjectURL(url);
                document.body.removeChild(link);
+               $(`#${ele.getAttribute('id')}`).removeClass('disabled')
             },
             error: function () {
                alert('Failed to download CSV.');

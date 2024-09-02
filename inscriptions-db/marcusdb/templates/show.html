@@ -9,28 +9,34 @@
 <div class="row">
     <div class="col-md-6 order-md-1 order-sm-2 order-2 mt-2">
         <dl class="row p-0 m-0 text-wrap">
-        {% for f in fields %}
+            {% for f in fields %}
             {% if (item[f]) %}
-                {% if 'http' in item[f] and not 'place_of_publication' in f %}
-                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">{{ f | replace('_', ' ') }}:</dt>
-                <dd class="col-md-9 col-sm-9 col-9 text-wrap text-break"><a href="{{item[f]}}" target="_blank">{{item[f]}} <i class="fas fa-external-link-alt"></i></a></dd>
-                {% elif 'place_of_publication' in f or 'lat' in f or 'long' in f or 'epigraphic_reference' in f %}
-                <span></span>
-                {% elif 'city' in f %}
-                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">City:</dt>
-                <dd class="col-md-9 col-sm-9 col-9"><a href="{{item['place_of_publication']}}" target="_blank">{{item['city']}} <i class="fas fa-external-link-alt"></i></a></dd>
-                {% elif 'phi_id' in f %}
-                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">PHI ID:</dt>
-                <dd class="col-md-9 col-sm-9 col-9"><a href="https://epigraphy.packhum.org/text/{{item['phi_id']}}" target="_blank">{{item['phi_id']}} <i class="fas fa-external-link-alt"></i></a></dd>
-                {% elif 'tm_id' in f %}
-                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">TM ID:</dt>
-                <dd class="col-md-9 col-sm-9 col-9"><a href="https://www.trismegistos.org/text/{{item['tm_id']}}" target="_blank">{{item['tm_id']}} <i class="fas fa-external-link-alt"></i></a></dd>
-                {% else %}
-                <dt class="col-md-3 col-sm-3 col-3 text-capitalize">{{ f | replace('_', ' ') }}:</dt>
-                <dd class="col-md-9 col-sm-9 col-9 text-wrap text-break">{{ item[f] }}</dd>
-                {% endif %}
+            {% if 'http' in item[f] and not 'place_of_publication' in f %}
+            <dt class="col-lg-4 col-md-12 col-sm-12 col-12 text-capitalize">{{ f | replace('_', ' ') }}:</dt>
+            <dd class="col-lg-8 col-md-12 col-sm-12 col-12 text-wrap text-break"><a href="{{item[f]}}"
+                    target="_blank">{{item[f]}} <i class="fas fa-external-link-alt"></i></a></dd>
+            {% elif 'place_of_publication' in f or 'lat' in f or 'long' in f or 'epigraphic_reference' in f %}
+            <span></span>
+            {% elif 'city' in f %}
+            <dt class="col-lg-4 col-md-12 col-sm-12 col-12 text-capitalize">City:</dt>
+            <dd class="col-lg-8 col-md-12 col-sm-12 col-12"><a href="{{item['place_of_publication']}}"
+                    target="_blank">{{item['city']}} <i class="fas fa-external-link-alt"></i></a></dd>
+            {% elif 'phi_id' in f %}
+            <dt class="col-lg-4 col-md-12 col-sm-12 col-12 text-capitalize">PHI ID:</dt>
+            <dd class="col-lg-8 col-md-12 col-sm-12 col-12"><a
+                    href="https://epigraphy.packhum.org/text/{{item['phi_id']}}" target="_blank">{{item['phi_id']}} <i
+                        class="fas fa-external-link-alt"></i></a></dd>
+            {% elif 'tm_id' in f %}
+            <dt class="col-lg-4 col-md-12 col-sm-12 col-12 text-capitalize">TM ID:</dt>
+            <dd class="col-lg-8 col-md-12 col-sm-12 col-12"><a
+                    href="https://www.trismegistos.org/text/{{item['tm_id']}}" target="_blank">{{item['tm_id']}} <i
+                        class="fas fa-external-link-alt"></i></a></dd>
+            {% else %}
+            <dt class="col-lg-4 col-md-12 col-sm-12 col-12 text-capitalize">{{ f | replace('_', ' ') }}:</dt>
+            <dd class="col-lg-8 col-md-12 col-sm-12 col-12 text-wrap text-break">{{ item[f] }}</dd>
             {% endif %}
-        {% endfor %}
+            {% endif %}
+            {% endfor %}
         </dl>
 
         <a id="btnEdit" href="/inscriptions/edit_record/{{item.id}}" class="btn btn-primary d-none mt-3">
@@ -39,6 +45,46 @@
     </div>
     <div class="col-md-6 order-md-2 order-sm-1 order-1">
         <div id="map"></div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12 mt-3" id="divOtherRelations">
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <hr />
+        <h3 class="mt-2">Associated Data</h3>
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>AUTHORITY</th>
+                    <th>ACTIVITY</th>
+                    <th>PURPOSE/FOCUS</th>
+                    <th>CONTEXT/FIELD OF ACTION</th>
+                    <th>LINES</th>
+                    <th>MATERIAL</th>
+                    <th>NATURE</th>
+                    <th>DENOMINATION</th>
+                    <th>NOTES</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for activity in activities %}
+                <tr>
+                    <td>{{activity['authority']}}</td>
+                    <td>{{activity['activity']}}</td>
+                    <td>{{activity['purpose']}}</td>
+                    <td>{{activity['context']}}</td>
+                    <td>{{activity['lines']}}</td>
+                    <td>{{activity['material']}}</td>
+                    <td>{{activity['nature']}}</td>
+                    <td>{{activity['denomination']}}</td>
+                    <td>{{activity['notes']}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
     </div>
 </div>
 <script>
@@ -55,13 +101,101 @@
     // }).addTo(map);
 
     L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token=' + mapboxToken, {
-            attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            tileSize: 512,
-            zoomOffset: -1
-        }).addTo(map);
+        attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        tileSize: 512,
+        zoomOffset: -1
+    }).addTo(map);
 
     var marker = L.marker([latitude, longitude]).addTo(map)
         .bindPopup('{{ item.city}}: {{item.date_from}} To {{item.date_to}} {{item.description}}')
         .openPopup();
+
+    //////////////////////////////////////////////////////////////
+    /// Getting Other Relations
+    var tm_Id = {{ item.tm_id }}
+    // $.ajax({
+    //         url: `/inscriptions/relation/${tm_Id}`,
+    //         type: 'GET',
+    //         success: function (data) {
+    //            // Append the new data
+    //             console.log(data)
+    //         },
+    //         error: function (error) {
+    //            console.error('Error:', error);
+    //         }
+    //      });
+
+    // Create a new XMLHttpRequest object
+    const xhr = new XMLHttpRequest();
+
+    // Configure it: GET-request for the URL /get_filtered_data
+    xhr.open('GET', `/inscriptions/relation/${tm_Id}`, true);
+
+    // Set up the onload event handler
+    xhr.onload = function () {
+        if (xhr.status >= 200 && xhr.status < 300) {
+            // Parse the JSON response
+            const response = JSON.parse(xhr.responseText);
+            // Display the result in the pre tag
+            //resultElement.textContent = JSON.stringify(response, null, 2);
+
+            console.log(response)
+            displayRelationsInBullets(response)
+
+        } else {
+            console.error('There was an error fetching the data:', xhr.statusText);
+        }
+    };
+
+    // Set up the onerror event handler
+    xhr.onerror = function () {
+        console.error('Request failed');
+    };
+
+    // Send the request
+    xhr.send();
+
+    function displayRelationsInBullets(data) {
+        const container = document.getElementById('divOtherRelations');
+
+        // Iterate over each key in the JSON data
+        for (const key in data) {
+            if (key !== 'PHI' && key !== 'TM_ID') {
+                if (data.hasOwnProperty(key)) {
+                    // Create a header for the key
+                    const header = document.createElement('h5');
+                    header.textContent = key + ":";
+                    container.appendChild(header);
+
+                    // Create an unordered list
+                    const ul = document.createElement('ul');
+
+                    // Iterate over each URL in the array
+                    data[key].forEach(url => {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        a.href = url;
+                        a.textContent = url + ' ';
+                        a.target = '_blank'; // Open link in a new tab
+                        let icon = document.createElement('i') // <i class="fas fa-external-link-alt"></i>
+                        icon.className = 'fas fa-external-link-alt'
+                        a.appendChild(icon)
+                        li.appendChild(a);
+                        ul.appendChild(li);
+                    });
+
+                    // Append the list to the container
+                    container.appendChild(ul);
+                }
+            }
+        }
+        /////////////////////////////////
+        if(container.children.length > 0){
+            let newHeading = document.createElement('h3')
+            newHeading.textContent = 'Relations '
+            newHeading.className = 'border-top pt-2'
+            container.insertBefore(newHeading, container.firstChild)
+        }
+    }
 </script>
 {% endblock %}

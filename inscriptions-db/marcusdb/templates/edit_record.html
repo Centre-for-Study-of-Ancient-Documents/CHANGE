@@ -17,7 +17,7 @@
         <form action="/inscriptions/edit_record/{{record['id']}}" method="POST">
             {% for field in solr_fields %}
             <div class="mb-3">
-                <label for="{{ field }}" class="form-label">{{ field }}:</label>
+                <label for="{{ field }}" class="form-label text-capitalize">{{ field | replace('_', ' ') }}:</label>
                 <input type="text" class="form-control" id="{{ field }}" name="{{ field }}"
                     value="{{ record[field] }}" />
             </div>

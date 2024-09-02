@@ -17,7 +17,7 @@
             Map Results
           </a>
 
-          <a id="btnDownloadCSV" type="button" title="Download CSV" onclick="downloadCSV()" class="btn btn-sm btn-primary text-decoration-none ms-3">
+          <a id="btnDownloadCSV" type="button" title="Download CSV" onclick="downloadCSV(this)" class="btn btn-sm btn-primary text-decoration-none ms-3">
             <i class="fas fa-download"></i>  <i class="fas fa-file-csv"></i>
           </a>
         </div>
@@ -68,12 +68,14 @@
           <dd class="col-md-10">{{item.date_from}} To {{item.date_to}}</dd>
           <dt class="col-md-2">Region</dt>
           <dd class="col-md-10">{{item.region}}</dd>
-          <dt class="col-md-2">Authority</dt>
+          <!-- <dt class="col-md-2">Authority</dt>
           <dd class="col-md-10">{{ item.authority if item.authority else 'N/A'  }}</dd>
           <dt class="col-md-2">Activity</dt>
-          <dd class="col-md-10">{{item.activity if item.activity else 'N/A'}}</dd>
+          <dd class="col-md-10">{{item.activity if item.activity else 'N/A'}}</dd> -->
           <dt class="col-md-2">Reference</dt>
-          <dd class="col-md-10">{{item.reference}}</dd>
+          <dd class="col-md-10">{{item.reference_in_full}}</dd>
+          <dt class="col-md-2">Bibliography</dt>
+          <dd class="col-md-10"><a href="{{item.bib_url}}" target="_blank">{{item.bib_url}} <i class="fas fa-external-link-alt"></i></a></dd>
         </dl>
       </div>
     </div>

@@ -41,6 +41,7 @@ def create_app(test_config=None):
 
     from . import item
     app.add_url_rule('/item/<id>', 'item', item.show)
+    app.add_url_rule('/relation/<tm_id>', 'relation', item.getOtherDatasourceRelations)
 
     from . import editRecords
     app.add_url_rule('/edit_record/<id>', 'update_record', editRecords.update_record, methods=['POST'])
