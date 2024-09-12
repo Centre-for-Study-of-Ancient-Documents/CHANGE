@@ -1,4 +1,4 @@
-<div class="position-sticky" style="margin-top: 2rem !important; top:80px !important;">
+<div id="divFilter" class="position-sticky overflow-height" style="margin-top: 2rem !important; top:80px !important;">
     <!-- height: 80vh !important; overflow-y: auto !important; overflow-x: hidden !important; z-index: 10000 !important; -->
     <div class="row">
         <div class="col-md-12 border-bottom">
@@ -16,14 +16,14 @@
             </div>
         </form>
 
-        <form class="col-md-12" {{ url_for('results') }} method="GET" id="qs_form">
+        <form id="frmFilters" class="col-md-12" {{ url_for('results') }} method="GET" id="qs_form">
             <input type="hidden" name="q" id="hidQuery" />
             <h4>Refine Results:</h4>
 
             <div class="mb-2">
                 <label class="text-capitalize form-labe;">Region</label>
                 <select class="selectpicker form-control" id="selRegion" name="region" multiple data-live-search="true"
-                    data-selected-text-format="count > 3" data-size="5" onchange="this.form.submit()">
+                    data-selected-text-format="count > 3" data-size="5" data-container="body">
                     {% for i in range(0, filters.regions|length, 2) %}
                     {% if filters.regions[i+1] > 0 %}
                     <option value="{{filters.regions[i]}}" data-subtext="({{ filters.regions[i+1] }})">{{
@@ -36,7 +36,7 @@
             <div class="mb-2">
                 <label class="text-capitalize form-labe;">City</label>
                 <select class="selectpicker form-control" id="selCity" name="city" multiple data-live-search="true"
-                    data-selected-text-format="count > 3" data-size="5" onchange="this.form.submit()">
+                    data-selected-text-format="count > 3" data-size="5" data-container="body">
                     {% for i in range(0, filters.cities|length, 2) %}
                     {% if filters.cities[i+1] > 0 %}
                     <option value="{{filters.cities[i]}}" data-subtext="({{ filters.cities[i+1] }})">{{
@@ -47,7 +47,12 @@
             </div>
 
             <div class="mb-2">
-                <label class="text-capitalize form-labe;">Date</label>
+                <label class="text-capitalize form-labe;">Date
+                    <div class="form-check form-switch float-end ms-2">
+                        <input class="form-check-input" type="checkbox" role="switch" id="rdoDateOption" name="rdoDateOption" value="Exclusive" checked disabled onchange="$(this).val(this.checked ? 'Exclusive': 'Inclusive'); $(this).next().html(this.checked ? 'Exclusive': 'Inclusive')">
+                        <label class="form-check-label" for="flexSwitchCheckChecked">Exclusive</label>
+                    </div>
+                  </label>
                 <div class="row p-0">
                     <div class="col-5 col-md-5">
                         <input class="form-control date" type="number" id="date_from" name="date_from"
@@ -68,7 +73,7 @@
                 <label class="text-capitalize form-labe;">date certainty</label>
                 <select class="selectpicker form-control" id="selDate_cert" name="date_cert" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                    data-container="body">
                     {% for i in range(0, filters.dateCertains|length, 2) %}
                     {% if filters.dateCertains[i+1] > 0 %}
                     <option value="{{filters.dateCertains[i]}}" data-subtext="({{ filters.dateCertains[i+1] }})">{{
@@ -82,7 +87,7 @@
                 <label class="text-capitalize form-labe;">document type</label>
                 <select class="selectpicker form-control" id="selDoc_type" name="doc_type" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                    data-container="body">
                     {% for i in range(0, filters.docTypes|length, 2) %}
                     {% if filters.docTypes[i+1] > 0 %}
                     <option value="{{filters.docTypes[i]}}" data-subtext="({{ filters.docTypes[i+1] }})">{{
@@ -96,7 +101,7 @@
                 <label class="text-capitalize form-labe;">epigraphic reference</label>
                 <select class="selectpicker form-control" id="selEpigraphic_reference" name="epigraphic_reference"
                     multiple data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                    data-container="body">
                     {% for i in range(0, filters.epigraphic_references|length, 2) %}
                     {% if filters.epigraphic_references[i+1] > 0 %}
                     <option value="{{filters.epigraphic_references[i]}}"
@@ -111,7 +116,7 @@
                 <label class="text-capitalize form-labe;">Authority</label>
                 <select class="selectpicker form-control" id="selAuthority" name="authority" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                   >
                     {% for i in range(0, filters.authorities|length, 2) %}
                     {% if filters.authorities[i+1] > 0 %}
                     <option value="{{filters.authorities[i]}}" data-subtext="({{ filters.authorities[i+1] }})">{{
@@ -125,7 +130,7 @@
                 <label class="text-capitalize form-labe;">Activity</label>
                 <select class="selectpicker form-control" id="selActivity" name="activity" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                   >
                     {% for i in range(0, filters.activities|length, 2) %}
                     {% if filters.activities[i+1] > 0 %}
                     <option value="{{filters.activities[i]}}" data-subtext="({{ filters.activities[i+1] }})">{{
@@ -139,7 +144,7 @@
                 <label class="text-capitalize form-labe;">Purpose/Focus</label>
                 <select class="selectpicker form-control" id="selPurpose" name="purpose" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                    data-container="body">
                     {% for i in range(0, filters.purposes|length, 2) %}
                     {% if filters.purposes[i+1] > 0 %}
                     <option value="{{filters.purposes[i]}}" data-subtext="({{ filters.purposes[i+1] }})">{{
@@ -153,7 +158,7 @@
                 <label class="text-capitalize form-labe;">Context/Field of Action</label>
                 <select class="selectpicker form-control" id="selContext" name="context" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                    data-container="body">
                     {% for i in range(0, filters.contextes|length, 2) %}
                     {% if filters.contextes[i+1] > 0 %}
                     <option value="{{filters.contextes[i]}}" data-subtext="({{ filters.contextes[i+1] }})">{{
@@ -166,7 +171,7 @@
             <div class="mb-2">
                 <label class="text-capitalize form-labe;">Lines</label>
                 <select class="selectpicker form-control" id="selLines" name="lines" multiple data-live-search="true"
-                    data-selected-text-format="count > 3" data-size="5" onchange="this.form.submit()">
+                    data-selected-text-format="count > 3" data-size="5" data-container="body">
                     {% for i in range(0, filters.lines|length, 2) %}
                     {% if filters.lines[i+1] > 0 %}
                     <option value="{{filters.lines[i]}}" data-subtext="({{ filters.lines[i+1] }})">{{ filters.lines[i]
@@ -181,7 +186,7 @@
                 <!-- <label class="text-capitalize form-labe;">Material</label> WE use this in the database-->
                 <select class="selectpicker form-control" id="selMaterial" name="material" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                    data-container="body">
                     {% for i in range(0, filters.materials|length, 2) %}
                     {% if filters.materials[i+1] > 0 %}
                     <option value="{{filters.materials[i]}}" data-subtext="({{ filters.materials[i+1] }})">{{
@@ -195,7 +200,7 @@
                 <!-- <label class="text-capitalize form-labe;">Nature</label> -->
                 <label class="text-capitalize form-labe;">Monetary Material</label>
                 <select class="selectpicker form-control" id="selNature" name="nature" multiple data-live-search="true"
-                    data-selected-text-format="count > 3" data-size="5" onchange="this.form.submit()">
+                    data-selected-text-format="count > 3" data-size="5" data-container="body">
                     {% for i in range(0, filters.natures|length, 2) %}
                     {% if filters.natures[i+1] > 0 %}
                     <option value="{{filters.natures[i]}}" data-subtext="({{ filters.natures[i+1] }})">{{
@@ -209,7 +214,7 @@
                 <label class="text-capitalize form-labe;">Coin Denomination/Unit of Monetary Measurement</label>
                 <select class="selectpicker form-control" id="selDenomination" name="denomination" multiple
                     data-live-search="true" data-selected-text-format="count > 3" data-size="5"
-                    onchange="this.form.submit()">
+                    data-container="body">
                     {% for i in range(0, filters.denominations|length, 2) %}
                     {% if filters.denominations[i+1] > 0 %}
                     <option value="{{filters.denominations[i]}}" data-subtext="({{ filters.denominations[i+1] }})">{{

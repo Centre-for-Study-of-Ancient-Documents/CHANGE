@@ -1,2 +1,5 @@
 flask
 pysolr
+pandas
+openpyxl
+lxml

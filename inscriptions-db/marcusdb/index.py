@@ -135,6 +135,7 @@ ln = 0
 sectionId = ''
 stored = {}
 docs = []
+mainPlaceOfPublication = ''
 
 # Print to stderr
 def printe(*args, **kwargs):
@@ -160,7 +161,7 @@ def mkdoc(l, s):
     return out
 
 def process_entry(l):
-    global processed, stored, docs
+    global processed, stored, docs, mainPlaceOfPublication
     if l[REGION]:
         stored[REGION] = fix_region(l[REGION])
         #print(stored[REGION])
@@ -169,19 +170,15 @@ def process_entry(l):
     if l[CITY]:
         stored[CITY] = l[CITY]
         stored[PLACE_OF_PUBLICATION] = str(l[PLACE_OF_PUBLICATION])
+        mainPlaceOfPublication = stored[PLACE_OF_PUBLICATION]
+
+        stored[PLACE_OF_CONCEPTION] = ""
+        stored[PLACE_OF_TRANSACTION] = ""
 
         if l[PLACE_OF_CONCEPTION] != "":
             stored[PLACE_OF_CONCEPTION] = str(l[PLACE_OF_CONCEPTION])
         if l[PLACE_OF_TRANSACTION] != "":    
             stored[PLACE_OF_TRANSACTION] = str(l[PLACE_OF_TRANSACTION])
-        if l[REGION_SPECIFIED] != "":    
-            stored[REGION_SPECIFIED] = str(l[REGION_SPECIFIED])
-        if l[MISCELLANEOUS_NOTES_ON_EDITIONS] != "":    
-            stored[MISCELLANEOUS_NOTES_ON_EDITIONS] = str(l[MISCELLANEOUS_NOTES_ON_EDITIONS])
-        if l[MULTIPLES] != "":    
-            stored[MULTIPLES] = str(l[MULTIPLES])
-        if l[DUPLICATES] != "":    
-            stored[DUPLICATES] = str(l[DUPLICATES])
 
         stored[LAT] = str(l[LAT])
         stored[LONG] = str(l[LONG])
@@ -191,6 +188,32 @@ def process_entry(l):
         stored[REF] = l[REF]
         stored[REF_NUM] = l[REF_NUM]
         stored[COMBINED_REF] = l[REF] + ' ' + l[REF_NUM]
+
+        stored[MISCELLANEOUS_NOTES_ON_EDITIONS] = ""
+        stored[MULTIPLES] = ""
+        stored[DUPLICATES] = ""
+        stored[REGION_SPECIFIED] = ""
+
+        if l[PLACE_OF_PUBLICATION] != stored[PLACE_OF_PUBLICATION]:
+            if l[PLACE_OF_PUBLICATION] != "":
+                stored[PLACE_OF_PUBLICATION] = str(l[PLACE_OF_PUBLICATION])
+            else:
+                stored[PLACE_OF_PUBLICATION] = mainPlaceOfPublication
+
+        if l[PLACE_OF_CONCEPTION] != stored[PLACE_OF_CONCEPTION]:
+            stored[PLACE_OF_CONCEPTION] = str(l[PLACE_OF_CONCEPTION])
+
+        if l[PLACE_OF_TRANSACTION] != stored[PLACE_OF_TRANSACTION]:    
+            stored[PLACE_OF_TRANSACTION] = str(l[PLACE_OF_TRANSACTION])
+
+        if l[MISCELLANEOUS_NOTES_ON_EDITIONS] != "":    
+            stored[MISCELLANEOUS_NOTES_ON_EDITIONS] = str(l[MISCELLANEOUS_NOTES_ON_EDITIONS])
+        if l[MULTIPLES] != "":    
+            stored[MULTIPLES] = str(l[MULTIPLES])
+        if l[DUPLICATES] != "":    
+            stored[DUPLICATES] = str(l[DUPLICATES])
+        if l[REGION_SPECIFIED] != "":    
+            stored[REGION_SPECIFIED] = str(l[REGION_SPECIFIED])
 
         if l[REF_2] != "":
             stored[REF_2] = l[REF_2]
@@ -259,6 +282,14 @@ def process_entry(l):
     else:
         if any(l[x] for x in activity_fields):
             #printe(ln, l[PURPOSE])
+            if l[PLACE_OF_CONCEPTION] != stored[PLACE_OF_CONCEPTION]:
+                if l[PLACE_OF_CONCEPTION] != "":
+                    stored[PLACE_OF_CONCEPTION] = str(l[PLACE_OF_CONCEPTION])
+
+            if l[PLACE_OF_TRANSACTION] != stored[PLACE_OF_TRANSACTION]:
+                if l[PLACE_OF_TRANSACTION] != "":
+                    stored[PLACE_OF_TRANSACTION] = str(l[PLACE_OF_TRANSACTION])
+                
             docs.append(mkdoc(l, stored))
             processed += 1
 

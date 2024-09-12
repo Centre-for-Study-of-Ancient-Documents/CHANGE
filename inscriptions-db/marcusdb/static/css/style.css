@@ -66,3 +66,13 @@
    text-align: center;
    color: rgb(255, 255, 255);
 }
+
+#tblAssociatedData th, td{
+   white-space: nowrap !important; /* Prevent wrapping */
+}
+
+.overflow-height{
+   overflow-y: auto;
+   overflow-x: hidden;
+   height: 90vh;
+}

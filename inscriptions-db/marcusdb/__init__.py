@@ -36,8 +36,14 @@ def create_app(test_config=None):
 
     from . import search
     app.add_url_rule('/results', 'results', search.results)
-    app.add_url_rule('/query.csv', 'query_csv', search.downloadCSV)
+    #app.add_url_rule('/filters', 'filters', search.getAllFilters)
     app.add_url_rule('/map_results', 'map_results', search.getAllLatLang)
+
+    from. import download
+    app.add_url_rule('/query.csv', 'query_csv', download.downloadCSV)
+    app.add_url_rule('/query.xlsx', 'query_xlsx', download.downloadExcel)
+    app.add_url_rule('/query.xml', 'query_xml', download.downloadXML)
+    app.add_url_rule('/query.json', 'query_json', download.downloadJSON)
 
     from . import item
     app.add_url_rule('/item/<id>', 'item', item.show)

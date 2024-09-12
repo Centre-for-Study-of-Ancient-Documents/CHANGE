@@ -42,7 +42,18 @@ def show(id):
             orig_dict['place_of_transaction'] = str(data['place_of_publication'])
 
     query = f'inscription:"{data["inscription"]}"'
-    activities = solr.search(query)
+    activities = solr.search(query, **{
+        'rows': 0
+    })
+
+    activities = solr.search(query, **{
+        'rows': activities.hits
+    })
+
+    print(activities.docs)
+
+    if not any(any(key in d for key in activity_fields.keys()) for d in activities.docs):
+        activities = []
 
     return render_template('show.html', item=orig_dict, activities=list(activities), activity_fields=activity_fields, fields=fields, mapbox_token = TOKEN)
 

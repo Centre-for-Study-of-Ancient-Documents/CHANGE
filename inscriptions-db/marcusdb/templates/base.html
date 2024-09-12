@@ -34,8 +34,8 @@
    <link rel="shortcut icon" href="/inscriptions/static/favicon.ico" />
 
    <style>
-      
-  </style>
+
+   </style>
 
 </head>
 
@@ -95,7 +95,8 @@
                </div>
                <div class="modal-body content" style="min-height: 80vh;">
                   <!-- <canvas id="pdf-viewer"></canvas> -->
-                  <iframe style="width: 100%; height: 80vh;" src="/inscriptions/static/pdfjs-4.4.168-dist/web/viewer.html?file=/inscriptions/static/data/definitions.pdf"></iframe>
+                  <iframe style="width: 100%; height: 80vh;"
+                     src="/inscriptions/static/pdfjs-4.4.168-dist/web/viewer.html?file=/inscriptions/static/data/definitions.pdf"></iframe>
                </div>
             </div>
          </div>
@@ -148,11 +149,34 @@
          return params;
       }
 
+      function removeSelectedOptions(ele, id, value) {
+         if (id === 'date') {
+            $('#date_from').val('');
+            $('#date_to').val('');
+         }
+         else if (value !== ''){
+            $(`#sel${firstLetterUpper(id)} option[value='${value.replaceAll("+", " ")}']`).prop("selected", false);
+         }
+         else{
+            $(`#sel${firstLetterUpper(id)}`).val('');
+         }
+         $('#frmFilters').submit();
+      }
+
+      function firstLetterUpper(txt) {
+         str = txt.toLowerCase().replace(/\b[a-z]/g, function (letter) {
+            return letter.toUpperCase();
+         });
+         return str
+      }
+
       $(document).ready(function () {
          var params = getQueryParams();
          //$('#btnRefineSearch').hide();
          $('#divOperator').hide();
+         var selectedOptions = [];
 
+         var mainContent = '';
          if (params.q) {
             $('.txtSearch').val(params.q[0].replaceAll('+', ' '))
          }
@@ -164,7 +188,12 @@
                      $(`#sel${firstLetterUpper(p)} option[value='${e.replaceAll("+", " ")}']`).prop("selected", true);
 
                      $(`#${p}`).val(e)
+
+                     buildSelectedOptions(p, e);
                   });
+
+                  // Check for date fields
+                  checkForDateFields(params);
 
                   // Refresh the dropdwon menu
                   $(`#sel${firstLetterUpper(p)}`).selectpicker("refresh");
@@ -179,31 +208,124 @@
             }
          }
 
+         //console.log(selectedOptions);
+         showSelectedOptions();
+
+         mainContent = $(".selectpicker").map(function (i, el) {
+            return $(el).val();
+         }).get();
+
          $('#btnRefineSearch').click(function () {
             $('#hidQuery').val($('#txtKeywords').val())
          })
 
-         function firstLetterUpper(txt) {
-            str = txt.toLowerCase().replace(/\b[a-z]/g, function (letter) {
-               return letter.toUpperCase();
-            });
-            return str
+         function buildSelectedOptions(p, v) {
+            if (p !== 'rdoDateOption') {
+               if (!Array.isArray(selectedOptions[p])) {
+                  selectedOptions[p] = [];
+               }
+               selectedOptions[p].push(v);
+            }
          }
+
+         function showSelectedOptions() {
+            let html = '';
+            let htmlDate = '';
+            if(Object.keys(selectedOptions).length === 0) return;
+
+            if (selectedOptions['date_from'][0] !== '' || selectedOptions['date_to'][0] !== '') {
+               let date_from = selectedOptions['date_from'][0] === '' ? '*' : selectedOptions['date_from'][0];
+               let date_to = selectedOptions['date_to'][0] === '' ? '*' : selectedOptions['date_to'][0];
+
+               htmlDate = `<div class="alert alert-primary alert-dismissible p-1 mb-1" role="alert">
+                           <strong>Year: </strong> [${date_from} TO ${date_to}]
+                           <button type="button" class="btn-close p-2" data-bs-dismiss="alert" aria-label="Close" onclick="removeSelectedOptions(this, 'date', '')"></button>
+                        </div>`
+            }
+
+            for (let key in selectedOptions) {
+               if (key === 'date_from' || key === 'date_to') continue;
+
+               let strong = `<strong class="text-capitalize">${firstLetterUpper(key).replaceAll('_', ' ')}:</strong> `;
+               if(key === 'material'){
+                  strong = `<strong>Commodity:</strong> `;
+               }
+               if(key === 'nature'){
+                  strong = `<strong>Monetary Material:</strong> `;
+               }
+               if(key === 'denomination'){
+                  strong = `<strong>Coin Denomination/Unit of Monetary Measurement:</strong> `;
+               }
+               let values = '';
+               for (let value of selectedOptions[key]) {
+                  if (value === '') continue;
+                  values += `<span> ${value.replaceAll("+", " ")} <i class="fas fa-times" style="cursor:pointer;" onclick="removeSelectedOptions(this, '${key}', '${value}')"></i> </span>`;
+               }
+               if (values !== '') {
+                  html += `<div class="alert alert-primary alert-dismissible p-1 mb-1" role="alert">
+                           <div style="width: 93%"> ${strong} ${values} </div>
+                           <button type="button" class="btn-close p-2" data-bs-dismiss="alert" aria-label="Close" onclick="removeSelectedOptions(this, '${key}', '')"></button>
+                        </div>`
+               }
+            }
+
+            html += htmlDate;
+
+            $('#divSelectedOptions').html(html);
+         }
+
+         function checkForDateFields(params) {
+            if ($('#date_from').val() !== '' && $('#date_to').val() !== '') {
+               if (params !== null) {
+                  if (params['rdoDateOption']) {
+                     $('#rdoDateOption').val('Exclusive');
+                     $('#rdoDateOption').next().html('Exclusive');
+                  }
+                  else {
+                     $('#rdoDateOption').removeAttr('checked');
+                     $('#rdoDateOption').val('Inclusive');
+                     $('#rdoDateOption').next().html('Inclusive');
+                  }
+               }
+
+               $('#rdoDateOption').removeAttr('disabled');
+            }
+            else {
+               $('#rdoDateOption').attr('disabled', 'disabled');
+            }
+         }
+
+
 
          $('.date').change(function () {
             //$('#btnRefineSearch').show();
+            checkForDateFields(null);
             $('#divOperator').show();
          });
 
-         $('.selectpicker').on('changed.bs.select', function () {
+         $('.selectpicker').on('changed.bs.select', function (e, clickedIndex, isSelected, previousValue) {
             isFiltersSelected()
          });
+
+         $('.selectpicker').on('hidden.bs.select', function (e) {
+            let values = $(".selectpicker").map(function (i, el) {
+               return $(el).val();
+            }).get();
+
+            if (values.length > 0) {
+               if (JSON.stringify(mainContent) !== JSON.stringify(values)) {
+                  $('#frmFilters').submit();
+               }
+            }
+         });
+
 
          function isFiltersSelected() {
             var all = $(".filter-option-inner-inner").map(function () {
                if (this.innerHTML !== 'Nothing selected')
                   return this.innerHTML;
             }).get();
+
 
             if (all.length > 0) {
                //$('#btnRefineSearch').show();
@@ -318,19 +440,27 @@
                }
             }, 500);
          });
+
       });
 
-      function downloadCSV(ele) {
+      function downloadFile(ele, format) {
+         //$(ele).addClass('disabled')
+         $('.dropdown-menu-end').removeClass('show')
+         $('.btnSpinner').toggleClass('disabled', '')
+         $('.spinnerLoader').toggleClass('d-none', '')
+         $('.spinnerLoader').toggleClass('', 'd-none')
 
-         $(`#${ele.getAttribute('id')}`).addClass('disabled')
+         var responseType = format === 'json' || format === 'xml' ? '' : 'blob';
+         var dataType = format === 'json' || format === 'xml' ? 'text' : '';
 
          $.ajax({
-            url: `/inscriptions/query.csv${location.search}`,
+            url: `/inscriptions/query.${format}${location.search}`,
             type: 'GET',
             //data: { query: query },
             xhrFields: {
-               responseType: 'blob'
+               responseType: responseType
             },
+            dataType: dataType,
             success: function (response, status, xhr) {
                var filename = "";
                var disposition = xhr.getResponseHeader('Content-Disposition');
@@ -340,18 +470,31 @@
                   if (matches != null && matches[1]) filename = matches[1].replace(/['"]/g, '');
                }
 
+               if (format === 'json' || format === 'xml') {
+                  var blob = new Blob([response], { type: xhr.getResponseHeader('Content-Type') });
+                  var url = window.URL.createObjectURL(blob);
+               }
+               else {
+                  var url = window.URL.createObjectURL(response);
+               }
                var link = document.createElement('a');
-               var url = window.URL.createObjectURL(response);
                link.href = url;
                link.download = filename;
                document.body.appendChild(link);
                link.click();
                window.URL.revokeObjectURL(url);
                document.body.removeChild(link);
-               $(`#${ele.getAttribute('id')}`).removeClass('disabled')
+               //$(`#${ele.getAttribute('id')}`).removeClass('disabled')
+               $('.btnSpinner').toggleClass('disabled', '')
+               $('.spinnerLoader').toggleClass('', 'd-none')
+               $('.spinnerLoader').toggleClass('d-none', '')
             },
-            error: function () {
-               alert('Failed to download CSV.');
+            error: function (err) {
+               console.log(err)
+               alert('Failed to download.');
+               $('.btnSpinner').toggleClass('disabled', '')
+               $('.spinnerLoader').toggleClass('', 'd-none')
+               $('.spinnerLoader').toggleClass('d-none', '')
             }
          });
       }
